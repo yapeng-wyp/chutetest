@@ -1,0 +1,241 @@
+2021-11-03T01:23:25+00:00 CRITICAL Uncaught Error: Call to a member function add_fee() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1377
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1400): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1377
+
+2021-11-03T01:23:26+00:00 CRITICAL Uncaught Error: Call to a member function add_fee() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1377
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1400): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1377
+
+2021-11-03T01:24:10+00:00 CRITICAL Uncaught Error: Call to a member function add_fee() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1377
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1401): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1377
+
+2021-11-03T01:24:11+00:00 CRITICAL Uncaught Error: Call to a member function add_fee() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1377
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1401): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1377
+
+2021-11-03T01:24:36+00:00 CRITICAL Uncaught Error: Call to a member function add_fee() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1377
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1401): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1377
+
+2021-11-03T01:24:37+00:00 CRITICAL Uncaught Error: Call to a member function add_fee() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1377
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1401): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1377
+
+2021-11-03T01:47:31+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1380
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\pl dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1380
+
+2021-11-03T02:44:16+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1380
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\pl dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1380
+
+2021-11-03T02:44:19+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Simple as array in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1380
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\pl dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1380
+
+2021-11-03T03:07:25+00:00 CRITICAL Uncaught Error: Cannot access protected property WC_Product::$data in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1384
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\plug dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1384
+
+2021-11-03T03:09:31+00:00 CRITICAL Uncaught Error: Cannot access protected property WC_Product::$data in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1384
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\plug dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1384
+
+2021-11-03T03:09:34+00:00 CRITICAL Uncaught Error: Cannot access protected property WC_Product::$data in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1384
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\plug dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1384
+
+2021-11-03T03:39:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\plugins\wooc dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-03T03:52:13+00:00 CRITICAL Uncaught Error: Call to undefined function wcs_get_objects_property() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\p dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-03T03:52:16+00:00 CRITICAL Uncaught Error: Call to undefined function wcs_get_objects_property() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\p dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-03T05:15:20+00:00 CRITICAL Uncaught Error: Call to undefined function wcs_get_objects_property() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\p dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-03T05:17:13+00:00 CRITICAL Uncaught Error: Call to undefined function wcs_get_objects_property() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\p dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-03T05:17:14+00:00 CRITICAL Uncaught Error: Call to undefined function wcs_get_objects_property() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\p dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-03T05:20:36+00:00 CRITICAL Uncaught TypeError: Argument 3 passed to WooCommerce\PayPalCommerce\ApiClient\Endpoint\PartnerReferrals::request_response_string() must be of the type array, object given, called in E:\laragon\www\chutetest\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-api-client\src\Endpoint\class-requesttrait.php on line 40 and defined in E:\laragon\www\chutetest\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-api-client\src\Endpoint\class-requesttrait.php:52
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-api-client\src\Endpoint\class-requesttrait.php(40): WooCommerce\PayPalCommerce\ApiClient\Endpoint\PartnerReferrals->request_response_string('https://connect...', Array, Object(WP_Error))
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-api-client\src\Endpoint\class-partnerreferrals.php(93): WooCommerce\PayPalCommerce\ApiClient\Endpoint\PartnerReferrals->request('https://connect...', Array)
+#2 E:\laragon\ww dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce-paypal-payments\modules\ppcp-api-client\src\Endpoint\class-requesttrait.php à la ligne 52
+
+2021-11-03T05:22:22+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Product() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-content\plugins\woocomm dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-03T05:51:34+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1399
+
+2021-11-03T05:51:36+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1399
+
+2021-11-03T05:51:39+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1399
+
+2021-11-03T05:51:40+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1399
+

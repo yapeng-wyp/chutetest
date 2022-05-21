@@ -1,0 +1,25 @@
+2021-11-02T01:23:24+00:00 CRITICAL syntax error, unexpected '&' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1379
+
+2021-11-02T01:23:24+00:00 CRITICAL syntax error, unexpected '&' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1379
+
+2021-11-02T01:25:00+00:00 CRITICAL syntax error, unexpected '&' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1379
+
+2021-11-02T01:25:02+00:00 CRITICAL syntax error, unexpected '&' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1379
+
+2021-11-02T01:54:42+00:00 CRITICAL Allowed memory size of 1073741824 bytes exhausted (tried to allocate 513806336 bytes) dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1380
+
+2021-11-02T02:00:00+00:00 CRITICAL Allowed memory size of 1073741824 bytes exhausted (tried to allocate 524292096 bytes) dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1388
+
+2021-11-02T06:50:07+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1380
+
+2021-11-02T09:45:54+00:00 CRITICAL Uncaught Error: Object of class WC_Cart could not be converted to string in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1390
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-conten dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1390
+

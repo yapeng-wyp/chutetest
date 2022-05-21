@@ -1,0 +1,53 @@
+2021-10-29T02:48:46+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_ccpu() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php:96
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\chutetest\wp-includes\shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\chutetest\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\laragon\www dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php à la ligne 96
+
+2021-10-29T02:48:50+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_ccpu() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php:96
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\chutetest\wp-includes\shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\chutetest\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 E:\laragon\www dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php à la ligne 96
+
+2021-10-29T03:44:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Product::get_attribute(), 0 passed in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php on line 96 and exactly 1 expected in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:1959
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php(96): WC_Product->get_attribute()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('E:\\laragon\\www\\...')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#5 E:\laragon\w dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php à la ligne 1959
+
+2021-10-29T03:45:36+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_product_attributes() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php:96
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\chutetest\wp-includes\shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\chutetest\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7  dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php à la ligne 96
+
+2021-10-29T03:46:13+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_product_attributes() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php:96
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\laragon\www\chutetest\wp-includes\shortcodes.php(356): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\laragon\www\chutetest\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7  dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart.php à la ligne 96
+

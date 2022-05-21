@@ -1,0 +1,53 @@
+2021-11-08T03:49:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Product::set_price(), 0 passed in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php on line 1493 and exactly 1 expected in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php:832
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1493): WC_Product->set_price()
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): {closure}(Object(WC_Cart))
+#2 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1396): do_action('woocommerce_bef...', Object(WC_Cart))
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(94): WC_Cart->calculate_totals()
+#6 E:\laragon\www\chutetest\wp- dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php à la ligne 832
+
+2021-11-08T03:51:19+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_total() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1493
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): {closure}(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1396): do_action('woocommerce_bef...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(94): WC_Cart->calculate_totals()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#7 E:\laragon\www\chutetest\wp-in dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1493
+
+2021-11-08T07:34:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Cart::get_product_price(), 0 passed in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php on line 1493 and exactly 1 expected in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php:1991
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1493): WC_Cart->get_product_price()
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): {closure}(Object(WC_Cart))
+#2 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1396): do_action('woocommerce_bef...', Object(WC_Cart))
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(94): WC_Cart->calculate_totals()
+#6 E:\laragon\www\chutetest\wp-conte dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php à la ligne 1991
+
+2021-11-08T07:34:17+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on array in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-product-functions.php:988
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1993): wc_get_price_including_tax(Array)
+#1 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1493): WC_Cart->get_product_price(Array)
+#2 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): {closure}(Object(WC_Cart))
+#3 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1396): do_action('woocommerce_bef...', Object(WC_Cart))
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(94): WC_Cart->calculate_totals()
+#7 E:\laragon\www\chutetest\wp-content\plugins\wo dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-product-functions.php à la ligne 988
+
+2021-11-08T07:35:06+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on int in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-product-functions.php:988
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1993): wc_get_price_including_tax(32307)
+#1 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1493): WC_Cart->get_product_price(32307)
+#2 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): {closure}(Object(WC_Cart))
+#3 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1396): do_action('woocommerce_bef...', Object(WC_Cart))
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(94): WC_Cart->calculate_totals()
+#7 E:\laragon\www\chutetest\wp-content\plugins\wooc dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-product-functions.php à la ligne 988
+

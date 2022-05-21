@@ -1,0 +1,30 @@
+2021-11-05T05:57:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_cart_totals_fee_html(), 0 passed in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart-totals.php on line 54 and exactly 1 expected in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-cart-functions.php:339
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart-totals.php(54): wc_cart_totals_fee_html()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('E:\\laragon\\www\\...')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2112): wc_get_template('cart/cart-total...')
+#3 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woocommerce_cart_totals('')
+#4 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#6 E:\laragon\ww dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-cart-functions.php à la ligne 339
+
+2021-11-05T05:57:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_cart_totals_fee_html(), 0 passed in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart-totals.php on line 54 and exactly 1 expected in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-cart-functions.php:339
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart-totals.php(54): wc_cart_totals_fee_html()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('E:\\laragon\\www\\...')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2112): wc_get_template('cart/cart-total...')
+#3 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woocommerce_cart_totals('')
+#4 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#6 E:\laragon\ww dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-cart-functions.php à la ligne 339
+
+2021-11-05T05:58:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_cart_totals_fee_html(), 0 passed in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart-totals.php on line 54 and exactly 1 expected in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-cart-functions.php:339
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\woocommerce\cart\cart-totals.php(54): wc_cart_totals_fee_html()
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('E:\\laragon\\www\\...')
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2112): wc_get_template('cart/cart-total...')
+#3 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woocommerce_cart_totals('')
+#4 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#6 E:\laragon\ww dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\wc-cart-functions.php à la ligne 339
+

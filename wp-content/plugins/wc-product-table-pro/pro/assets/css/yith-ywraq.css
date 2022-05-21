@@ -1,0 +1,271 @@
+/* container */
+
+.wcpt-yith-ywraq {
+	vertical-align: middle;
+	position: relative;
+	vertical-align: middle;	
+	cursor: pointer;
+}
+
+.wcpt-yith-ywraq.wcpt-out-of-stock,
+.wcpt-yith-ywraq.wcpt-out-of-stock--variation {
+  opacity: .5;
+}
+
+.wcpt-yith-ywraq.wcpt-yith-ywraq--adding {
+	cursor: default;
+}
+
+/* -- state */
+
+.wcpt-yith-ywraq .wcpt-yith-ywraq__content {
+	display: none;
+}
+
+.wcpt-yith-ywraq--default .wcpt-yith-ywraq__content--default,
+.wcpt-yith-ywraq--adding .wcpt-yith-ywraq__content--adding,
+.wcpt-yith-ywraq--added .wcpt-yith-ywraq__content--added {
+	display: inline-block;
+}
+
+
+/* /state */
+
+/* content */
+
+.wcpt-yith-ywraq__content {
+	display: block;
+}
+
+/* /content */
+
+
+/***********************************/
+/** Style: ICON | LINK (common) ****/
+/***********************************/
+
+
+/* -- loader */
+
+.wcpt-yith-ywraq .wcpt-icon-loader {
+	font-size: 22px;
+	background: #8ac44a;
+	height: 24px;
+	width: 24px;
+	color: white;
+	padding: 8px;
+	border-radius: 100%;
+	border: 2px solid white;
+	position: absolute;
+	box-sizing: border-box;
+}
+
+.wcpt-yith-ywraq .wcpt-icon-loader > svg {
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	animation: wcptRotate 2s infinite linear;
+	height: 16px;
+	width: 16px;
+}
+
+/* -- circle-plus */
+
+.wcpt-yith-ywraq .wcpt-icon-plus-circle {
+	stroke-width: 2px;
+	color: rgb(255, 255, 255);
+	fill: #8BC34A;
+	font-size: 26px;
+}
+
+/* -- check */
+
+.wcpt-yith-ywraq .wcpt-icon-check {
+	fill: rgba(255, 255, 255, 0);
+	color: #8BC34A;
+	stroke-width: 5px;
+}
+
+/* -- chevron-right */
+
+.wcpt-yith-ywraq .wcpt-icon-chevron-right {
+	fill: transparent !important;
+	color: rgba(0, 0, 0, 0.1) !important;
+	position: absolute;
+	top: 50%;
+	right: 0;
+	transform: translate(80%, -50%);
+	transition: .3s;
+}
+
+.wcpt-yith-ywraq--added:hover .wcpt-icon-chevron-right {
+	color: rgba(0, 0, 0, 0.33) !important;
+	transform: translate(100%, -50%);
+}
+
+/* -- container */
+.wcpt-yith-ywraq--default:hover {
+	opacity: .75;
+}
+
+/*******************/
+/** Style: ICON ****/
+/*******************/
+
+
+/* -- icons */
+
+.wcpt-yith-ywraq--icon .wcpt-icon {
+	stroke-width: 2px;
+	color: rgb(255, 255, 255);
+	fill: #8BC34A;
+	font-size: 22px;
+	transition: .3s;
+	display: inline-block;
+}
+
+.wcpt-yith-ywraq--icon .wcpt-icon-plus-circle,
+.wcpt-yith-ywraq--icon .wcpt-icon-loader,
+.wcpt-yith-ywraq--icon .wcpt-icon-check,
+.wcpt-yith-ywraq--icon .wcpt-icon-cevron-right {
+	transform: translate(0%, -50%) scale(1);
+	position: absolute;
+	top: 50%;
+	left: -.25em;
+}
+
+.wcpt-yith-ywraq--icon .wcpt-icon-file {
+	font-size: 33px;
+	stroke-width: 1px;
+	color: rgba(0, 0, 0, 0.1);
+	fill: rgba(0, 0, 0, 0.07);
+	transition: .3s;
+	position: relative;
+}
+
+
+.wcpt-yith-ywraq--icon .wcpt-icon-check {
+	color: #8BC34A;	
+	fill: transparent;
+	stroke-width: 4px;
+}
+
+.wcpt-yith-ywraq--icon.wcpt-yith-ywraq--added .wcpt-icon-file {
+	color: rgba(0, 0, 0, 0.04);
+	fill: rgba(0, 0, 0, 0.04);
+}
+
+.wcpt-yith-ywraq--icon.wcpt-yith-ywraq--adding .wcpt-icon-file svg {
+  animation: wcptPulse2 1s ease-out infinite;
+}
+
+@keyframes wcptPulse2 {
+  0% {
+    transform: scale(1.1);
+    opacity: .75;    
+  }
+  50% {
+    transform: scale(.9);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.1);
+    opacity: .75;    
+  }
+}
+
+/* -- content added */
+.wcpt-yith-ywraq--icon.wcpt-yith-ywraq--added a.wcpt-yith-ywraq__content--added {
+	box-shadow: none !important;
+	border: none !important;
+	text-decoration: normal !important;
+}
+
+
+/*******************/
+/*** Style: LINk ***/
+/*******************/
+
+
+.wcpt-yith-ywraq--link .wcpt-yith-ywraq__content {
+	text-align: left;
+}
+
+.wcpt-yith-ywraq--link.wcpt-yith-ywraq--adding > .wcpt-yith-ywraq__content--adding > *:not(.wcpt-icon){
+	opacity: .5
+}
+
+.wcpt-yith-ywraq--link .wcpt-icon {
+	vertical-align: baseline !important;
+}
+
+.wcpt-yith-ywraq--link .wcpt-icon-chevron-right {
+	color: rgba(0, 0, 0, 0.2) !important;
+	font-size: 20px;
+	right: -4px;
+}
+
+.wcpt-yith-ywraq--link .wcpt-yith-ywraq__content {
+	position: relative;
+	padding-left: 30px;
+}
+
+.wcpt-yith-ywraq--link .wcpt-yith-ywraq__content > .wcpt-icon:first-child,
+.wcpt-yith-ywraq--link .wcpt-yith-ywraq__content > img:first-child {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%); 
+}
+
+.wcpt .wcpt-yith-ywraq--link .wcpt-yith-ywraq__content > .wcpt-icon-check {
+	left: 7px;
+}
+
+/*******************/
+/** Style: BUTTON **/
+/*******************/
+
+
+.wcpt-yith-ywraq--button .wcpt-yith-ywraq__content {
+	text-align: left;
+}
+
+.wcpt-yith-ywraq--button.wcpt-yith-ywraq--adding > .wcpt-yith-ywraq__content--adding > *:not(.wcpt-icon){
+	opacity: .5
+}
+
+.wcpt-yith-ywraq--button .wcpt-icon {
+	vertical-align: baseline !important;
+}
+
+.wcpt-yith-ywraq--button .wcpt-icon-chevron-right {
+	color: rgba(0, 0, 0, 0.2) !important;
+	font-size: 20px;
+	right: -4px;
+	stroke-width: 3px;
+}
+
+.wcpt-yith-ywraq--button .wcpt-yith-ywraq__content {
+	position: relative;
+	padding-left: 30px;
+	white-space: nowrap;
+}
+
+.wcpt-yith-ywraq--button .wcpt-yith-ywraq__content > .wcpt-icon:first-child,
+.wcpt-yith-ywraq--button .wcpt-yith-ywraq__content > img:first-child {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%); 
+}
+
+.wcpt .wcpt-yith-ywraq--button .wcpt-yith-ywraq__content > .wcpt-icon-check {
+	left: 7px;
+}
+
+.wcpt-yith-ywraq--button:not(.wcpt-yith-ywraq--added) {
+	border: 2px solid #8BC34A;
+	border-radius: 6px;
+	padding: 10px;
+}

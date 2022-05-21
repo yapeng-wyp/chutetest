@@ -1,0 +1,181 @@
+# Translation of Plugins - GenerateBlocks - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - GenerateBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-21 18:38:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - GenerateBlocks - Stable (latest release)\n"
+
+#: includes/dashboard.php:256
+msgid "Buttons Documentation"
+msgstr "Documentation sur les boutons"
+
+#: includes/dashboard.php:230
+msgid "Grid Documentation"
+msgstr "Documentation sur les grilles"
+
+#: includes/dashboard.php:217
+msgid "Container Documentation"
+msgstr "Documentation sur les conteneurs"
+
+#: includes/dashboard.php:243
+msgid "Headline Documentation"
+msgstr "Documentation des titres"
+
+#. translators: Shape number
+#: includes/functions.php:687 includes/functions.php:692
+#: includes/functions.php:697 includes/functions.php:702
+#: includes/functions.php:707 includes/functions.php:712
+#: includes/functions.php:717 includes/functions.php:722
+#: includes/functions.php:727 includes/functions.php:732
+#: includes/functions.php:737 includes/functions.php:742
+msgid "Triangle %s"
+msgstr "Triangle %s"
+
+#: includes/functions.php:683
+msgid "Triangles"
+msgstr "Triangles"
+
+#: includes/class-rest.php:150
+msgid "No changes found."
+msgstr "Aucune modification trouvée."
+
+#: includes/class-rest.php:170
+msgid "CSS files regenerated."
+msgstr "Fichiers CSS régénérés."
+
+#. translators: Shape number
+#: includes/functions.php:662 includes/functions.php:667
+#: includes/functions.php:672 includes/functions.php:677
+msgid "Curve %s"
+msgstr "Courbe %s"
+
+#: includes/functions.php:658
+msgid "Curves"
+msgstr "Courbes"
+
+#. translators: Shape number
+#: includes/functions.php:652
+msgid "Angle %s"
+msgstr "Angle %s"
+
+#: includes/functions.php:648
+msgid "Angles"
+msgstr "Angles"
+
+#. translators: Shape number
+#: includes/functions.php:607 includes/functions.php:612
+#: includes/functions.php:617 includes/functions.php:622
+#: includes/functions.php:627 includes/functions.php:632
+#: includes/functions.php:637 includes/functions.php:642
+msgid "Wave %s"
+msgstr "Vague %s"
+
+#: includes/functions.php:603
+msgid "Waves"
+msgstr "Vagues"
+
+#: includes/class-rest.php:157
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#. Plugin Name of the plugin
+#: includes/dashboard.php:20 includes/dashboard.php:21 includes/general.php:147
+msgid "GenerateBlocks"
+msgstr "GenerateBlocks"
+
+#. Plugin URI of the plugin
+msgid "https://generateblocks.com"
+msgstr "https://generateblocks.com"
+
+#. Author of the plugin
+msgid "Tom Usborne"
+msgstr "Tom Usborne"
+
+#. Author URI of the plugin
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#: includes/class-settings.php:51 includes/class-settings.php:52
+#: includes/dashboard.php:142 dist/dashboard.js:1 src/dashboard.js:107
+msgid "Settings"
+msgstr "Réglages"
+
+#. Description of the plugin
+#: includes/dashboard.php:198
+msgid "A small collection of lightweight WordPress blocks that can accomplish nearly anything."
+msgstr "Une petite collection de blocs WordPress légers qui peuvent accomplir presque tout."
+
+#: includes/dashboard.php:201
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: includes/dashboard.php:202 dist/blocks.js:3 dist/blocks.js:9
+#: dist/blocks.js:15 src/blocks/button-container/edit.js:390
+#: src/blocks/button/edit.js:971 src/blocks/container/edit.js:1983
+#: src/blocks/grid/edit.js:818 src/blocks/headline/edit.js:1193
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/dashboard.php:29 includes/dashboard.php:30
+#: includes/dashboard.php:137
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: includes/dashboard.php:226 dist/blocks.js:3 src/blocks/grid/block.js:33
+#: src/blocks/grid/edit.js:210
+msgid "Grid"
+msgstr "Grille"
+
+#: includes/dashboard.php:252 dist/blocks.js:9
+#: src/blocks/button-container/block.js:34
+msgid "Buttons"
+msgstr "Boutons"
+
+#: includes/dashboard.php:213 dist/blocks.js:7 dist/blocks.js:9
+#: src/blocks/container/block.js:34 src/blocks/container/edit.js:473
+msgid "Container"
+msgstr "Conteneur"
+
+#: includes/dashboard.php:214 dist/blocks.js:9 src/blocks/container/block.js:35
+msgid "Organize your content into rows and sections."
+msgstr "Organisez votre contenu en lignes et en sections."
+
+#: includes/dashboard.php:227 dist/blocks.js:3 src/blocks/grid/block.js:34
+msgid "Create advanced layouts with flexible grids."
+msgstr "Créez des mises en page avancées avec des grilles flexibles."
+
+#: includes/dashboard.php:240 dist/blocks.js:15 src/blocks/headline/block.js:33
+msgid "Craft text-rich content with advanced typography."
+msgstr "Créez du contenu texte riche avec une typographie avancée."
+
+#: includes/dashboard.php:253 dist/blocks.js:9
+#: src/blocks/button-container/block.js:35 src/blocks/button/block.js:31
+msgid "Drive conversions with beautiful buttons."
+msgstr "Effectuer des conversions avec de jolis boutons."
+
+#: includes/dashboard.php:268
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: includes/dashboard.php:284
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: includes/dashboard.php:281
+msgid "Happy customers"
+msgstr "Clients satisfaits"
+
+#: includes/dashboard.php:277
+msgid "Active websites"
+msgstr "Sites Web actifs"
+
+#: includes/dashboard.php:239 dist/blocks.js:15 src/blocks/headline/block.js:32
+#: src/blocks/headline/edit.js:1269 src/blocks/headline/edit.js:1283
+msgid "Headline"
+msgstr "Gros titre"

@@ -1,0 +1,1832 @@
+10-18-2021 @ 17:01:39 - ---[ New import started at 2021-10-18 09:01:39 ] PHP Memory: 1 Go, WP Memory: 40 Mo
+10-18-2021 @ 17:01:39 - Preparing for import.
+10-18-2021 @ 17:01:39 - Row :1 - Parsing item.
+10-18-2021 @ 17:01:39 - Row :1 - Parsing failed. Reason: Date non valide.
+10-18-2021 @ 17:01:39 - Row :2 - Parsing item.
+10-18-2021 @ 17:01:39 - Row :2 - Processing item.
+10-18-2021 @ 17:01:39 - Found order object. ID:90003
+10-18-2021 @ 17:01:40 - Row :2 - Order updated successfully.
+10-18-2021 @ 17:01:40 - Row :3 - Parsing item.
+10-18-2021 @ 17:01:40 - Row :3 - Processing item.
+10-18-2021 @ 17:01:40 - Found order object. ID:90004
+10-18-2021 @ 17:01:40 - Row :3 - Order updated successfully.
+10-18-2021 @ 17:01:40 - Row :4 - Parsing item.
+10-18-2021 @ 17:01:40 - Row :4 - Processing item.
+10-18-2021 @ 17:01:40 - Found order object. ID:90005
+10-18-2021 @ 17:01:41 - Row :4 - Order updated successfully.
+10-18-2021 @ 17:01:41 - Row :5 - Parsing item.
+10-18-2021 @ 17:01:41 - Row :5 - Processing item.
+10-18-2021 @ 17:01:41 - Found order object. ID:90006
+10-18-2021 @ 17:01:41 - Row :5 - Order updated successfully.
+10-18-2021 @ 17:01:41 - Row :6 - Parsing item.
+10-18-2021 @ 17:01:41 - Row :6 - Processing item.
+10-18-2021 @ 17:01:41 - Found order object. ID:90007
+10-18-2021 @ 17:01:43 - Row :6 - Order updated successfully.
+10-18-2021 @ 17:01:43 - Row :7 - Parsing item.
+10-18-2021 @ 17:01:43 - Row :7 - Processing item.
+10-18-2021 @ 17:01:43 - Found order object. ID:90008
+10-18-2021 @ 17:01:45 - Row :7 - Order updated successfully.
+10-18-2021 @ 17:01:45 - Row :8 - Parsing item.
+10-18-2021 @ 17:01:45 - Row :8 - Processing item.
+10-18-2021 @ 17:01:45 - Found order object. ID:90009
+10-18-2021 @ 17:01:46 - Row :8 - Order updated successfully.
+10-18-2021 @ 17:01:46 - Row :9 - Parsing item.
+10-18-2021 @ 17:01:46 - Row :9 - Processing item.
+10-18-2021 @ 17:01:46 - Found order object. ID:90010
+10-18-2021 @ 17:01:48 - Row :9 - Order updated successfully.
+10-18-2021 @ 17:01:48 - Row :10 - Parsing item.
+10-18-2021 @ 17:01:48 - Row :10 - Processing item.
+10-18-2021 @ 17:01:48 - Found order object. ID:90011
+10-18-2021 @ 17:01:49 - Row :10 - Order updated successfully.
+10-18-2021 @ 17:01:49 - Row :11 - Parsing item.
+10-18-2021 @ 17:01:49 - Row :11 - Processing item.
+10-18-2021 @ 17:01:49 - Found order object. ID:90013
+10-18-2021 @ 17:01:51 - Row :11 - Order updated successfully.
+10-18-2021 @ 17:01:51 - Row :12 - Parsing item.
+10-18-2021 @ 17:01:51 - Row :12 - Processing item.
+10-18-2021 @ 17:01:51 - Found order object. ID:90014
+10-18-2021 @ 17:01:51 - Row :12 - Order updated successfully.
+10-18-2021 @ 17:01:51 - Row :13 - Parsing item.
+10-18-2021 @ 17:01:51 - Row :13 - Processing item.
+10-18-2021 @ 17:01:51 - Found order object. ID:90015
+10-18-2021 @ 17:01:52 - Row :13 - Order updated successfully.
+10-18-2021 @ 17:01:52 - Row :14 - Parsing item.
+10-18-2021 @ 17:01:52 - Row :14 - Processing item.
+10-18-2021 @ 17:01:52 - Found order object. ID:90018
+10-18-2021 @ 17:01:53 - Row :14 - Order updated successfully.
+10-18-2021 @ 17:01:53 - Row :15 - Parsing item.
+10-18-2021 @ 17:01:53 - Row :15 - Processing item.
+10-18-2021 @ 17:01:53 - Found order object. ID:90019
+10-18-2021 @ 17:01:54 - Row :15 - Order updated successfully.
+10-18-2021 @ 17:01:54 - Row :16 - Parsing item.
+10-18-2021 @ 17:01:54 - Row :16 - Processing item.
+10-18-2021 @ 17:01:54 - Found order object. ID:90020
+10-18-2021 @ 17:01:56 - Row :16 - Order updated successfully.
+10-18-2021 @ 17:01:56 - Row :17 - Parsing item.
+10-18-2021 @ 17:01:56 - Row :17 - Processing item.
+10-18-2021 @ 17:01:56 - Found order object. ID:90021
+10-18-2021 @ 17:01:58 - Row :17 - Order updated successfully.
+10-18-2021 @ 17:01:58 - Row :18 - Parsing item.
+10-18-2021 @ 17:01:58 - Row :18 - Processing item.
+10-18-2021 @ 17:01:58 - Found order object. ID:90022
+10-18-2021 @ 17:01:59 - Row :18 - Order updated successfully.
+10-18-2021 @ 17:01:59 - Row :19 - Parsing item.
+10-18-2021 @ 17:01:59 - Row :19 - Processing item.
+10-18-2021 @ 17:01:59 - Found order object. ID:90023
+10-18-2021 @ 17:01:59 - Row :19 - Order updated successfully.
+10-18-2021 @ 17:01:59 - Row :20 - Parsing item.
+10-18-2021 @ 17:01:59 - Row :20 - Processing item.
+10-18-2021 @ 17:01:59 - Found order object. ID:90024
+10-18-2021 @ 17:02:01 - Row :20 - Order updated successfully.
+10-18-2021 @ 17:02:01 - Row :21 - Parsing item.
+10-18-2021 @ 17:02:01 - Row :21 - Processing item.
+10-18-2021 @ 17:02:01 - Found order object. ID:90025
+10-18-2021 @ 17:02:02 - Row :21 - Order updated successfully.
+10-18-2021 @ 17:02:02 - Row :22 - Parsing item.
+10-18-2021 @ 17:02:02 - Row :22 - Processing item.
+10-18-2021 @ 17:02:02 - Found order object. ID:90026
+10-18-2021 @ 17:02:04 - Row :22 - Order updated successfully.
+10-18-2021 @ 17:02:04 - Row :23 - Parsing item.
+10-18-2021 @ 17:02:04 - Row :23 - Processing item.
+10-18-2021 @ 17:02:04 - Found order object. ID:90027
+10-18-2021 @ 17:02:06 - Row :23 - Order updated successfully.
+10-18-2021 @ 17:02:06 - Row :24 - Parsing item.
+10-18-2021 @ 17:02:06 - Row :24 - Processing item.
+10-18-2021 @ 17:02:06 - Found order object. ID:90031
+10-18-2021 @ 17:02:08 - Row :24 - Order updated successfully.
+10-18-2021 @ 17:02:08 - Row :25 - Parsing item.
+10-18-2021 @ 17:02:08 - Row :25 - Processing item.
+10-18-2021 @ 17:02:08 - Found order object. ID:90032
+10-18-2021 @ 17:02:08 - Row :25 - Order updated successfully.
+10-18-2021 @ 17:02:08 - Row :26 - Parsing item.
+10-18-2021 @ 17:02:08 - Row :26 - Processing item.
+10-18-2021 @ 17:02:08 - Found order object. ID:90033
+10-18-2021 @ 17:02:10 - Row :26 - Order updated successfully.
+10-18-2021 @ 17:02:10 - Row :27 - Parsing item.
+10-18-2021 @ 17:02:10 - Row :27 - Processing item.
+10-18-2021 @ 17:02:10 - Found order object. ID:90034
+10-18-2021 @ 17:02:11 - Row :27 - Order updated successfully.
+10-18-2021 @ 17:02:11 - Row :28 - Parsing item.
+10-18-2021 @ 17:02:11 - Row :28 - Processing item.
+10-18-2021 @ 17:02:11 - Found order object. ID:90035
+10-18-2021 @ 17:02:12 - Row :28 - Order updated successfully.
+10-18-2021 @ 17:02:12 - Row :29 - Parsing item.
+10-18-2021 @ 17:02:12 - Row :29 - Processing item.
+10-18-2021 @ 17:02:13 - Found order object. ID:90036
+10-18-2021 @ 17:02:14 - Row :29 - Order updated successfully.
+10-18-2021 @ 17:02:14 - Row :30 - Parsing item.
+10-18-2021 @ 17:02:14 - Row :30 - Processing item.
+10-18-2021 @ 17:02:14 - Found order object. ID:90037
+10-18-2021 @ 17:02:15 - Row :30 - Order updated successfully.
+10-18-2021 @ 17:02:15 - Row :31 - Parsing item.
+10-18-2021 @ 17:02:15 - Row :31 - Processing item.
+10-18-2021 @ 17:02:15 - Found order object. ID:90038
+10-18-2021 @ 17:02:17 - Row :31 - Order updated successfully.
+10-18-2021 @ 17:02:17 - Row :32 - Parsing item.
+10-18-2021 @ 17:02:17 - Row :32 - Processing item.
+10-18-2021 @ 17:02:17 - Found order object. ID:90039
+10-18-2021 @ 17:02:18 - Row :32 - Order updated successfully.
+10-18-2021 @ 17:02:18 - Row :33 - Parsing item.
+10-18-2021 @ 17:02:18 - Row :33 - Processing item.
+10-18-2021 @ 17:02:18 - Found order object. ID:90040
+10-18-2021 @ 17:02:20 - Row :33 - Order updated successfully.
+10-18-2021 @ 17:02:20 - Row :34 - Parsing item.
+10-18-2021 @ 17:02:20 - Row :34 - Processing item.
+10-18-2021 @ 17:02:20 - Found order object. ID:90041
+10-18-2021 @ 17:02:20 - Row :34 - Order updated successfully.
+10-18-2021 @ 17:02:20 - Row :35 - Parsing item.
+10-18-2021 @ 17:02:20 - Row :35 - Processing item.
+10-18-2021 @ 17:02:21 - Found order object. ID:90042
+10-18-2021 @ 17:02:23 - Row :35 - Order updated successfully.
+10-18-2021 @ 17:02:23 - Row :36 - Parsing item.
+10-18-2021 @ 17:02:23 - Row :36 - Processing item.
+10-18-2021 @ 17:02:23 - Found order object. ID:90043
+10-18-2021 @ 17:02:23 - Row :36 - Order updated successfully.
+10-18-2021 @ 17:02:23 - Row :37 - Parsing item.
+10-18-2021 @ 17:02:23 - Row :37 - Processing item.
+10-18-2021 @ 17:02:23 - Found order object. ID:90044
+10-18-2021 @ 17:02:24 - Row :37 - Order updated successfully.
+10-18-2021 @ 17:02:24 - Row :38 - Parsing item.
+10-18-2021 @ 17:02:24 - Row :38 - Processing item.
+10-18-2021 @ 17:02:24 - Found order object. ID:90045
+10-18-2021 @ 17:02:25 - Row :38 - Order updated successfully.
+10-18-2021 @ 17:02:25 - Row :39 - Parsing item.
+10-18-2021 @ 17:02:25 - Row :39 - Processing item.
+10-18-2021 @ 17:02:25 - Found order object. ID:90046
+10-18-2021 @ 17:02:27 - Row :39 - Order updated successfully.
+10-18-2021 @ 17:02:27 - Row :40 - Parsing item.
+10-18-2021 @ 17:02:27 - Row :40 - Processing item.
+10-18-2021 @ 17:02:27 - Found order object. ID:90047
+10-18-2021 @ 17:02:29 - Row :40 - Order updated successfully.
+10-18-2021 @ 17:02:29 - Row :41 - Parsing item.
+10-18-2021 @ 17:02:29 - Row :41 - Processing item.
+10-18-2021 @ 17:02:29 - Found order object. ID:90048
+10-18-2021 @ 17:02:30 - Row :41 - Order updated successfully.
+10-18-2021 @ 17:02:30 - Row :42 - Parsing item.
+10-18-2021 @ 17:02:30 - Row :42 - Processing item.
+10-18-2021 @ 17:02:30 - Found order object. ID:90049
+10-18-2021 @ 17:02:32 - Row :42 - Order updated successfully.
+10-18-2021 @ 17:02:32 - Row :43 - Parsing item.
+10-18-2021 @ 17:02:32 - Row :43 - Processing item.
+10-18-2021 @ 17:02:32 - Found order object. ID:90050
+10-18-2021 @ 17:02:33 - Row :43 - Order updated successfully.
+10-18-2021 @ 17:02:33 - Row :44 - Parsing item.
+10-18-2021 @ 17:02:33 - Row :44 - Processing item.
+10-18-2021 @ 17:02:33 - Found order object. ID:90051
+10-18-2021 @ 17:02:35 - Row :44 - Order updated successfully.
+10-18-2021 @ 17:02:35 - Row :45 - Parsing item.
+10-18-2021 @ 17:02:35 - Row :45 - Processing item.
+10-18-2021 @ 17:02:35 - Found order object. ID:90052
+10-18-2021 @ 17:02:37 - Row :45 - Order updated successfully.
+10-18-2021 @ 17:02:37 - Row :46 - Parsing item.
+10-18-2021 @ 17:02:37 - Row :46 - Processing item.
+10-18-2021 @ 17:02:37 - Found order object. ID:90053
+10-18-2021 @ 17:02:37 - Row :46 - Order updated successfully.
+10-18-2021 @ 17:02:37 - Row :47 - Parsing item.
+10-18-2021 @ 17:02:37 - Row :47 - Processing item.
+10-18-2021 @ 17:02:37 - Found order object. ID:90054
+10-18-2021 @ 17:02:38 - Row :47 - Order updated successfully.
+10-18-2021 @ 17:02:38 - Row :48 - Parsing item.
+10-18-2021 @ 17:02:38 - Row :48 - Processing item.
+10-18-2021 @ 17:02:38 - Found order object. ID:90055
+10-18-2021 @ 17:02:39 - Row :48 - Order updated successfully.
+10-18-2021 @ 17:02:39 - Row :49 - Parsing item.
+10-18-2021 @ 17:02:39 - Row :49 - Processing item.
+10-18-2021 @ 17:02:39 - Found order object. ID:90056
+10-18-2021 @ 17:02:40 - Row :49 - Order updated successfully.
+10-18-2021 @ 17:02:40 - Row :50 - Parsing item.
+10-18-2021 @ 17:02:40 - Row :50 - Processing item.
+10-18-2021 @ 17:02:40 - Found order object. ID:90057
+10-18-2021 @ 17:02:42 - Row :50 - Order updated successfully.
+10-18-2021 @ 17:02:42 - Row :51 - Parsing item.
+10-18-2021 @ 17:02:42 - Row :51 - Processing item.
+10-18-2021 @ 17:02:42 - Found order object. ID:90058
+10-18-2021 @ 17:02:43 - Row :51 - Order updated successfully.
+10-18-2021 @ 17:02:43 - Row :52 - Parsing item.
+10-18-2021 @ 17:02:43 - Row :52 - Processing item.
+10-18-2021 @ 17:02:43 - Found order object. ID:90059
+10-18-2021 @ 17:02:44 - Row :52 - Order updated successfully.
+10-18-2021 @ 17:02:44 - Row :53 - Parsing item.
+10-18-2021 @ 17:02:44 - Row :53 - Processing item.
+10-18-2021 @ 17:02:44 - Found order object. ID:90060
+10-18-2021 @ 17:02:45 - Row :53 - Order updated successfully.
+10-18-2021 @ 17:02:45 - Row :54 - Parsing item.
+10-18-2021 @ 17:02:45 - Row :54 - Processing item.
+10-18-2021 @ 17:02:45 - Found order object. ID:90061
+10-18-2021 @ 17:02:47 - Row :54 - Order updated successfully.
+10-18-2021 @ 17:02:47 - Row :55 - Parsing item.
+10-18-2021 @ 17:02:47 - Row :55 - Processing item.
+10-18-2021 @ 17:02:47 - Found order object. ID:90062
+10-18-2021 @ 17:02:49 - Row :55 - Order updated successfully.
+10-18-2021 @ 17:02:49 - Row :56 - Parsing item.
+10-18-2021 @ 17:02:49 - Row :56 - Processing item.
+10-18-2021 @ 17:02:49 - Found order object. ID:90063
+10-18-2021 @ 17:02:50 - Row :56 - Order updated successfully.
+10-18-2021 @ 17:02:50 - Row :57 - Parsing item.
+10-18-2021 @ 17:02:50 - Row :57 - Processing item.
+10-18-2021 @ 17:02:50 - Found order object. ID:90064
+10-18-2021 @ 17:02:51 - Row :57 - Order updated successfully.
+10-18-2021 @ 17:02:51 - Row :58 - Parsing item.
+10-18-2021 @ 17:02:51 - Row :58 - Processing item.
+10-18-2021 @ 17:02:51 - Found order object. ID:90065
+10-18-2021 @ 17:02:53 - Row :58 - Order updated successfully.
+10-18-2021 @ 17:02:53 - Row :59 - Parsing item.
+10-18-2021 @ 17:02:53 - Row :59 - Processing item.
+10-18-2021 @ 17:02:53 - Found order object. ID:90066
+10-18-2021 @ 17:02:55 - Row :59 - Order updated successfully.
+10-18-2021 @ 17:02:55 - Row :60 - Parsing item.
+10-18-2021 @ 17:02:55 - Row :60 - Processing item.
+10-18-2021 @ 17:02:55 - Found order object. ID:90067
+10-18-2021 @ 17:02:57 - Row :60 - Order updated successfully.
+10-18-2021 @ 17:02:57 - Row :61 - Parsing item.
+10-18-2021 @ 17:02:57 - Row :61 - Processing item.
+10-18-2021 @ 17:02:57 - Found order object. ID:90068
+10-18-2021 @ 17:02:57 - Row :61 - Order updated successfully.
+10-18-2021 @ 17:02:57 - Row :62 - Parsing item.
+10-18-2021 @ 17:02:57 - Row :62 - Processing item.
+10-18-2021 @ 17:02:57 - Found order object. ID:90069
+10-18-2021 @ 17:02:58 - Row :62 - Order updated successfully.
+10-18-2021 @ 17:02:58 - Row :63 - Parsing item.
+10-18-2021 @ 17:02:58 - Row :63 - Processing item.
+10-18-2021 @ 17:02:58 - Found order object. ID:90070
+10-18-2021 @ 17:03:00 - Row :63 - Order updated successfully.
+10-18-2021 @ 17:03:00 - Row :64 - Parsing item.
+10-18-2021 @ 17:03:00 - Row :64 - Processing item.
+10-18-2021 @ 17:03:00 - Found order object. ID:90071
+10-18-2021 @ 17:03:00 - Row :64 - Order updated successfully.
+10-18-2021 @ 17:03:00 - Row :65 - Parsing item.
+10-18-2021 @ 17:03:00 - Row :65 - Processing item.
+10-18-2021 @ 17:03:00 - Found order object. ID:90072
+10-18-2021 @ 17:03:02 - Row :65 - Order updated successfully.
+10-18-2021 @ 17:03:02 - Row :66 - Parsing item.
+10-18-2021 @ 17:03:02 - Row :66 - Processing item.
+10-18-2021 @ 17:03:02 - Found order object. ID:90073
+10-18-2021 @ 17:03:03 - Row :66 - Order updated successfully.
+10-18-2021 @ 17:03:03 - Row :67 - Parsing item.
+10-18-2021 @ 17:03:03 - Row :67 - Processing item.
+10-18-2021 @ 17:03:03 - Found order object. ID:90074
+10-18-2021 @ 17:03:04 - Row :67 - Order updated successfully.
+10-18-2021 @ 17:03:04 - Row :68 - Parsing item.
+10-18-2021 @ 17:03:04 - Row :68 - Processing item.
+10-18-2021 @ 17:03:04 - Found order object. ID:90075
+10-18-2021 @ 17:03:05 - Row :68 - Order updated successfully.
+10-18-2021 @ 17:03:05 - Row :69 - Parsing item.
+10-18-2021 @ 17:03:05 - Row :69 - Processing item.
+10-18-2021 @ 17:03:05 - Found order object. ID:90076
+10-18-2021 @ 17:03:06 - Row :69 - Order updated successfully.
+10-18-2021 @ 17:03:06 - Row :70 - Parsing item.
+10-18-2021 @ 17:03:06 - Row :70 - Processing item.
+10-18-2021 @ 17:03:06 - Found order object. ID:90077
+10-18-2021 @ 17:03:07 - Row :70 - Order updated successfully.
+10-18-2021 @ 17:03:07 - Row :71 - Parsing item.
+10-18-2021 @ 17:03:07 - Row :71 - Processing item.
+10-18-2021 @ 17:03:07 - Found order object. ID:90078
+10-18-2021 @ 17:03:09 - Row :71 - Order updated successfully.
+10-18-2021 @ 17:03:09 - Row :72 - Parsing item.
+10-18-2021 @ 17:03:09 - Row :72 - Processing item.
+10-18-2021 @ 17:03:09 - Found order object. ID:90079
+10-18-2021 @ 17:03:10 - Row :72 - Order updated successfully.
+10-18-2021 @ 17:03:10 - Row :73 - Parsing item.
+10-18-2021 @ 17:03:10 - Row :73 - Processing item.
+10-18-2021 @ 17:03:10 - Found order object. ID:90080
+10-18-2021 @ 17:03:12 - Row :73 - Order updated successfully.
+10-18-2021 @ 17:03:12 - Row :74 - Parsing item.
+10-18-2021 @ 17:03:12 - Row :74 - Processing item.
+10-18-2021 @ 17:03:12 - Found order object. ID:90081
+10-18-2021 @ 17:03:13 - Row :74 - Order updated successfully.
+10-18-2021 @ 17:03:13 - Row :75 - Parsing item.
+10-18-2021 @ 17:03:13 - Row :75 - Processing item.
+10-18-2021 @ 17:03:13 - Found order object. ID:90082
+10-18-2021 @ 17:03:14 - Row :75 - Order updated successfully.
+10-18-2021 @ 17:03:14 - Row :76 - Parsing item.
+10-18-2021 @ 17:03:14 - Row :76 - Processing item.
+10-18-2021 @ 17:03:14 - Found order object. ID:90083
+10-18-2021 @ 17:03:15 - Row :76 - Order updated successfully.
+10-18-2021 @ 17:03:15 - Row :77 - Parsing item.
+10-18-2021 @ 17:03:15 - Row :77 - Processing item.
+10-18-2021 @ 17:03:15 - Found order object. ID:90084
+10-18-2021 @ 17:03:16 - Row :77 - Order updated successfully.
+10-18-2021 @ 17:03:16 - Row :78 - Parsing item.
+10-18-2021 @ 17:03:16 - Row :78 - Processing item.
+10-18-2021 @ 17:03:16 - Found order object. ID:90085
+10-18-2021 @ 17:03:17 - Row :78 - Order updated successfully.
+10-18-2021 @ 17:03:17 - Row :79 - Parsing item.
+10-18-2021 @ 17:03:17 - Row :79 - Processing item.
+10-18-2021 @ 17:03:17 - Found order object. ID:90086
+10-18-2021 @ 17:03:18 - Row :79 - Order updated successfully.
+10-18-2021 @ 17:03:18 - Row :80 - Parsing item.
+10-18-2021 @ 17:03:18 - Row :80 - Processing item.
+10-18-2021 @ 17:03:18 - Found order object. ID:90087
+10-18-2021 @ 17:03:20 - Row :80 - Order updated successfully.
+10-18-2021 @ 17:03:20 - Row :81 - Parsing item.
+10-18-2021 @ 17:03:20 - Row :81 - Processing item.
+10-18-2021 @ 17:03:20 - Found order object. ID:90088
+10-18-2021 @ 17:03:21 - Row :81 - Order updated successfully.
+10-18-2021 @ 17:03:21 - Row :82 - Parsing item.
+10-18-2021 @ 17:03:21 - Row :82 - Processing item.
+10-18-2021 @ 17:03:21 - Found order object. ID:90089
+10-18-2021 @ 17:03:22 - Row :82 - Order updated successfully.
+10-18-2021 @ 17:03:22 - Row :83 - Parsing item.
+10-18-2021 @ 17:03:22 - Row :83 - Processing item.
+10-18-2021 @ 17:03:22 - Found order object. ID:90090
+10-18-2021 @ 17:03:24 - Row :83 - Order updated successfully.
+10-18-2021 @ 17:03:24 - Row :84 - Parsing item.
+10-18-2021 @ 17:03:24 - Row :84 - Processing item.
+10-18-2021 @ 17:03:24 - Found order object. ID:90091
+10-18-2021 @ 17:03:25 - Row :84 - Order updated successfully.
+10-18-2021 @ 17:03:25 - Row :85 - Parsing item.
+10-18-2021 @ 17:03:25 - Row :85 - Processing item.
+10-18-2021 @ 17:03:25 - Found order object. ID:90092
+10-18-2021 @ 17:03:26 - Row :85 - Order updated successfully.
+10-18-2021 @ 17:03:26 - Row :86 - Parsing item.
+10-18-2021 @ 17:03:26 - Row :86 - Processing item.
+10-18-2021 @ 17:03:26 - Found order object. ID:90093
+10-18-2021 @ 17:03:28 - Row :86 - Order updated successfully.
+10-18-2021 @ 17:03:28 - Row :87 - Parsing item.
+10-18-2021 @ 17:03:28 - Row :87 - Processing item.
+10-18-2021 @ 17:03:28 - Found order object. ID:90094
+10-18-2021 @ 17:03:29 - Row :87 - Order updated successfully.
+10-18-2021 @ 17:03:29 - Row :88 - Parsing item.
+10-18-2021 @ 17:03:29 - Row :88 - Processing item.
+10-18-2021 @ 17:03:29 - Found order object. ID:90095
+10-18-2021 @ 17:03:29 - Row :88 - Order updated successfully.
+10-18-2021 @ 17:03:29 - Row :89 - Parsing item.
+10-18-2021 @ 17:03:29 - Row :89 - Processing item.
+10-18-2021 @ 17:03:29 - Found order object. ID:90096
+10-18-2021 @ 17:03:31 - Row :89 - Order updated successfully.
+10-18-2021 @ 17:03:31 - Row :90 - Parsing item.
+10-18-2021 @ 17:03:31 - Row :90 - Processing item.
+10-18-2021 @ 17:03:31 - Found order object. ID:90097
+10-18-2021 @ 17:03:31 - Row :90 - Order updated successfully.
+10-18-2021 @ 17:03:31 - Row :91 - Parsing item.
+10-18-2021 @ 17:03:31 - Row :91 - Processing item.
+10-18-2021 @ 17:03:31 - Found order object. ID:90098
+10-18-2021 @ 17:03:32 - Row :91 - Order updated successfully.
+10-18-2021 @ 17:03:32 - Row :92 - Parsing item.
+10-18-2021 @ 17:03:32 - Row :92 - Processing item.
+10-18-2021 @ 17:03:32 - Found order object. ID:90099
+10-18-2021 @ 17:03:32 - Row :92 - Order updated successfully.
+10-18-2021 @ 17:03:32 - Row :93 - Parsing item.
+10-18-2021 @ 17:03:32 - Row :93 - Processing item.
+10-18-2021 @ 17:03:32 - Found order object. ID:90100
+10-18-2021 @ 17:03:33 - Row :93 - Order updated successfully.
+10-18-2021 @ 17:03:33 - Row :94 - Parsing item.
+10-18-2021 @ 17:03:33 - Row :94 - Processing item.
+10-18-2021 @ 17:03:33 - Found order object. ID:90101
+10-18-2021 @ 17:03:34 - Row :94 - Order updated successfully.
+10-18-2021 @ 17:03:34 - Row :95 - Parsing item.
+10-18-2021 @ 17:03:34 - Row :95 - Processing item.
+10-18-2021 @ 17:03:34 - Found order object. ID:90102
+10-18-2021 @ 17:03:36 - Row :95 - Order updated successfully.
+10-18-2021 @ 17:03:36 - Row :96 - Parsing item.
+10-18-2021 @ 17:03:36 - Row :96 - Processing item.
+10-18-2021 @ 17:03:36 - Found order object. ID:90103
+10-18-2021 @ 17:03:37 - Row :96 - Order updated successfully.
+10-18-2021 @ 17:03:37 - Row :97 - Parsing item.
+10-18-2021 @ 17:03:37 - Row :97 - Processing item.
+10-18-2021 @ 17:03:37 - Found order object. ID:90106
+10-18-2021 @ 17:03:39 - Row :97 - Order updated successfully.
+10-18-2021 @ 17:03:39 - Row :98 - Parsing item.
+10-18-2021 @ 17:03:39 - Row :98 - Processing item.
+10-18-2021 @ 17:03:39 - Found order object. ID:90107
+10-18-2021 @ 17:03:40 - Row :98 - Order updated successfully.
+10-18-2021 @ 17:03:40 - Row :99 - Parsing item.
+10-18-2021 @ 17:03:40 - Row :99 - Processing item.
+10-18-2021 @ 17:03:40 - Found order object. ID:90108
+10-18-2021 @ 17:03:43 - Row :99 - Order updated successfully.
+10-18-2021 @ 17:03:43 - Row :100 - Parsing item.
+10-18-2021 @ 17:03:43 - Row :100 - Processing item.
+10-18-2021 @ 17:03:43 - Found order object. ID:90109
+10-18-2021 @ 17:03:43 - Row :100 - Order updated successfully.
+10-18-2021 @ 17:03:43 - Row :101 - Parsing item.
+10-18-2021 @ 17:03:43 - Row :101 - Processing item.
+10-18-2021 @ 17:03:43 - Found order object. ID:90110
+10-18-2021 @ 17:03:45 - Row :101 - Order updated successfully.
+10-18-2021 @ 17:03:45 - Row :102 - Parsing item.
+10-18-2021 @ 17:03:45 - Row :102 - Processing item.
+10-18-2021 @ 17:03:45 - Found order object. ID:90111
+10-18-2021 @ 17:03:46 - Row :102 - Order updated successfully.
+10-18-2021 @ 17:03:46 - Row :103 - Parsing item.
+10-18-2021 @ 17:03:46 - Row :103 - Processing item.
+10-18-2021 @ 17:03:46 - Found order object. ID:90112
+10-18-2021 @ 17:03:47 - Row :103 - Order updated successfully.
+10-18-2021 @ 17:03:47 - Row :104 - Parsing item.
+10-18-2021 @ 17:03:47 - Row :104 - Processing item.
+10-18-2021 @ 17:03:47 - Found order object. ID:90113
+10-18-2021 @ 17:03:48 - Row :104 - Order updated successfully.
+10-18-2021 @ 17:03:48 - Row :105 - Parsing item.
+10-18-2021 @ 17:03:48 - Row :105 - Processing item.
+10-18-2021 @ 17:03:48 - Found order object. ID:90114
+10-18-2021 @ 17:03:48 - Row :105 - Order updated successfully.
+10-18-2021 @ 17:03:48 - Row :106 - Parsing item.
+10-18-2021 @ 17:03:48 - Row :106 - Processing item.
+10-18-2021 @ 17:03:48 - Found order object. ID:90115
+10-18-2021 @ 17:03:50 - Row :106 - Order updated successfully.
+10-18-2021 @ 17:03:50 - Row :107 - Parsing item.
+10-18-2021 @ 17:03:50 - Row :107 - Processing item.
+10-18-2021 @ 17:03:50 - Found order object. ID:90116
+10-18-2021 @ 17:03:52 - Row :107 - Order updated successfully.
+10-18-2021 @ 17:03:52 - Row :108 - Parsing item.
+10-18-2021 @ 17:03:52 - Row :108 - Processing item.
+10-18-2021 @ 17:03:52 - Found order object. ID:90117
+10-18-2021 @ 17:03:54 - Row :108 - Order updated successfully.
+10-18-2021 @ 17:03:54 - Row :109 - Parsing item.
+10-18-2021 @ 17:03:54 - Row :109 - Processing item.
+10-18-2021 @ 17:03:54 - Found order object. ID:90118
+10-18-2021 @ 17:03:54 - Row :109 - Order updated successfully.
+10-18-2021 @ 17:03:54 - Row :110 - Parsing item.
+10-18-2021 @ 17:03:54 - Row :110 - Processing item.
+10-18-2021 @ 17:03:54 - Found order object. ID:90119
+10-18-2021 @ 17:03:56 - Row :110 - Order updated successfully.
+10-18-2021 @ 17:03:56 - Row :111 - Parsing item.
+10-18-2021 @ 17:03:56 - Row :111 - Processing item.
+10-18-2021 @ 17:03:56 - Found order object. ID:90120
+10-18-2021 @ 17:03:57 - Row :111 - Order updated successfully.
+10-18-2021 @ 17:03:57 - Row :112 - Parsing item.
+10-18-2021 @ 17:03:57 - Row :112 - Processing item.
+10-18-2021 @ 17:03:57 - Found order object. ID:90121
+10-18-2021 @ 17:03:58 - Row :112 - Order updated successfully.
+10-18-2021 @ 17:03:58 - Row :113 - Parsing item.
+10-18-2021 @ 17:03:58 - Row :113 - Processing item.
+10-18-2021 @ 17:03:58 - Found order object. ID:90122
+10-18-2021 @ 17:04:00 - Row :113 - Order updated successfully.
+10-18-2021 @ 17:04:00 - Row :114 - Parsing item.
+10-18-2021 @ 17:04:00 - Row :114 - Processing item.
+10-18-2021 @ 17:04:00 - Found order object. ID:90123
+10-18-2021 @ 17:04:01 - Row :114 - Order updated successfully.
+10-18-2021 @ 17:04:01 - Row :115 - Parsing item.
+10-18-2021 @ 17:04:01 - Row :115 - Processing item.
+10-18-2021 @ 17:04:01 - Found order object. ID:90124
+10-18-2021 @ 17:04:02 - Row :115 - Order updated successfully.
+10-18-2021 @ 17:04:02 - Row :116 - Parsing item.
+10-18-2021 @ 17:04:02 - Row :116 - Processing item.
+10-18-2021 @ 17:04:02 - Found order object. ID:90125
+10-18-2021 @ 17:04:04 - Row :116 - Order updated successfully.
+10-18-2021 @ 17:04:04 - Row :117 - Parsing item.
+10-18-2021 @ 17:04:04 - Row :117 - Processing item.
+10-18-2021 @ 17:04:04 - Found order object. ID:90126
+10-18-2021 @ 17:04:05 - Row :117 - Order updated successfully.
+10-18-2021 @ 17:04:05 - Row :118 - Parsing item.
+10-18-2021 @ 17:04:05 - Row :118 - Processing item.
+10-18-2021 @ 17:04:05 - Found order object. ID:90127
+10-18-2021 @ 17:04:06 - Row :118 - Order updated successfully.
+10-18-2021 @ 17:04:06 - Row :119 - Parsing item.
+10-18-2021 @ 17:04:06 - Row :119 - Processing item.
+10-18-2021 @ 17:04:06 - Found order object. ID:90128
+10-18-2021 @ 17:04:06 - Row :119 - Order updated successfully.
+10-18-2021 @ 17:04:06 - Row :120 - Parsing item.
+10-18-2021 @ 17:04:06 - Row :120 - Processing item.
+10-18-2021 @ 17:04:06 - Found order object. ID:90129
+10-18-2021 @ 17:04:08 - Row :120 - Order updated successfully.
+10-18-2021 @ 17:04:08 - Row :121 - Parsing item.
+10-18-2021 @ 17:04:08 - Row :121 - Processing item.
+10-18-2021 @ 17:04:08 - Found order object. ID:90130
+10-18-2021 @ 17:04:09 - Row :121 - Order updated successfully.
+10-18-2021 @ 17:04:09 - Row :122 - Parsing item.
+10-18-2021 @ 17:04:09 - Row :122 - Processing item.
+10-18-2021 @ 17:04:09 - Found order object. ID:90131
+10-18-2021 @ 17:04:10 - Row :122 - Order updated successfully.
+10-18-2021 @ 17:04:10 - Row :123 - Parsing item.
+10-18-2021 @ 17:04:10 - Row :123 - Processing item.
+10-18-2021 @ 17:04:10 - Found order object. ID:90132
+10-18-2021 @ 17:04:11 - Row :123 - Order updated successfully.
+10-18-2021 @ 17:04:11 - Row :124 - Parsing item.
+10-18-2021 @ 17:04:11 - Row :124 - Processing item.
+10-18-2021 @ 17:04:11 - Found order object. ID:90133
+10-18-2021 @ 17:04:13 - Row :124 - Order updated successfully.
+10-18-2021 @ 17:04:13 - Row :125 - Parsing item.
+10-18-2021 @ 17:04:13 - Row :125 - Processing item.
+10-18-2021 @ 17:04:13 - Found order object. ID:90134
+10-18-2021 @ 17:04:16 - Row :125 - Order updated successfully.
+10-18-2021 @ 17:04:16 - Row :126 - Parsing item.
+10-18-2021 @ 17:04:16 - Row :126 - Processing item.
+10-18-2021 @ 17:04:16 - Found order object. ID:90135
+10-18-2021 @ 17:04:17 - Row :126 - Order updated successfully.
+10-18-2021 @ 17:04:17 - Row :127 - Parsing item.
+10-18-2021 @ 17:04:17 - Row :127 - Processing item.
+10-18-2021 @ 17:04:17 - Found order object. ID:90136
+10-18-2021 @ 17:04:18 - Row :127 - Order updated successfully.
+10-18-2021 @ 17:04:18 - Row :128 - Parsing item.
+10-18-2021 @ 17:04:18 - Row :128 - Processing item.
+10-18-2021 @ 17:04:18 - Found order object. ID:90137
+10-18-2021 @ 17:04:19 - Row :128 - Order updated successfully.
+10-18-2021 @ 17:04:19 - Row :129 - Parsing item.
+10-18-2021 @ 17:04:19 - Row :129 - Processing item.
+10-18-2021 @ 17:04:19 - Found order object. ID:90138
+10-18-2021 @ 17:04:22 - Row :129 - Order updated successfully.
+10-18-2021 @ 17:04:22 - Row :130 - Parsing item.
+10-18-2021 @ 17:04:22 - Row :130 - Processing item.
+10-18-2021 @ 17:04:22 - Found order object. ID:90139
+10-18-2021 @ 17:04:23 - Row :130 - Order updated successfully.
+10-18-2021 @ 17:04:23 - Row :131 - Parsing item.
+10-18-2021 @ 17:04:23 - Row :131 - Processing item.
+10-18-2021 @ 17:04:23 - Found order object. ID:90140
+10-18-2021 @ 17:04:23 - Row :131 - Order updated successfully.
+10-18-2021 @ 17:04:23 - Row :132 - Parsing item.
+10-18-2021 @ 17:04:23 - Row :132 - Processing item.
+10-18-2021 @ 17:04:23 - Found order object. ID:90141
+10-18-2021 @ 17:04:25 - Row :132 - Order updated successfully.
+10-18-2021 @ 17:04:25 - Row :133 - Parsing item.
+10-18-2021 @ 17:04:25 - Row :133 - Processing item.
+10-18-2021 @ 17:04:25 - Found order object. ID:90142
+10-18-2021 @ 17:04:26 - Row :133 - Order updated successfully.
+10-18-2021 @ 17:04:26 - Row :134 - Parsing item.
+10-18-2021 @ 17:04:26 - Row :134 - Processing item.
+10-18-2021 @ 17:04:26 - Found order object. ID:90143
+10-18-2021 @ 17:04:27 - Row :134 - Order updated successfully.
+10-18-2021 @ 17:04:27 - Row :135 - Parsing item.
+10-18-2021 @ 17:04:27 - Row :135 - Processing item.
+10-18-2021 @ 17:04:27 - Found order object. ID:90144
+10-18-2021 @ 17:04:29 - Row :135 - Order updated successfully.
+10-18-2021 @ 17:04:29 - Row :136 - Parsing item.
+10-18-2021 @ 17:04:29 - Row :136 - Processing item.
+10-18-2021 @ 17:04:29 - Found order object. ID:90145
+10-18-2021 @ 17:04:30 - Row :136 - Order updated successfully.
+10-18-2021 @ 17:04:30 - Row :137 - Parsing item.
+10-18-2021 @ 17:04:30 - Row :137 - Processing item.
+10-18-2021 @ 17:04:30 - Found order object. ID:90146
+10-18-2021 @ 17:04:31 - Row :137 - Order updated successfully.
+10-18-2021 @ 17:04:31 - Row :138 - Parsing item.
+10-18-2021 @ 17:04:31 - Row :138 - Processing item.
+10-18-2021 @ 17:04:31 - Found order object. ID:90147
+10-18-2021 @ 17:04:32 - Row :138 - Order updated successfully.
+10-18-2021 @ 17:04:32 - Row :139 - Parsing item.
+10-18-2021 @ 17:04:32 - Row :139 - Processing item.
+10-18-2021 @ 17:04:33 - Found order object. ID:90148
+10-18-2021 @ 17:04:34 - Row :139 - Order updated successfully.
+10-18-2021 @ 17:04:34 - Row :140 - Parsing item.
+10-18-2021 @ 17:04:34 - Row :140 - Processing item.
+10-18-2021 @ 17:04:34 - Found order object. ID:90149
+10-18-2021 @ 17:04:36 - Row :140 - Order updated successfully.
+10-18-2021 @ 17:04:36 - Row :141 - Parsing item.
+10-18-2021 @ 17:04:36 - Row :141 - Processing item.
+10-18-2021 @ 17:04:36 - Found order object. ID:90150
+10-18-2021 @ 17:04:38 - Row :141 - Order updated successfully.
+10-18-2021 @ 17:04:38 - Row :142 - Parsing item.
+10-18-2021 @ 17:04:38 - Row :142 - Processing item.
+10-18-2021 @ 17:04:38 - Found order object. ID:90151
+10-18-2021 @ 17:04:39 - Row :142 - Order updated successfully.
+10-18-2021 @ 17:04:39 - Row :143 - Parsing item.
+10-18-2021 @ 17:04:39 - Row :143 - Processing item.
+10-18-2021 @ 17:04:39 - Found order object. ID:90152
+10-18-2021 @ 17:04:42 - Row :143 - Order updated successfully.
+10-18-2021 @ 17:04:42 - Row :144 - Parsing item.
+10-18-2021 @ 17:04:42 - Row :144 - Processing item.
+10-18-2021 @ 17:04:42 - Found order object. ID:90153
+10-18-2021 @ 17:04:43 - Row :144 - Order updated successfully.
+10-18-2021 @ 17:04:43 - Row :145 - Parsing item.
+10-18-2021 @ 17:04:43 - Row :145 - Processing item.
+10-18-2021 @ 17:04:43 - Found order object. ID:90154
+10-18-2021 @ 17:04:44 - Row :145 - Order updated successfully.
+10-18-2021 @ 17:04:44 - Row :146 - Parsing item.
+10-18-2021 @ 17:04:44 - Row :146 - Processing item.
+10-18-2021 @ 17:04:44 - Found order object. ID:90155
+10-18-2021 @ 17:04:46 - Row :146 - Order updated successfully.
+10-18-2021 @ 17:04:46 - Row :147 - Parsing item.
+10-18-2021 @ 17:04:46 - Row :147 - Processing item.
+10-18-2021 @ 17:04:46 - Found order object. ID:90156
+10-18-2021 @ 17:04:48 - Row :147 - Order updated successfully.
+10-18-2021 @ 17:04:48 - Row :148 - Parsing item.
+10-18-2021 @ 17:04:48 - Row :148 - Processing item.
+10-18-2021 @ 17:04:48 - Found order object. ID:90157
+10-18-2021 @ 17:04:49 - Row :148 - Order updated successfully.
+10-18-2021 @ 17:04:49 - Row :149 - Parsing item.
+10-18-2021 @ 17:04:49 - Row :149 - Processing item.
+10-18-2021 @ 17:04:49 - Found order object. ID:90158
+10-18-2021 @ 17:04:50 - Row :149 - Order updated successfully.
+10-18-2021 @ 17:04:50 - Row :150 - Parsing item.
+10-18-2021 @ 17:04:50 - Row :150 - Processing item.
+10-18-2021 @ 17:04:50 - Found order object. ID:90159
+10-18-2021 @ 17:04:52 - Row :150 - Order updated successfully.
+10-18-2021 @ 17:04:52 - Row :151 - Parsing item.
+10-18-2021 @ 17:04:52 - Row :151 - Processing item.
+10-18-2021 @ 17:04:52 - Found order object. ID:90160
+10-18-2021 @ 17:04:53 - Row :151 - Order updated successfully.
+10-18-2021 @ 17:04:53 - Row :152 - Parsing item.
+10-18-2021 @ 17:04:53 - Row :152 - Processing item.
+10-18-2021 @ 17:04:53 - Found order object. ID:90161
+10-18-2021 @ 17:04:54 - Row :152 - Order updated successfully.
+10-18-2021 @ 17:04:54 - Row :153 - Parsing item.
+10-18-2021 @ 17:04:54 - Row :153 - Processing item.
+10-18-2021 @ 17:04:54 - Found order object. ID:90162
+10-18-2021 @ 17:04:56 - Row :153 - Order updated successfully.
+10-18-2021 @ 17:04:56 - Row :154 - Parsing item.
+10-18-2021 @ 17:04:56 - Row :154 - Processing item.
+10-18-2021 @ 17:04:56 - Found order object. ID:90163
+10-18-2021 @ 17:04:57 - Row :154 - Order updated successfully.
+10-18-2021 @ 17:04:57 - Row :155 - Parsing item.
+10-18-2021 @ 17:04:57 - Row :155 - Processing item.
+10-18-2021 @ 17:04:57 - Found order object. ID:90164
+10-18-2021 @ 17:04:58 - Row :155 - Order updated successfully.
+10-18-2021 @ 17:04:58 - Row :156 - Parsing item.
+10-18-2021 @ 17:04:58 - Row :156 - Processing item.
+10-18-2021 @ 17:04:58 - Found order object. ID:90165
+10-18-2021 @ 17:05:00 - Row :156 - Order updated successfully.
+10-18-2021 @ 17:05:00 - Row :157 - Parsing item.
+10-18-2021 @ 17:05:00 - Row :157 - Processing item.
+10-18-2021 @ 17:05:00 - Found order object. ID:90166
+10-18-2021 @ 17:05:02 - Row :157 - Order updated successfully.
+10-18-2021 @ 17:05:02 - Row :158 - Parsing item.
+10-18-2021 @ 17:05:02 - Row :158 - Processing item.
+10-18-2021 @ 17:05:02 - Found order object. ID:90167
+10-18-2021 @ 17:05:04 - Row :158 - Order updated successfully.
+10-18-2021 @ 17:05:04 - Row :159 - Parsing item.
+10-18-2021 @ 17:05:04 - Row :159 - Processing item.
+10-18-2021 @ 17:05:04 - Found order object. ID:90168
+10-18-2021 @ 17:05:05 - Row :159 - Order updated successfully.
+10-18-2021 @ 17:05:06 - Row :160 - Parsing item.
+10-18-2021 @ 17:05:06 - Row :160 - Processing item.
+10-18-2021 @ 17:05:06 - Found order object. ID:90169
+10-18-2021 @ 17:05:07 - Row :160 - Order updated successfully.
+10-18-2021 @ 17:05:07 - Row :161 - Parsing item.
+10-18-2021 @ 17:05:07 - Row :161 - Processing item.
+10-18-2021 @ 17:05:07 - Found order object. ID:90170
+10-18-2021 @ 17:05:08 - Row :161 - Order updated successfully.
+10-18-2021 @ 17:05:08 - Row :162 - Parsing item.
+10-18-2021 @ 17:05:08 - Row :162 - Processing item.
+10-18-2021 @ 17:05:08 - Found order object. ID:90171
+10-18-2021 @ 17:05:10 - Row :162 - Order updated successfully.
+10-18-2021 @ 17:05:10 - Row :163 - Parsing item.
+10-18-2021 @ 17:05:10 - Row :163 - Processing item.
+10-18-2021 @ 17:05:10 - Found order object. ID:90172
+10-18-2021 @ 17:05:10 - Row :163 - Order updated successfully.
+10-18-2021 @ 17:05:10 - Row :164 - Parsing item.
+10-18-2021 @ 17:05:10 - Row :164 - Processing item.
+10-18-2021 @ 17:05:10 - Found order object. ID:90173
+10-18-2021 @ 17:05:11 - Row :164 - Order updated successfully.
+10-18-2021 @ 17:05:11 - Row :165 - Parsing item.
+10-18-2021 @ 17:05:11 - Row :165 - Processing item.
+10-18-2021 @ 17:05:11 - Found order object. ID:90174
+10-18-2021 @ 17:05:12 - Row :165 - Order updated successfully.
+10-18-2021 @ 17:05:12 - Row :166 - Parsing item.
+10-18-2021 @ 17:05:12 - Row :166 - Processing item.
+10-18-2021 @ 17:05:12 - Found order object. ID:90175
+10-18-2021 @ 17:05:13 - Row :166 - Order updated successfully.
+10-18-2021 @ 17:05:13 - Row :167 - Parsing item.
+10-18-2021 @ 17:05:13 - Row :167 - Processing item.
+10-18-2021 @ 17:05:13 - Found order object. ID:90176
+10-18-2021 @ 17:05:14 - Row :167 - Order updated successfully.
+10-18-2021 @ 17:05:14 - Row :168 - Parsing item.
+10-18-2021 @ 17:05:14 - Row :168 - Processing item.
+10-18-2021 @ 17:05:15 - Found order object. ID:90177
+10-18-2021 @ 17:05:16 - Row :168 - Order updated successfully.
+10-18-2021 @ 17:05:16 - Row :169 - Parsing item.
+10-18-2021 @ 17:05:16 - Row :169 - Processing item.
+10-18-2021 @ 17:05:16 - Found order object. ID:90178
+10-18-2021 @ 17:05:17 - Row :169 - Order updated successfully.
+10-18-2021 @ 17:05:17 - Row :170 - Parsing item.
+10-18-2021 @ 17:05:17 - Row :170 - Processing item.
+10-18-2021 @ 17:05:17 - Found order object. ID:90179
+10-18-2021 @ 17:05:19 - Row :170 - Order updated successfully.
+10-18-2021 @ 17:05:19 - Row :171 - Parsing item.
+10-18-2021 @ 17:05:19 - Row :171 - Processing item.
+10-18-2021 @ 17:05:19 - Found order object. ID:90180
+10-18-2021 @ 17:05:21 - Row :171 - Order updated successfully.
+10-18-2021 @ 17:05:21 - Row :172 - Parsing item.
+10-18-2021 @ 17:05:21 - Row :172 - Processing item.
+10-18-2021 @ 17:05:21 - Found order object. ID:90181
+10-18-2021 @ 17:05:22 - Row :172 - Order updated successfully.
+10-18-2021 @ 17:05:22 - Row :173 - Parsing item.
+10-18-2021 @ 17:05:22 - Row :173 - Processing item.
+10-18-2021 @ 17:05:22 - Found order object. ID:90182
+10-18-2021 @ 17:05:23 - Row :173 - Order updated successfully.
+10-18-2021 @ 17:05:23 - Row :174 - Parsing item.
+10-18-2021 @ 17:05:23 - Row :174 - Processing item.
+10-18-2021 @ 17:05:23 - Found order object. ID:90183
+10-18-2021 @ 17:05:25 - Row :174 - Order updated successfully.
+10-18-2021 @ 17:05:25 - Row :175 - Parsing item.
+10-18-2021 @ 17:05:25 - Row :175 - Processing item.
+10-18-2021 @ 17:05:25 - Found order object. ID:90184
+10-18-2021 @ 17:05:27 - Row :175 - Order updated successfully.
+10-18-2021 @ 17:05:27 - Row :176 - Parsing item.
+10-18-2021 @ 17:05:27 - Row :176 - Processing item.
+10-18-2021 @ 17:05:27 - Found order object. ID:90185
+10-18-2021 @ 17:05:27 - Row :176 - Order updated successfully.
+10-18-2021 @ 17:05:27 - Row :177 - Parsing item.
+10-18-2021 @ 17:05:27 - Row :177 - Processing item.
+10-18-2021 @ 17:05:27 - Found order object. ID:90186
+10-18-2021 @ 17:05:28 - Row :177 - Order updated successfully.
+10-18-2021 @ 17:05:28 - Row :178 - Parsing item.
+10-18-2021 @ 17:05:28 - Row :178 - Processing item.
+10-18-2021 @ 17:05:28 - Found order object. ID:90187
+10-18-2021 @ 17:05:30 - Row :178 - Order updated successfully.
+10-18-2021 @ 17:05:30 - Row :179 - Parsing item.
+10-18-2021 @ 17:05:30 - Row :179 - Processing item.
+10-18-2021 @ 17:05:30 - Found order object. ID:90188
+10-18-2021 @ 17:05:31 - Row :179 - Order updated successfully.
+10-18-2021 @ 17:05:31 - Row :180 - Parsing item.
+10-18-2021 @ 17:05:31 - Row :180 - Processing item.
+10-18-2021 @ 17:05:31 - Found order object. ID:90189
+10-18-2021 @ 17:05:32 - Row :180 - Order updated successfully.
+10-18-2021 @ 17:05:32 - Row :181 - Parsing item.
+10-18-2021 @ 17:05:32 - Row :181 - Processing item.
+10-18-2021 @ 17:05:32 - Found order object. ID:90190
+10-18-2021 @ 17:05:33 - Row :181 - Order updated successfully.
+10-18-2021 @ 17:05:33 - Row :182 - Parsing item.
+10-18-2021 @ 17:05:33 - Row :182 - Processing item.
+10-18-2021 @ 17:05:33 - Found order object. ID:90191
+10-18-2021 @ 17:05:35 - Row :182 - Order updated successfully.
+10-18-2021 @ 17:05:35 - Row :183 - Parsing item.
+10-18-2021 @ 17:05:35 - Row :183 - Processing item.
+10-18-2021 @ 17:05:35 - Found order object. ID:90192
+10-18-2021 @ 17:05:37 - Row :183 - Order updated successfully.
+10-18-2021 @ 17:05:37 - Row :184 - Parsing item.
+10-18-2021 @ 17:05:37 - Row :184 - Processing item.
+10-18-2021 @ 17:05:37 - Found order object. ID:90193
+10-18-2021 @ 17:05:38 - Row :184 - Order updated successfully.
+10-18-2021 @ 17:05:38 - Row :185 - Parsing item.
+10-18-2021 @ 17:05:38 - Row :185 - Processing item.
+10-18-2021 @ 17:05:38 - Found order object. ID:90194
+10-18-2021 @ 17:05:40 - Row :185 - Order updated successfully.
+10-18-2021 @ 17:05:40 - Row :186 - Parsing item.
+10-18-2021 @ 17:05:40 - Row :186 - Processing item.
+10-18-2021 @ 17:05:40 - Found order object. ID:90195
+10-18-2021 @ 17:05:42 - Row :186 - Order updated successfully.
+10-18-2021 @ 17:05:42 - Row :187 - Parsing item.
+10-18-2021 @ 17:05:42 - Row :187 - Processing item.
+10-18-2021 @ 17:05:42 - Found order object. ID:90196
+10-18-2021 @ 17:05:43 - Row :187 - Order updated successfully.
+10-18-2021 @ 17:05:43 - Row :188 - Parsing item.
+10-18-2021 @ 17:05:43 - Row :188 - Processing item.
+10-18-2021 @ 17:05:43 - Found order object. ID:90197
+10-18-2021 @ 17:05:44 - Row :188 - Order updated successfully.
+10-18-2021 @ 17:05:44 - Row :189 - Parsing item.
+10-18-2021 @ 17:05:44 - Row :189 - Processing item.
+10-18-2021 @ 17:05:44 - Found order object. ID:90198
+10-18-2021 @ 17:05:46 - Row :189 - Order updated successfully.
+10-18-2021 @ 17:05:46 - Row :190 - Parsing item.
+10-18-2021 @ 17:05:46 - Row :190 - Processing item.
+10-18-2021 @ 17:05:46 - Found order object. ID:90199
+10-18-2021 @ 17:05:47 - Row :190 - Order updated successfully.
+10-18-2021 @ 17:05:47 - Row :191 - Parsing item.
+10-18-2021 @ 17:05:47 - Row :191 - Processing item.
+10-18-2021 @ 17:05:47 - Found order object. ID:90200
+10-18-2021 @ 17:05:49 - Row :191 - Order updated successfully.
+10-18-2021 @ 17:05:49 - Row :192 - Parsing item.
+10-18-2021 @ 17:05:49 - Row :192 - Processing item.
+10-18-2021 @ 17:05:49 - Found order object. ID:90201
+10-18-2021 @ 17:05:50 - Row :192 - Order updated successfully.
+10-18-2021 @ 17:05:50 - Row :193 - Parsing item.
+10-18-2021 @ 17:05:50 - Row :193 - Processing item.
+10-18-2021 @ 17:05:50 - Found order object. ID:90202
+10-18-2021 @ 17:05:51 - Row :193 - Order updated successfully.
+10-18-2021 @ 17:05:51 - Row :194 - Parsing item.
+10-18-2021 @ 17:05:51 - Row :194 - Processing item.
+10-18-2021 @ 17:05:51 - Found order object. ID:90203
+10-18-2021 @ 17:05:52 - Row :194 - Order updated successfully.
+10-18-2021 @ 17:05:52 - Row :195 - Parsing item.
+10-18-2021 @ 17:05:52 - Row :195 - Processing item.
+10-18-2021 @ 17:05:52 - Found order object. ID:90204
+10-18-2021 @ 17:05:54 - Row :195 - Order updated successfully.
+10-18-2021 @ 17:05:54 - Row :196 - Parsing item.
+10-18-2021 @ 17:05:54 - Row :196 - Processing item.
+10-18-2021 @ 17:05:54 - Found order object. ID:90205
+10-18-2021 @ 17:05:55 - Row :196 - Order updated successfully.
+10-18-2021 @ 17:05:55 - Row :197 - Parsing item.
+10-18-2021 @ 17:05:55 - Row :197 - Processing item.
+10-18-2021 @ 17:05:55 - Found order object. ID:90206
+10-18-2021 @ 17:05:57 - Row :197 - Order updated successfully.
+10-18-2021 @ 17:05:57 - Row :198 - Parsing item.
+10-18-2021 @ 17:05:57 - Row :198 - Processing item.
+10-18-2021 @ 17:05:57 - Found order object. ID:90207
+10-18-2021 @ 17:05:59 - Row :198 - Order updated successfully.
+10-18-2021 @ 17:05:59 - Row :199 - Parsing item.
+10-18-2021 @ 17:05:59 - Row :199 - Processing item.
+10-18-2021 @ 17:05:59 - Found order object. ID:90208
+10-18-2021 @ 17:06:00 - Row :199 - Order updated successfully.
+10-18-2021 @ 17:06:00 - Row :200 - Parsing item.
+10-18-2021 @ 17:06:00 - Row :200 - Processing item.
+10-18-2021 @ 17:06:00 - Found order object. ID:90209
+10-18-2021 @ 17:06:01 - Row :200 - Order updated successfully.
+10-18-2021 @ 17:06:01 - Row :201 - Parsing item.
+10-18-2021 @ 17:06:01 - Row :201 - Processing item.
+10-18-2021 @ 17:06:01 - Found order object. ID:90210
+10-18-2021 @ 17:06:02 - Row :201 - Order updated successfully.
+10-18-2021 @ 17:06:02 - Row :202 - Parsing item.
+10-18-2021 @ 17:06:02 - Row :202 - Processing item.
+10-18-2021 @ 17:06:02 - Found order object. ID:90211
+10-18-2021 @ 17:06:03 - Row :202 - Order updated successfully.
+10-18-2021 @ 17:06:03 - Row :203 - Parsing item.
+10-18-2021 @ 17:06:03 - Row :203 - Processing item.
+10-18-2021 @ 17:06:03 - Found order object. ID:90212
+10-18-2021 @ 17:06:04 - Row :203 - Order updated successfully.
+10-18-2021 @ 17:06:04 - Row :204 - Parsing item.
+10-18-2021 @ 17:06:04 - Row :204 - Processing item.
+10-18-2021 @ 17:06:04 - Found order object. ID:90213
+10-18-2021 @ 17:06:05 - Row :204 - Order updated successfully.
+10-18-2021 @ 17:06:05 - Row :205 - Parsing item.
+10-18-2021 @ 17:06:05 - Row :205 - Processing item.
+10-18-2021 @ 17:06:05 - Found order object. ID:90214
+10-18-2021 @ 17:06:06 - Row :205 - Order updated successfully.
+10-18-2021 @ 17:06:06 - Row :206 - Parsing item.
+10-18-2021 @ 17:06:06 - Row :206 - Processing item.
+10-18-2021 @ 17:06:06 - Found order object. ID:90215
+10-18-2021 @ 17:06:07 - Row :206 - Order updated successfully.
+10-18-2021 @ 17:06:07 - Row :207 - Parsing item.
+10-18-2021 @ 17:06:07 - Row :207 - Processing item.
+10-18-2021 @ 17:06:07 - Found order object. ID:90216
+10-18-2021 @ 17:06:10 - Row :207 - Order updated successfully.
+10-18-2021 @ 17:06:10 - Row :208 - Parsing item.
+10-18-2021 @ 17:06:10 - Row :208 - Processing item.
+10-18-2021 @ 17:06:10 - Found order object. ID:90217
+10-18-2021 @ 17:06:11 - Row :208 - Order updated successfully.
+10-18-2021 @ 17:06:11 - Row :209 - Parsing item.
+10-18-2021 @ 17:06:11 - Row :209 - Processing item.
+10-18-2021 @ 17:06:11 - Found order object. ID:90218
+10-18-2021 @ 17:06:12 - Row :209 - Order updated successfully.
+10-18-2021 @ 17:06:12 - Row :210 - Parsing item.
+10-18-2021 @ 17:06:12 - Row :210 - Processing item.
+10-18-2021 @ 17:06:12 - Found order object. ID:90219
+10-18-2021 @ 17:06:13 - Row :210 - Order updated successfully.
+10-18-2021 @ 17:06:13 - Row :211 - Parsing item.
+10-18-2021 @ 17:06:13 - Row :211 - Processing item.
+10-18-2021 @ 17:06:13 - Found order object. ID:90220
+10-18-2021 @ 17:06:14 - Row :211 - Order updated successfully.
+10-18-2021 @ 17:06:14 - Row :212 - Parsing item.
+10-18-2021 @ 17:06:14 - Row :212 - Processing item.
+10-18-2021 @ 17:06:14 - Found order object. ID:90221
+10-18-2021 @ 17:06:15 - Row :212 - Order updated successfully.
+10-18-2021 @ 17:06:15 - Row :213 - Parsing item.
+10-18-2021 @ 17:06:15 - Row :213 - Processing item.
+10-18-2021 @ 17:06:15 - Found order object. ID:90222
+10-18-2021 @ 17:06:16 - Row :213 - Order updated successfully.
+10-18-2021 @ 17:06:16 - Row :214 - Parsing item.
+10-18-2021 @ 17:06:16 - Row :214 - Processing item.
+10-18-2021 @ 17:06:16 - Found order object. ID:90223
+10-18-2021 @ 17:06:17 - Row :214 - Order updated successfully.
+10-18-2021 @ 17:06:17 - Row :215 - Parsing item.
+10-18-2021 @ 17:06:18 - Row :215 - Processing item.
+10-18-2021 @ 17:06:18 - Found order object. ID:90224
+10-18-2021 @ 17:06:20 - Row :215 - Order updated successfully.
+10-18-2021 @ 17:06:20 - Row :216 - Parsing item.
+10-18-2021 @ 17:06:20 - Row :216 - Processing item.
+10-18-2021 @ 17:06:20 - Found order object. ID:90226
+10-18-2021 @ 17:06:21 - Row :216 - Order updated successfully.
+10-18-2021 @ 17:06:21 - Row :217 - Parsing item.
+10-18-2021 @ 17:06:21 - Row :217 - Processing item.
+10-18-2021 @ 17:06:21 - Found order object. ID:90227
+10-18-2021 @ 17:06:22 - Row :217 - Order updated successfully.
+10-18-2021 @ 17:06:22 - Row :218 - Parsing item.
+10-18-2021 @ 17:06:22 - Row :218 - Processing item.
+10-18-2021 @ 17:06:22 - Found order object. ID:90228
+10-18-2021 @ 17:06:24 - Row :218 - Order updated successfully.
+10-18-2021 @ 17:06:24 - Row :219 - Parsing item.
+10-18-2021 @ 17:06:24 - Row :219 - Processing item.
+10-18-2021 @ 17:06:24 - Found order object. ID:90229
+10-18-2021 @ 17:06:26 - Row :219 - Order updated successfully.
+10-18-2021 @ 17:06:26 - Row :220 - Parsing item.
+10-18-2021 @ 17:06:26 - Row :220 - Processing item.
+10-18-2021 @ 17:06:26 - Found order object. ID:90230
+10-18-2021 @ 17:06:28 - Row :220 - Order updated successfully.
+10-18-2021 @ 17:06:28 - Row :221 - Parsing item.
+10-18-2021 @ 17:06:28 - Row :221 - Processing item.
+10-18-2021 @ 17:06:28 - Found order object. ID:90231
+10-18-2021 @ 17:06:29 - Row :221 - Order updated successfully.
+10-18-2021 @ 17:06:29 - Row :222 - Parsing item.
+10-18-2021 @ 17:06:29 - Row :222 - Processing item.
+10-18-2021 @ 17:06:29 - Found order object. ID:90232
+10-18-2021 @ 17:06:30 - Row :222 - Order updated successfully.
+10-18-2021 @ 17:06:30 - Row :223 - Parsing item.
+10-18-2021 @ 17:06:30 - Row :223 - Processing item.
+10-18-2021 @ 17:06:30 - Found order object. ID:90233
+10-18-2021 @ 17:06:30 - Row :223 - Order updated successfully.
+10-18-2021 @ 17:06:30 - Row :224 - Parsing item.
+10-18-2021 @ 17:06:30 - Row :224 - Processing item.
+10-18-2021 @ 17:06:31 - Found order object. ID:90234
+10-18-2021 @ 17:06:33 - Row :224 - Order updated successfully.
+10-18-2021 @ 17:06:33 - Row :225 - Parsing item.
+10-18-2021 @ 17:06:33 - Row :225 - Processing item.
+10-18-2021 @ 17:06:33 - Found order object. ID:90235
+10-18-2021 @ 17:06:34 - Row :225 - Order updated successfully.
+10-18-2021 @ 17:06:34 - Row :226 - Parsing item.
+10-18-2021 @ 17:06:34 - Row :226 - Processing item.
+10-18-2021 @ 17:06:34 - Found order object. ID:90236
+10-18-2021 @ 17:06:35 - Row :226 - Order updated successfully.
+10-18-2021 @ 17:06:35 - Row :227 - Parsing item.
+10-18-2021 @ 17:06:35 - Row :227 - Processing item.
+10-18-2021 @ 17:06:35 - Found order object. ID:90237
+10-18-2021 @ 17:06:37 - Row :227 - Order updated successfully.
+10-18-2021 @ 17:06:37 - Row :228 - Parsing item.
+10-18-2021 @ 17:06:37 - Row :228 - Processing item.
+10-18-2021 @ 17:06:37 - Found order object. ID:90238
+10-18-2021 @ 17:06:38 - Row :228 - Order updated successfully.
+10-18-2021 @ 17:06:38 - Row :229 - Parsing item.
+10-18-2021 @ 17:06:38 - Row :229 - Processing item.
+10-18-2021 @ 17:06:38 - Found order object. ID:90239
+10-18-2021 @ 17:06:39 - Row :229 - Order updated successfully.
+10-18-2021 @ 17:06:39 - Row :230 - Parsing item.
+10-18-2021 @ 17:06:39 - Row :230 - Processing item.
+10-18-2021 @ 17:06:39 - Found order object. ID:90240
+10-18-2021 @ 17:06:40 - Row :230 - Order updated successfully.
+10-18-2021 @ 17:06:40 - Row :231 - Parsing item.
+10-18-2021 @ 17:06:40 - Row :231 - Processing item.
+10-18-2021 @ 17:06:40 - Found order object. ID:90241
+10-18-2021 @ 17:06:41 - Row :231 - Order updated successfully.
+10-18-2021 @ 17:06:41 - Row :232 - Parsing item.
+10-18-2021 @ 17:06:41 - Row :232 - Processing item.
+10-18-2021 @ 17:06:41 - Found order object. ID:90242
+10-18-2021 @ 17:06:42 - Row :232 - Order updated successfully.
+10-18-2021 @ 17:06:42 - Row :233 - Parsing item.
+10-18-2021 @ 17:06:42 - Row :233 - Processing item.
+10-18-2021 @ 17:06:42 - Found order object. ID:90243
+10-18-2021 @ 17:06:43 - Row :233 - Order updated successfully.
+10-18-2021 @ 17:06:43 - Row :234 - Parsing item.
+10-18-2021 @ 17:06:43 - Row :234 - Processing item.
+10-18-2021 @ 17:06:43 - Found order object. ID:90244
+10-18-2021 @ 17:06:43 - Row :234 - Order updated successfully.
+10-18-2021 @ 17:06:43 - Row :235 - Parsing item.
+10-18-2021 @ 17:06:43 - Row :235 - Processing item.
+10-18-2021 @ 17:06:43 - Found order object. ID:90245
+10-18-2021 @ 17:06:44 - Row :235 - Order updated successfully.
+10-18-2021 @ 17:06:44 - Row :236 - Parsing item.
+10-18-2021 @ 17:06:44 - Row :236 - Processing item.
+10-18-2021 @ 17:06:44 - Found order object. ID:90246
+10-18-2021 @ 17:06:47 - Row :236 - Order updated successfully.
+10-18-2021 @ 17:06:47 - Row :237 - Parsing item.
+10-18-2021 @ 17:06:47 - Row :237 - Processing item.
+10-18-2021 @ 17:06:47 - Found order object. ID:90247
+10-18-2021 @ 17:06:48 - Row :237 - Order updated successfully.
+10-18-2021 @ 17:06:48 - Row :238 - Parsing item.
+10-18-2021 @ 17:06:48 - Row :238 - Processing item.
+10-18-2021 @ 17:06:48 - Found order object. ID:90248
+10-18-2021 @ 17:06:49 - Row :238 - Order updated successfully.
+10-18-2021 @ 17:06:49 - Row :239 - Parsing item.
+10-18-2021 @ 17:06:49 - Row :239 - Processing item.
+10-18-2021 @ 17:06:49 - Found order object. ID:90249
+10-18-2021 @ 17:06:49 - Row :239 - Order updated successfully.
+10-18-2021 @ 17:06:49 - Row :240 - Parsing item.
+10-18-2021 @ 17:06:49 - Row :240 - Processing item.
+10-18-2021 @ 17:06:49 - Found order object. ID:90250
+10-18-2021 @ 17:06:50 - Row :240 - Order updated successfully.
+10-18-2021 @ 17:06:50 - Row :241 - Parsing item.
+10-18-2021 @ 17:06:50 - Row :241 - Processing item.
+10-18-2021 @ 17:06:50 - Found order object. ID:90251
+10-18-2021 @ 17:06:51 - Row :241 - Order updated successfully.
+10-18-2021 @ 17:06:51 - Row :242 - Parsing item.
+10-18-2021 @ 17:06:51 - Row :242 - Processing item.
+10-18-2021 @ 17:06:51 - Found order object. ID:90252
+10-18-2021 @ 17:06:51 - Row :242 - Order updated successfully.
+10-18-2021 @ 17:06:51 - Row :243 - Parsing item.
+10-18-2021 @ 17:06:51 - Row :243 - Processing item.
+10-18-2021 @ 17:06:51 - Found order object. ID:90253
+10-18-2021 @ 17:06:53 - Row :243 - Order updated successfully.
+10-18-2021 @ 17:06:54 - Row :244 - Parsing item.
+10-18-2021 @ 17:06:54 - Row :244 - Processing item.
+10-18-2021 @ 17:06:54 - Found order object. ID:90254
+10-18-2021 @ 17:06:56 - Row :244 - Order updated successfully.
+10-18-2021 @ 17:06:56 - Row :245 - Parsing item.
+10-18-2021 @ 17:06:56 - Row :245 - Processing item.
+10-18-2021 @ 17:06:56 - Found order object. ID:90255
+10-18-2021 @ 17:06:58 - Row :245 - Order updated successfully.
+10-18-2021 @ 17:06:58 - Row :246 - Parsing item.
+10-18-2021 @ 17:06:58 - Row :246 - Processing item.
+10-18-2021 @ 17:06:58 - Found order object. ID:90256
+10-18-2021 @ 17:06:58 - Row :246 - Order updated successfully.
+10-18-2021 @ 17:06:58 - Row :247 - Parsing item.
+10-18-2021 @ 17:06:58 - Row :247 - Processing item.
+10-18-2021 @ 17:06:58 - Found order object. ID:90257
+10-18-2021 @ 17:06:59 - Row :247 - Order updated successfully.
+10-18-2021 @ 17:06:59 - Row :248 - Parsing item.
+10-18-2021 @ 17:06:59 - Row :248 - Processing item.
+10-18-2021 @ 17:06:59 - Found order object. ID:90258
+10-18-2021 @ 17:07:02 - Row :248 - Order updated successfully.
+10-18-2021 @ 17:07:02 - Row :249 - Parsing item.
+10-18-2021 @ 17:07:02 - Row :249 - Processing item.
+10-18-2021 @ 17:07:02 - Found order object. ID:90259
+10-18-2021 @ 17:07:03 - Row :249 - Order updated successfully.
+10-18-2021 @ 17:07:03 - Row :250 - Parsing item.
+10-18-2021 @ 17:07:03 - Row :250 - Processing item.
+10-18-2021 @ 17:07:03 - Found order object. ID:90260
+10-18-2021 @ 17:07:03 - Row :250 - Order updated successfully.
+10-18-2021 @ 17:07:03 - Row :251 - Parsing item.
+10-18-2021 @ 17:07:03 - Row :251 - Processing item.
+10-18-2021 @ 17:07:03 - Found order object. ID:90261
+10-18-2021 @ 17:07:04 - Row :251 - Order updated successfully.
+10-18-2021 @ 17:07:04 - Row :252 - Parsing item.
+10-18-2021 @ 17:07:04 - Row :252 - Processing item.
+10-18-2021 @ 17:07:04 - Found order object. ID:90262
+10-18-2021 @ 17:07:05 - Row :252 - Order updated successfully.
+10-18-2021 @ 17:07:05 - Row :253 - Parsing item.
+10-18-2021 @ 17:07:05 - Row :253 - Processing item.
+10-18-2021 @ 17:07:05 - Found order object. ID:90263
+10-18-2021 @ 17:07:07 - Row :253 - Order updated successfully.
+10-18-2021 @ 17:07:07 - Row :254 - Parsing item.
+10-18-2021 @ 17:07:07 - Row :254 - Processing item.
+10-18-2021 @ 17:07:07 - Found order object. ID:90264
+10-18-2021 @ 17:07:08 - Row :254 - Order updated successfully.
+10-18-2021 @ 17:07:08 - Row :255 - Parsing item.
+10-18-2021 @ 17:07:08 - Row :255 - Processing item.
+10-18-2021 @ 17:07:08 - Found order object. ID:90265
+10-18-2021 @ 17:07:10 - Row :255 - Order updated successfully.
+10-18-2021 @ 17:07:10 - Row :256 - Parsing item.
+10-18-2021 @ 17:07:10 - Row :256 - Processing item.
+10-18-2021 @ 17:07:10 - Found order object. ID:90266
+10-18-2021 @ 17:07:12 - Row :256 - Order updated successfully.
+10-18-2021 @ 17:07:12 - Row :257 - Parsing item.
+10-18-2021 @ 17:07:12 - Row :257 - Processing item.
+10-18-2021 @ 17:07:12 - Found order object. ID:90267
+10-18-2021 @ 17:07:13 - Row :257 - Order updated successfully.
+10-18-2021 @ 17:07:13 - Row :258 - Parsing item.
+10-18-2021 @ 17:07:13 - Row :258 - Processing item.
+10-18-2021 @ 17:07:13 - Found order object. ID:90268
+10-18-2021 @ 17:07:14 - Row :258 - Order updated successfully.
+10-18-2021 @ 17:07:14 - Row :259 - Parsing item.
+10-18-2021 @ 17:07:14 - Row :259 - Processing item.
+10-18-2021 @ 17:07:14 - Found order object. ID:90269
+10-18-2021 @ 17:07:16 - Row :259 - Order updated successfully.
+10-18-2021 @ 17:07:17 - Row :260 - Parsing item.
+10-18-2021 @ 17:07:17 - Row :260 - Processing item.
+10-18-2021 @ 17:07:17 - Found order object. ID:90270
+10-18-2021 @ 17:07:18 - Row :260 - Order updated successfully.
+10-18-2021 @ 17:07:18 - Row :261 - Parsing item.
+10-18-2021 @ 17:07:18 - Row :261 - Processing item.
+10-18-2021 @ 17:07:18 - Found order object. ID:90271
+10-18-2021 @ 17:07:19 - Row :261 - Order updated successfully.
+10-18-2021 @ 17:07:19 - Row :262 - Parsing item.
+10-18-2021 @ 17:07:19 - Row :262 - Processing item.
+10-18-2021 @ 17:07:19 - Found order object. ID:90272
+10-18-2021 @ 17:07:21 - Row :262 - Order updated successfully.
+10-18-2021 @ 17:07:21 - Row :263 - Parsing item.
+10-18-2021 @ 17:07:21 - Row :263 - Processing item.
+10-18-2021 @ 17:07:21 - Found order object. ID:90273
+10-18-2021 @ 17:07:22 - Row :263 - Order updated successfully.
+10-18-2021 @ 17:07:22 - Row :264 - Parsing item.
+10-18-2021 @ 17:07:22 - Row :264 - Processing item.
+10-18-2021 @ 17:07:22 - Found order object. ID:90274
+10-18-2021 @ 17:07:22 - Row :264 - Order updated successfully.
+10-18-2021 @ 17:07:22 - Row :265 - Parsing item.
+10-18-2021 @ 17:07:22 - Row :265 - Processing item.
+10-18-2021 @ 17:07:22 - Found order object. ID:90275
+10-18-2021 @ 17:07:23 - Row :265 - Order updated successfully.
+10-18-2021 @ 17:07:23 - Row :266 - Parsing item.
+10-18-2021 @ 17:07:23 - Row :266 - Processing item.
+10-18-2021 @ 17:07:24 - Found order object. ID:90276
+10-18-2021 @ 17:07:25 - Row :266 - Order updated successfully.
+10-18-2021 @ 17:07:25 - Row :267 - Parsing item.
+10-18-2021 @ 17:07:25 - Row :267 - Processing item.
+10-18-2021 @ 17:07:25 - Found order object. ID:90277
+10-18-2021 @ 17:07:27 - Row :267 - Order updated successfully.
+10-18-2021 @ 17:07:27 - Row :268 - Parsing item.
+10-18-2021 @ 17:07:27 - Row :268 - Processing item.
+10-18-2021 @ 17:07:27 - Found order object. ID:90278
+10-18-2021 @ 17:07:29 - Row :268 - Order updated successfully.
+10-18-2021 @ 17:07:29 - Row :269 - Parsing item.
+10-18-2021 @ 17:07:29 - Row :269 - Processing item.
+10-18-2021 @ 17:07:29 - Found order object. ID:90279
+10-18-2021 @ 17:07:30 - Row :269 - Order updated successfully.
+10-18-2021 @ 17:07:30 - Row :270 - Parsing item.
+10-18-2021 @ 17:07:30 - Row :270 - Processing item.
+10-18-2021 @ 17:07:30 - Found order object. ID:90280
+10-18-2021 @ 17:07:33 - Row :270 - Order updated successfully.
+10-18-2021 @ 17:07:33 - Row :271 - Parsing item.
+10-18-2021 @ 17:07:33 - Row :271 - Processing item.
+10-18-2021 @ 17:07:33 - Found order object. ID:90281
+10-18-2021 @ 17:07:33 - Row :271 - Order updated successfully.
+10-18-2021 @ 17:07:33 - Row :272 - Parsing item.
+10-18-2021 @ 17:07:33 - Row :272 - Processing item.
+10-18-2021 @ 17:07:33 - Found order object. ID:90282
+10-18-2021 @ 17:07:34 - Row :272 - Order updated successfully.
+10-18-2021 @ 17:07:34 - Row :273 - Parsing item.
+10-18-2021 @ 17:07:34 - Row :273 - Processing item.
+10-18-2021 @ 17:07:34 - Found order object. ID:90283
+10-18-2021 @ 17:07:35 - Row :273 - Order updated successfully.
+10-18-2021 @ 17:07:35 - Row :274 - Parsing item.
+10-18-2021 @ 17:07:35 - Row :274 - Processing item.
+10-18-2021 @ 17:07:35 - Found order object. ID:90284
+10-18-2021 @ 17:07:37 - Row :274 - Order updated successfully.
+10-18-2021 @ 17:07:37 - Row :275 - Parsing item.
+10-18-2021 @ 17:07:37 - Row :275 - Processing item.
+10-18-2021 @ 17:07:37 - Found order object. ID:90285
+10-18-2021 @ 17:07:38 - Row :275 - Order updated successfully.
+10-18-2021 @ 17:07:38 - Row :276 - Parsing item.
+10-18-2021 @ 17:07:38 - Row :276 - Processing item.
+10-18-2021 @ 17:07:38 - Found order object. ID:90286
+10-18-2021 @ 17:07:40 - Row :276 - Order updated successfully.
+10-18-2021 @ 17:07:40 - Row :277 - Parsing item.
+10-18-2021 @ 17:07:40 - Row :277 - Processing item.
+10-18-2021 @ 17:07:40 - Found order object. ID:90287
+10-18-2021 @ 17:07:41 - Row :277 - Order updated successfully.
+10-18-2021 @ 17:07:41 - Row :278 - Parsing item.
+10-18-2021 @ 17:07:41 - Row :278 - Processing item.
+10-18-2021 @ 17:07:41 - Found order object. ID:90288
+10-18-2021 @ 17:07:42 - Row :278 - Order updated successfully.
+10-18-2021 @ 17:07:42 - Row :279 - Parsing item.
+10-18-2021 @ 17:07:42 - Row :279 - Processing item.
+10-18-2021 @ 17:07:42 - Found order object. ID:90289
+10-18-2021 @ 17:07:43 - Row :279 - Order updated successfully.
+10-18-2021 @ 17:07:43 - Row :280 - Parsing item.
+10-18-2021 @ 17:07:43 - Row :280 - Processing item.
+10-18-2021 @ 17:07:43 - Found order object. ID:90290
+10-18-2021 @ 17:07:45 - Row :280 - Order updated successfully.
+10-18-2021 @ 17:07:45 - Row :281 - Parsing item.
+10-18-2021 @ 17:07:45 - Row :281 - Processing item.
+10-18-2021 @ 17:07:45 - Found order object. ID:90291
+10-18-2021 @ 17:07:46 - Row :281 - Order updated successfully.
+10-18-2021 @ 17:07:46 - Row :282 - Parsing item.
+10-18-2021 @ 17:07:46 - Row :282 - Processing item.
+10-18-2021 @ 17:07:46 - Found order object. ID:90292
+10-18-2021 @ 17:07:47 - Row :282 - Order updated successfully.
+10-18-2021 @ 17:07:47 - Row :283 - Parsing item.
+10-18-2021 @ 17:07:47 - Row :283 - Processing item.
+10-18-2021 @ 17:07:47 - Found order object. ID:90293
+10-18-2021 @ 17:07:49 - Row :283 - Order updated successfully.
+10-18-2021 @ 17:07:49 - Row :284 - Parsing item.
+10-18-2021 @ 17:07:49 - Row :284 - Processing item.
+10-18-2021 @ 17:07:49 - Found order object. ID:90294
+10-18-2021 @ 17:07:51 - Row :284 - Order updated successfully.
+10-18-2021 @ 17:07:51 - Row :285 - Parsing item.
+10-18-2021 @ 17:07:51 - Row :285 - Processing item.
+10-18-2021 @ 17:07:51 - Found order object. ID:90295
+10-18-2021 @ 17:07:53 - Row :285 - Order updated successfully.
+10-18-2021 @ 17:07:53 - Row :286 - Parsing item.
+10-18-2021 @ 17:07:53 - Row :286 - Processing item.
+10-18-2021 @ 17:07:53 - Found order object. ID:90296
+10-18-2021 @ 17:07:54 - Row :286 - Order updated successfully.
+10-18-2021 @ 17:07:54 - Row :287 - Parsing item.
+10-18-2021 @ 17:07:54 - Row :287 - Processing item.
+10-18-2021 @ 17:07:54 - Found order object. ID:90297
+10-18-2021 @ 17:07:55 - Row :287 - Order updated successfully.
+10-18-2021 @ 17:07:55 - Row :288 - Parsing item.
+10-18-2021 @ 17:07:55 - Row :288 - Processing item.
+10-18-2021 @ 17:07:55 - Found order object. ID:90298
+10-18-2021 @ 17:07:57 - Row :288 - Order updated successfully.
+10-18-2021 @ 17:07:57 - Row :289 - Parsing item.
+10-18-2021 @ 17:07:57 - Row :289 - Processing item.
+10-18-2021 @ 17:07:57 - Found order object. ID:90299
+10-18-2021 @ 17:07:58 - Row :289 - Order updated successfully.
+10-18-2021 @ 17:07:58 - Row :290 - Parsing item.
+10-18-2021 @ 17:07:58 - Row :290 - Processing item.
+10-18-2021 @ 17:07:58 - Found order object. ID:90300
+10-18-2021 @ 17:08:00 - Row :290 - Order updated successfully.
+10-18-2021 @ 17:08:00 - Row :291 - Parsing item.
+10-18-2021 @ 17:08:00 - Row :291 - Processing item.
+10-18-2021 @ 17:08:00 - Found order object. ID:90301
+10-18-2021 @ 17:08:01 - Row :291 - Order updated successfully.
+10-18-2021 @ 17:08:01 - Row :292 - Parsing item.
+10-18-2021 @ 17:08:01 - Row :292 - Processing item.
+10-18-2021 @ 17:08:01 - Found order object. ID:90302
+10-18-2021 @ 17:08:02 - Row :292 - Order updated successfully.
+10-18-2021 @ 17:08:02 - Row :293 - Parsing item.
+10-18-2021 @ 17:08:02 - Row :293 - Processing item.
+10-18-2021 @ 17:08:02 - Found order object. ID:90303
+10-18-2021 @ 17:08:03 - Row :293 - Order updated successfully.
+10-18-2021 @ 17:08:03 - Row :294 - Parsing item.
+10-18-2021 @ 17:08:03 - Row :294 - Processing item.
+10-18-2021 @ 17:08:03 - Found order object. ID:90304
+10-18-2021 @ 17:08:04 - Row :294 - Order updated successfully.
+10-18-2021 @ 17:08:04 - Row :295 - Parsing item.
+10-18-2021 @ 17:08:04 - Row :295 - Processing item.
+10-18-2021 @ 17:08:04 - Found order object. ID:90305
+10-18-2021 @ 17:08:05 - Row :295 - Order updated successfully.
+10-18-2021 @ 17:08:05 - Row :296 - Parsing item.
+10-18-2021 @ 17:08:05 - Row :296 - Processing item.
+10-18-2021 @ 17:08:05 - Found order object. ID:90306
+10-18-2021 @ 17:08:06 - Row :296 - Order updated successfully.
+10-18-2021 @ 17:08:06 - Row :297 - Parsing item.
+10-18-2021 @ 17:08:06 - Row :297 - Processing item.
+10-18-2021 @ 17:08:06 - Found order object. ID:90307
+10-18-2021 @ 17:08:07 - Row :297 - Order updated successfully.
+10-18-2021 @ 17:08:07 - Row :298 - Parsing item.
+10-18-2021 @ 17:08:07 - Row :298 - Processing item.
+10-18-2021 @ 17:08:07 - Found order object. ID:90308
+10-18-2021 @ 17:08:08 - Row :298 - Order updated successfully.
+10-18-2021 @ 17:08:08 - Row :299 - Parsing item.
+10-18-2021 @ 17:08:08 - Row :299 - Processing item.
+10-18-2021 @ 17:08:08 - Found order object. ID:90309
+10-18-2021 @ 17:08:10 - Row :299 - Order updated successfully.
+10-18-2021 @ 17:08:10 - Row :300 - Parsing item.
+10-18-2021 @ 17:08:10 - Row :300 - Processing item.
+10-18-2021 @ 17:08:10 - Found order object. ID:90310
+10-18-2021 @ 17:08:12 - Row :300 - Order updated successfully.
+10-18-2021 @ 17:08:12 - Row :301 - Parsing item.
+10-18-2021 @ 17:08:12 - Row :301 - Processing item.
+10-18-2021 @ 17:08:12 - Found order object. ID:90311
+10-18-2021 @ 17:08:14 - Row :301 - Order updated successfully.
+10-18-2021 @ 17:08:14 - Row :302 - Parsing item.
+10-18-2021 @ 17:08:14 - Row :302 - Processing item.
+10-18-2021 @ 17:08:14 - Found order object. ID:90312
+10-18-2021 @ 17:08:16 - Row :302 - Order updated successfully.
+10-18-2021 @ 17:08:16 - Row :303 - Parsing item.
+10-18-2021 @ 17:08:16 - Row :303 - Processing item.
+10-18-2021 @ 17:08:16 - Found order object. ID:90313
+10-18-2021 @ 17:08:17 - Row :303 - Order updated successfully.
+10-18-2021 @ 17:08:17 - Row :304 - Parsing item.
+10-18-2021 @ 17:08:17 - Row :304 - Processing item.
+10-18-2021 @ 17:08:17 - Found order object. ID:90314
+10-18-2021 @ 17:08:19 - Row :304 - Order updated successfully.
+10-18-2021 @ 17:08:19 - Row :305 - Parsing item.
+10-18-2021 @ 17:08:19 - Row :305 - Processing item.
+10-18-2021 @ 17:08:19 - Found order object. ID:90315
+10-18-2021 @ 17:08:20 - Row :305 - Order updated successfully.
+10-18-2021 @ 17:08:20 - Row :306 - Parsing item.
+10-18-2021 @ 17:08:20 - Row :306 - Processing item.
+10-18-2021 @ 17:08:20 - Found order object. ID:90316
+10-18-2021 @ 17:08:22 - Row :306 - Order updated successfully.
+10-18-2021 @ 17:08:22 - Row :307 - Parsing item.
+10-18-2021 @ 17:08:22 - Row :307 - Processing item.
+10-18-2021 @ 17:08:22 - Found order object. ID:90317
+10-18-2021 @ 17:08:24 - Row :307 - Order updated successfully.
+10-18-2021 @ 17:08:24 - Row :308 - Parsing item.
+10-18-2021 @ 17:08:24 - Row :308 - Processing item.
+10-18-2021 @ 17:08:24 - Found order object. ID:90318
+10-18-2021 @ 17:08:25 - Row :308 - Order updated successfully.
+10-18-2021 @ 17:08:25 - Row :309 - Parsing item.
+10-18-2021 @ 17:08:25 - Row :309 - Processing item.
+10-18-2021 @ 17:08:25 - Found order object. ID:90319
+10-18-2021 @ 17:08:27 - Row :309 - Order updated successfully.
+10-18-2021 @ 17:08:27 - Row :310 - Parsing item.
+10-18-2021 @ 17:08:27 - Row :310 - Processing item.
+10-18-2021 @ 17:08:27 - Found order object. ID:90320
+10-18-2021 @ 17:08:28 - Row :310 - Order updated successfully.
+10-18-2021 @ 17:08:28 - Row :311 - Parsing item.
+10-18-2021 @ 17:08:28 - Row :311 - Processing item.
+10-18-2021 @ 17:08:28 - Found order object. ID:90321
+10-18-2021 @ 17:08:29 - Row :311 - Order updated successfully.
+10-18-2021 @ 17:08:29 - Row :312 - Parsing item.
+10-18-2021 @ 17:08:29 - Row :312 - Processing item.
+10-18-2021 @ 17:08:29 - Found order object. ID:90322
+10-18-2021 @ 17:08:29 - Row :312 - Order updated successfully.
+10-18-2021 @ 17:08:29 - Row :313 - Parsing item.
+10-18-2021 @ 17:08:29 - Row :313 - Processing item.
+10-18-2021 @ 17:08:29 - Found order object. ID:90323
+10-18-2021 @ 17:08:30 - Row :313 - Order updated successfully.
+10-18-2021 @ 17:08:30 - Row :314 - Parsing item.
+10-18-2021 @ 17:08:30 - Row :314 - Processing item.
+10-18-2021 @ 17:08:30 - Found order object. ID:90324
+10-18-2021 @ 17:08:32 - Row :314 - Order updated successfully.
+10-18-2021 @ 17:08:32 - Row :315 - Parsing item.
+10-18-2021 @ 17:08:32 - Row :315 - Processing item.
+10-18-2021 @ 17:08:32 - Found order object. ID:90325
+10-18-2021 @ 17:08:33 - Row :315 - Order updated successfully.
+10-18-2021 @ 17:08:33 - Row :316 - Parsing item.
+10-18-2021 @ 17:08:33 - Row :316 - Processing item.
+10-18-2021 @ 17:08:33 - Found order object. ID:90326
+10-18-2021 @ 17:08:34 - Row :316 - Order updated successfully.
+10-18-2021 @ 17:08:34 - Row :317 - Parsing item.
+10-18-2021 @ 17:08:34 - Row :317 - Processing item.
+10-18-2021 @ 17:08:35 - Found order object. ID:90327
+10-18-2021 @ 17:08:36 - Row :317 - Order updated successfully.
+10-18-2021 @ 17:08:36 - Row :318 - Parsing item.
+10-18-2021 @ 17:08:36 - Row :318 - Processing item.
+10-18-2021 @ 17:08:36 - Found order object. ID:90328
+10-18-2021 @ 17:08:38 - Row :318 - Order updated successfully.
+10-18-2021 @ 17:08:38 - Row :319 - Parsing item.
+10-18-2021 @ 17:08:38 - Row :319 - Processing item.
+10-18-2021 @ 17:08:38 - Found order object. ID:90329
+10-18-2021 @ 17:08:40 - Row :319 - Order updated successfully.
+10-18-2021 @ 17:08:40 - Row :320 - Parsing item.
+10-18-2021 @ 17:08:40 - Row :320 - Processing item.
+10-18-2021 @ 17:08:40 - Found order object. ID:90330
+10-18-2021 @ 17:08:41 - Row :320 - Order updated successfully.
+10-18-2021 @ 17:08:41 - Row :321 - Parsing item.
+10-18-2021 @ 17:08:41 - Row :321 - Processing item.
+10-18-2021 @ 17:08:41 - Found order object. ID:90331
+10-18-2021 @ 17:08:42 - Row :321 - Order updated successfully.
+10-18-2021 @ 17:08:42 - Row :322 - Parsing item.
+10-18-2021 @ 17:08:42 - Row :322 - Processing item.
+10-18-2021 @ 17:08:42 - Found order object. ID:90332
+10-18-2021 @ 17:08:44 - Row :322 - Order updated successfully.
+10-18-2021 @ 17:08:44 - Row :323 - Parsing item.
+10-18-2021 @ 17:08:44 - Row :323 - Processing item.
+10-18-2021 @ 17:08:44 - Found order object. ID:90333
+10-18-2021 @ 17:08:45 - Row :323 - Order updated successfully.
+10-18-2021 @ 17:08:45 - Row :324 - Parsing item.
+10-18-2021 @ 17:08:45 - Row :324 - Processing item.
+10-18-2021 @ 17:08:45 - Found order object. ID:90334
+10-18-2021 @ 17:08:46 - Row :324 - Order updated successfully.
+10-18-2021 @ 17:08:46 - Row :325 - Parsing item.
+10-18-2021 @ 17:08:46 - Row :325 - Processing item.
+10-18-2021 @ 17:08:46 - Found order object. ID:90335
+10-18-2021 @ 17:08:48 - Row :325 - Order updated successfully.
+10-18-2021 @ 17:08:48 - Row :326 - Parsing item.
+10-18-2021 @ 17:08:48 - Row :326 - Processing item.
+10-18-2021 @ 17:08:48 - Found order object. ID:90336
+10-18-2021 @ 17:08:50 - Row :326 - Order updated successfully.
+10-18-2021 @ 17:08:50 - Row :327 - Parsing item.
+10-18-2021 @ 17:08:50 - Row :327 - Processing item.
+10-18-2021 @ 17:08:50 - Found order object. ID:90337
+10-18-2021 @ 17:08:52 - Row :327 - Order updated successfully.
+10-18-2021 @ 17:08:52 - Row :328 - Parsing item.
+10-18-2021 @ 17:08:52 - Row :328 - Processing item.
+10-18-2021 @ 17:08:52 - Found order object. ID:90338
+10-18-2021 @ 17:08:53 - Row :328 - Order updated successfully.
+10-18-2021 @ 17:08:53 - Row :329 - Parsing item.
+10-18-2021 @ 17:08:53 - Row :329 - Processing item.
+10-18-2021 @ 17:08:53 - Found order object. ID:90339
+10-18-2021 @ 17:08:55 - Row :329 - Order updated successfully.
+10-18-2021 @ 17:08:55 - Row :330 - Parsing item.
+10-18-2021 @ 17:08:55 - Row :330 - Processing item.
+10-18-2021 @ 17:08:55 - Found order object. ID:90340
+10-18-2021 @ 17:08:55 - Row :330 - Order updated successfully.
+10-18-2021 @ 17:08:55 - Row :331 - Parsing item.
+10-18-2021 @ 17:08:55 - Row :331 - Processing item.
+10-18-2021 @ 17:08:55 - Found order object. ID:90341
+10-18-2021 @ 17:08:56 - Row :331 - Order updated successfully.
+10-18-2021 @ 17:08:56 - Row :332 - Parsing item.
+10-18-2021 @ 17:08:56 - Row :332 - Processing item.
+10-18-2021 @ 17:08:57 - Found order object. ID:90342
+10-18-2021 @ 17:08:58 - Row :332 - Order updated successfully.
+10-18-2021 @ 17:08:58 - Row :333 - Parsing item.
+10-18-2021 @ 17:08:58 - Row :333 - Processing item.
+10-18-2021 @ 17:08:58 - Found order object. ID:90343
+10-18-2021 @ 17:09:00 - Row :333 - Order updated successfully.
+10-18-2021 @ 17:09:00 - Row :334 - Parsing item.
+10-18-2021 @ 17:09:00 - Row :334 - Processing item.
+10-18-2021 @ 17:09:00 - Found order object. ID:90345
+10-18-2021 @ 17:09:01 - Row :334 - Order updated successfully.
+10-18-2021 @ 17:09:01 - Row :335 - Parsing item.
+10-18-2021 @ 17:09:01 - Row :335 - Processing item.
+10-18-2021 @ 17:09:01 - Found order object. ID:90346
+10-18-2021 @ 17:09:02 - Row :335 - Order updated successfully.
+10-18-2021 @ 17:09:02 - Row :336 - Parsing item.
+10-18-2021 @ 17:09:02 - Row :336 - Processing item.
+10-18-2021 @ 17:09:02 - Found order object. ID:90347
+10-18-2021 @ 17:09:03 - Row :336 - Order updated successfully.
+10-18-2021 @ 17:09:03 - Row :337 - Parsing item.
+10-18-2021 @ 17:09:03 - Row :337 - Processing item.
+10-18-2021 @ 17:09:03 - Found order object. ID:90348
+10-18-2021 @ 17:09:05 - Row :337 - Order updated successfully.
+10-18-2021 @ 17:09:05 - Row :338 - Parsing item.
+10-18-2021 @ 17:09:05 - Row :338 - Processing item.
+10-18-2021 @ 17:09:05 - Found order object. ID:90349
+10-18-2021 @ 17:09:05 - Row :338 - Order updated successfully.
+10-18-2021 @ 17:09:05 - Row :339 - Parsing item.
+10-18-2021 @ 17:09:05 - Row :339 - Processing item.
+10-18-2021 @ 17:09:05 - Found order object. ID:90350
+10-18-2021 @ 17:09:08 - Row :339 - Order updated successfully.
+10-18-2021 @ 17:09:08 - Row :340 - Parsing item.
+10-18-2021 @ 17:09:08 - Row :340 - Processing item.
+10-18-2021 @ 17:09:08 - Found order object. ID:90351
+10-18-2021 @ 17:09:09 - Row :340 - Order updated successfully.
+10-18-2021 @ 17:09:09 - Row :341 - Parsing item.
+10-18-2021 @ 17:09:09 - Row :341 - Processing item.
+10-18-2021 @ 17:09:09 - Found order object. ID:90352
+10-18-2021 @ 17:09:09 - Row :341 - Order updated successfully.
+10-18-2021 @ 17:09:09 - Row :342 - Parsing item.
+10-18-2021 @ 17:09:09 - Row :342 - Processing item.
+10-18-2021 @ 17:09:09 - Found order object. ID:90353
+10-18-2021 @ 17:09:10 - Row :342 - Order updated successfully.
+10-18-2021 @ 17:09:10 - Row :343 - Parsing item.
+10-18-2021 @ 17:09:10 - Row :343 - Processing item.
+10-18-2021 @ 17:09:10 - Found order object. ID:90354
+10-18-2021 @ 17:09:12 - Row :343 - Order updated successfully.
+10-18-2021 @ 17:09:12 - Row :344 - Parsing item.
+10-18-2021 @ 17:09:12 - Row :344 - Processing item.
+10-18-2021 @ 17:09:12 - Found order object. ID:90355
+10-18-2021 @ 17:09:13 - Row :344 - Order updated successfully.
+10-18-2021 @ 17:09:13 - Row :345 - Parsing item.
+10-18-2021 @ 17:09:13 - Row :345 - Processing item.
+10-18-2021 @ 17:09:13 - Found order object. ID:90356
+10-18-2021 @ 17:09:14 - Row :345 - Order updated successfully.
+10-18-2021 @ 17:09:14 - Row :346 - Parsing item.
+10-18-2021 @ 17:09:14 - Row :346 - Processing item.
+10-18-2021 @ 17:09:14 - Found order object. ID:90357
+10-18-2021 @ 17:09:15 - Row :346 - Order updated successfully.
+10-18-2021 @ 17:09:15 - Row :347 - Parsing item.
+10-18-2021 @ 17:09:15 - Row :347 - Processing item.
+10-18-2021 @ 17:09:15 - Found order object. ID:90358
+10-18-2021 @ 17:09:16 - Row :347 - Order updated successfully.
+10-18-2021 @ 17:09:16 - Row :348 - Parsing item.
+10-18-2021 @ 17:09:16 - Row :348 - Processing item.
+10-18-2021 @ 17:09:16 - Found order object. ID:90359
+10-18-2021 @ 17:09:18 - Row :348 - Order updated successfully.
+10-18-2021 @ 17:09:18 - Row :349 - Parsing item.
+10-18-2021 @ 17:09:18 - Row :349 - Processing item.
+10-18-2021 @ 17:09:18 - Found order object. ID:90360
+10-18-2021 @ 17:09:19 - Row :349 - Order updated successfully.
+10-18-2021 @ 17:09:19 - Row :350 - Parsing item.
+10-18-2021 @ 17:09:19 - Row :350 - Processing item.
+10-18-2021 @ 17:09:19 - Found order object. ID:90361
+10-18-2021 @ 17:09:20 - Row :350 - Order updated successfully.
+10-18-2021 @ 17:09:20 - Row :351 - Parsing item.
+10-18-2021 @ 17:09:20 - Row :351 - Processing item.
+10-18-2021 @ 17:09:20 - Found order object. ID:90362
+10-18-2021 @ 17:09:22 - Row :351 - Order updated successfully.
+10-18-2021 @ 17:09:22 - Row :352 - Parsing item.
+10-18-2021 @ 17:09:22 - Row :352 - Processing item.
+10-18-2021 @ 17:09:22 - Found order object. ID:90363
+10-18-2021 @ 17:09:24 - Row :352 - Order updated successfully.
+10-18-2021 @ 17:09:24 - Row :353 - Parsing item.
+10-18-2021 @ 17:09:24 - Row :353 - Processing item.
+10-18-2021 @ 17:09:24 - Found order object. ID:90364
+10-18-2021 @ 17:09:26 - Row :353 - Order updated successfully.
+10-18-2021 @ 17:09:26 - Row :354 - Parsing item.
+10-18-2021 @ 17:09:26 - Row :354 - Processing item.
+10-18-2021 @ 17:09:26 - Found order object. ID:90365
+10-18-2021 @ 17:09:28 - Row :354 - Order updated successfully.
+10-18-2021 @ 17:09:28 - Row :355 - Parsing item.
+10-18-2021 @ 17:09:28 - Row :355 - Processing item.
+10-18-2021 @ 17:09:28 - Found order object. ID:90366
+10-18-2021 @ 17:09:30 - Row :355 - Order updated successfully.
+10-18-2021 @ 17:09:30 - Row :356 - Parsing item.
+10-18-2021 @ 17:09:30 - Row :356 - Processing item.
+10-18-2021 @ 17:09:30 - Found order object. ID:90367
+10-18-2021 @ 17:09:32 - Row :356 - Order updated successfully.
+10-18-2021 @ 17:09:32 - Row :357 - Parsing item.
+10-18-2021 @ 17:09:32 - Row :357 - Processing item.
+10-18-2021 @ 17:09:32 - Found order object. ID:90368
+10-18-2021 @ 17:09:33 - Row :357 - Order updated successfully.
+10-18-2021 @ 17:09:33 - Row :358 - Parsing item.
+10-18-2021 @ 17:09:33 - Row :358 - Processing item.
+10-18-2021 @ 17:09:33 - Found order object. ID:90369
+10-18-2021 @ 17:09:34 - Row :358 - Order updated successfully.
+10-18-2021 @ 17:09:34 - Row :359 - Parsing item.
+10-18-2021 @ 17:09:34 - Row :359 - Processing item.
+10-18-2021 @ 17:09:34 - Found order object. ID:90370
+10-18-2021 @ 17:09:36 - Row :359 - Order updated successfully.
+10-18-2021 @ 17:09:36 - Row :360 - Parsing item.
+10-18-2021 @ 17:09:36 - Row :360 - Processing item.
+10-18-2021 @ 17:09:36 - Found order object. ID:90371
+10-18-2021 @ 17:09:37 - Row :360 - Order updated successfully.
+10-18-2021 @ 17:09:37 - Row :361 - Parsing item.
+10-18-2021 @ 17:09:37 - Row :361 - Processing item.
+10-18-2021 @ 17:09:37 - Found order object. ID:90372
+10-18-2021 @ 17:09:38 - Row :361 - Order updated successfully.
+10-18-2021 @ 17:09:38 - Row :362 - Parsing item.
+10-18-2021 @ 17:09:38 - Row :362 - Processing item.
+10-18-2021 @ 17:09:38 - Found order object. ID:90373
+10-18-2021 @ 17:09:40 - Row :362 - Order updated successfully.
+10-18-2021 @ 17:09:40 - Row :363 - Parsing item.
+10-18-2021 @ 17:09:40 - Row :363 - Processing item.
+10-18-2021 @ 17:09:40 - Found order object. ID:90374
+10-18-2021 @ 17:09:42 - Row :363 - Order updated successfully.
+10-18-2021 @ 17:09:42 - Row :364 - Parsing item.
+10-18-2021 @ 17:09:42 - Row :364 - Processing item.
+10-18-2021 @ 17:09:42 - Found order object. ID:90375
+10-18-2021 @ 17:09:43 - Row :364 - Order updated successfully.
+10-18-2021 @ 17:09:43 - Row :365 - Parsing item.
+10-18-2021 @ 17:09:43 - Row :365 - Processing item.
+10-18-2021 @ 17:09:43 - Found order object. ID:90376
+10-18-2021 @ 17:09:45 - Row :365 - Order updated successfully.
+10-18-2021 @ 17:09:45 - Row :366 - Parsing item.
+10-18-2021 @ 17:09:45 - Row :366 - Processing item.
+10-18-2021 @ 17:09:45 - Found order object. ID:90377
+10-18-2021 @ 17:09:46 - Row :366 - Order updated successfully.
+10-18-2021 @ 17:09:46 - Row :367 - Parsing item.
+10-18-2021 @ 17:09:46 - Row :367 - Processing item.
+10-18-2021 @ 17:09:46 - Found order object. ID:90378
+10-18-2021 @ 17:09:47 - Row :367 - Order updated successfully.
+10-18-2021 @ 17:09:47 - Row :368 - Parsing item.
+10-18-2021 @ 17:09:48 - Row :368 - Processing item.
+10-18-2021 @ 17:09:48 - Found order object. ID:90379
+10-18-2021 @ 17:09:49 - Row :368 - Order updated successfully.
+10-18-2021 @ 17:09:49 - Row :369 - Parsing item.
+10-18-2021 @ 17:09:49 - Row :369 - Processing item.
+10-18-2021 @ 17:09:49 - Found order object. ID:90380
+10-18-2021 @ 17:09:49 - Row :369 - Order updated successfully.
+10-18-2021 @ 17:09:49 - Row :370 - Parsing item.
+10-18-2021 @ 17:09:49 - Row :370 - Processing item.
+10-18-2021 @ 17:09:49 - Found order object. ID:90381
+10-18-2021 @ 17:09:51 - Row :370 - Order updated successfully.
+10-18-2021 @ 17:09:51 - Row :371 - Parsing item.
+10-18-2021 @ 17:09:51 - Row :371 - Processing item.
+10-18-2021 @ 17:09:51 - Found order object. ID:90382
+10-18-2021 @ 17:09:51 - Row :371 - Order updated successfully.
+10-18-2021 @ 17:09:51 - Row :372 - Parsing item.
+10-18-2021 @ 17:09:51 - Row :372 - Processing item.
+10-18-2021 @ 17:09:51 - Found order object. ID:90383
+10-18-2021 @ 17:09:53 - Row :372 - Order updated successfully.
+10-18-2021 @ 17:09:53 - Row :373 - Parsing item.
+10-18-2021 @ 17:09:53 - Row :373 - Processing item.
+10-18-2021 @ 17:09:53 - Found order object. ID:90384
+10-18-2021 @ 17:09:54 - Row :373 - Order updated successfully.
+10-18-2021 @ 17:09:55 - Row :374 - Parsing item.
+10-18-2021 @ 17:09:55 - Row :374 - Processing item.
+10-18-2021 @ 17:09:55 - Found order object. ID:90385
+10-18-2021 @ 17:09:56 - Row :374 - Order updated successfully.
+10-18-2021 @ 17:09:56 - Row :375 - Parsing item.
+10-18-2021 @ 17:09:56 - Row :375 - Processing item.
+10-18-2021 @ 17:09:56 - Found order object. ID:90386
+10-18-2021 @ 17:09:57 - Row :375 - Order updated successfully.
+10-18-2021 @ 17:09:57 - Row :376 - Parsing item.
+10-18-2021 @ 17:09:57 - Row :376 - Processing item.
+10-18-2021 @ 17:09:57 - Found order object. ID:90387
+10-18-2021 @ 17:09:59 - Row :376 - Order updated successfully.
+10-18-2021 @ 17:09:59 - Row :377 - Parsing item.
+10-18-2021 @ 17:09:59 - Row :377 - Processing item.
+10-18-2021 @ 17:09:59 - Found order object. ID:90393
+10-18-2021 @ 17:10:01 - Row :377 - Order updated successfully.
+10-18-2021 @ 17:10:01 - Row :378 - Parsing item.
+10-18-2021 @ 17:10:02 - Row :378 - Processing item.
+10-18-2021 @ 17:10:02 - Found order object. ID:90394
+10-18-2021 @ 17:10:02 - Row :378 - Order updated successfully.
+10-18-2021 @ 17:10:02 - Row :379 - Parsing item.
+10-18-2021 @ 17:10:02 - Row :379 - Processing item.
+10-18-2021 @ 17:10:02 - Found order object. ID:90395
+10-18-2021 @ 17:10:03 - Row :379 - Order updated successfully.
+10-18-2021 @ 17:10:03 - Row :380 - Parsing item.
+10-18-2021 @ 17:10:03 - Row :380 - Processing item.
+10-18-2021 @ 17:10:03 - Found order object. ID:90396
+10-18-2021 @ 17:10:04 - Row :380 - Order updated successfully.
+10-18-2021 @ 17:10:04 - Row :381 - Parsing item.
+10-18-2021 @ 17:10:04 - Row :381 - Processing item.
+10-18-2021 @ 17:10:04 - Found order object. ID:90397
+10-18-2021 @ 17:10:06 - Row :381 - Order updated successfully.
+10-18-2021 @ 17:10:06 - Row :382 - Parsing item.
+10-18-2021 @ 17:10:06 - Row :382 - Processing item.
+10-18-2021 @ 17:10:06 - Found order object. ID:90398
+10-18-2021 @ 17:10:06 - Row :382 - Order updated successfully.
+10-18-2021 @ 17:10:06 - Row :383 - Parsing item.
+10-18-2021 @ 17:10:06 - Row :383 - Processing item.
+10-18-2021 @ 17:10:06 - Found order object. ID:90399
+10-18-2021 @ 17:10:08 - Row :383 - Order updated successfully.
+10-18-2021 @ 17:10:08 - Row :384 - Parsing item.
+10-18-2021 @ 17:10:08 - Row :384 - Processing item.
+10-18-2021 @ 17:10:08 - Found order object. ID:90400
+10-18-2021 @ 17:10:08 - Row :384 - Order updated successfully.
+10-18-2021 @ 17:10:08 - Row :385 - Parsing item.
+10-18-2021 @ 17:10:08 - Row :385 - Processing item.
+10-18-2021 @ 17:10:08 - Found order object. ID:90401
+10-18-2021 @ 17:10:09 - Row :385 - Order updated successfully.
+10-18-2021 @ 17:10:09 - Row :386 - Parsing item.
+10-18-2021 @ 17:10:09 - Row :386 - Processing item.
+10-18-2021 @ 17:10:09 - Found order object. ID:90402
+10-18-2021 @ 17:10:10 - Row :386 - Order updated successfully.
+10-18-2021 @ 17:10:10 - Row :387 - Parsing item.
+10-18-2021 @ 17:10:10 - Row :387 - Processing item.
+10-18-2021 @ 17:10:10 - Found order object. ID:90403
+10-18-2021 @ 17:10:11 - Row :387 - Order updated successfully.
+10-18-2021 @ 17:10:11 - Row :388 - Parsing item.
+10-18-2021 @ 17:10:11 - Row :388 - Processing item.
+10-18-2021 @ 17:10:11 - Found order object. ID:90404
+10-18-2021 @ 17:10:12 - Row :388 - Order updated successfully.
+10-18-2021 @ 17:10:12 - Row :389 - Parsing item.
+10-18-2021 @ 17:10:12 - Row :389 - Processing item.
+10-18-2021 @ 17:10:12 - Found order object. ID:90405
+10-18-2021 @ 17:10:14 - Row :389 - Order updated successfully.
+10-18-2021 @ 17:10:14 - Row :390 - Parsing item.
+10-18-2021 @ 17:10:14 - Row :390 - Processing item.
+10-18-2021 @ 17:10:14 - Found order object. ID:90406
+10-18-2021 @ 17:10:15 - Row :390 - Order updated successfully.
+10-18-2021 @ 17:10:15 - Row :391 - Parsing item.
+10-18-2021 @ 17:10:15 - Row :391 - Processing item.
+10-18-2021 @ 17:10:15 - Found order object. ID:90407
+10-18-2021 @ 17:10:16 - Row :391 - Order updated successfully.
+10-18-2021 @ 17:10:16 - Row :392 - Parsing item.
+10-18-2021 @ 17:10:16 - Row :392 - Processing item.
+10-18-2021 @ 17:10:16 - Found order object. ID:90408
+10-18-2021 @ 17:10:18 - Row :392 - Order updated successfully.
+10-18-2021 @ 17:10:18 - Row :393 - Parsing item.
+10-18-2021 @ 17:10:18 - Importing as new order ID:90409
+10-18-2021 @ 17:10:18 - Row :393 - Processing item.
+10-18-2021 @ 17:10:18 - Found order object. ID:90409
+10-18-2021 @ 17:10:20 - Row :393 - Order updated successfully.
+10-18-2021 @ 17:10:20 - Row :394 - Parsing item.
+10-18-2021 @ 17:10:20 - Importing as new order ID:90410
+10-18-2021 @ 17:10:20 - Row :394 - Processing item.
+10-18-2021 @ 17:10:20 - Found order object. ID:90410
+10-18-2021 @ 17:10:21 - Row :394 - Order updated successfully.
+10-18-2021 @ 17:10:21 - Row :395 - Parsing item.
+10-18-2021 @ 17:10:21 - Importing as new order ID:90411
+10-18-2021 @ 17:10:21 - Row :395 - Processing item.
+10-18-2021 @ 17:10:21 - Found order object. ID:90411
+10-18-2021 @ 17:10:23 - Row :395 - Order updated successfully.
+10-18-2021 @ 17:10:23 - Row :396 - Parsing item.
+10-18-2021 @ 17:10:23 - Importing as new order ID:90412
+10-18-2021 @ 17:10:23 - Row :396 - Processing item.
+10-18-2021 @ 17:10:23 - Found order object. ID:90412
+10-18-2021 @ 17:10:24 - Row :396 - Order updated successfully.
+10-18-2021 @ 17:10:24 - Row :397 - Parsing item.
+10-18-2021 @ 17:10:24 - Importing as new order ID:90413
+10-18-2021 @ 17:10:24 - Row :397 - Processing item.
+10-18-2021 @ 17:10:24 - Found order object. ID:90413
+10-18-2021 @ 17:10:25 - Row :397 - Order updated successfully.
+10-18-2021 @ 17:10:25 - Row :398 - Parsing item.
+10-18-2021 @ 17:10:25 - Importing as new order ID:90414
+10-18-2021 @ 17:10:25 - Row :398 - Processing item.
+10-18-2021 @ 17:10:25 - Found order object. ID:90414
+10-18-2021 @ 17:10:26 - Row :398 - Order updated successfully.
+10-18-2021 @ 17:10:26 - Row :399 - Parsing item.
+10-18-2021 @ 17:10:27 - Importing as new order ID:90415
+10-18-2021 @ 17:10:27 - Row :399 - Processing item.
+10-18-2021 @ 17:10:27 - Found order object. ID:90415
+10-18-2021 @ 17:10:28 - Row :399 - Order updated successfully.
+10-18-2021 @ 17:10:28 - Row :400 - Parsing item.
+10-18-2021 @ 17:10:28 - Importing as new order ID:90416
+10-18-2021 @ 17:10:28 - Row :400 - Processing item.
+10-18-2021 @ 17:10:28 - Found order object. ID:90416
+10-18-2021 @ 17:10:30 - Row :400 - Order updated successfully.
+10-18-2021 @ 17:10:30 - Row :401 - Parsing item.
+10-18-2021 @ 17:10:30 - Importing as new order ID:90417
+10-18-2021 @ 17:10:30 - Row :401 - Processing item.
+10-18-2021 @ 17:10:30 - Found order object. ID:90417
+10-18-2021 @ 17:10:31 - Row :401 - Order updated successfully.
+10-18-2021 @ 17:10:31 - Row :402 - Parsing item.
+10-18-2021 @ 17:10:31 - Importing as new order ID:90418
+10-18-2021 @ 17:10:31 - Row :402 - Processing item.
+10-18-2021 @ 17:10:31 - Found order object. ID:90418
+10-18-2021 @ 17:10:32 - Row :402 - Order updated successfully.
+10-18-2021 @ 17:10:32 - Row :403 - Parsing item.
+10-18-2021 @ 17:10:32 - Importing as new order ID:90419
+10-18-2021 @ 17:10:32 - Row :403 - Processing item.
+10-18-2021 @ 17:10:32 - Found order object. ID:90419
+10-18-2021 @ 17:10:34 - Row :403 - Order updated successfully.
+10-18-2021 @ 17:10:34 - Row :404 - Parsing item.
+10-18-2021 @ 17:10:34 - Importing as new order ID:90420
+10-18-2021 @ 17:10:34 - Row :404 - Processing item.
+10-18-2021 @ 17:10:34 - Found order object. ID:90420
+10-18-2021 @ 17:10:35 - Row :404 - Order updated successfully.
+10-18-2021 @ 17:10:35 - Row :405 - Parsing item.
+10-18-2021 @ 17:10:35 - Importing as new order ID:90421
+10-18-2021 @ 17:10:35 - Row :405 - Processing item.
+10-18-2021 @ 17:10:35 - Found order object. ID:90421
+10-18-2021 @ 17:10:36 - Row :405 - Order updated successfully.
+10-18-2021 @ 17:10:36 - Row :406 - Parsing item.
+10-18-2021 @ 17:10:36 - Importing as new order ID:90422
+10-18-2021 @ 17:10:36 - Row :406 - Processing item.
+10-18-2021 @ 17:10:36 - Found order object. ID:90422
+10-18-2021 @ 17:10:37 - Row :406 - Order updated successfully.
+10-18-2021 @ 17:10:37 - Row :407 - Parsing item.
+10-18-2021 @ 17:10:37 - Importing as new order ID:90423
+10-18-2021 @ 17:10:37 - Row :407 - Processing item.
+10-18-2021 @ 17:10:37 - Found order object. ID:90423
+10-18-2021 @ 17:10:38 - Row :407 - Order updated successfully.
+10-18-2021 @ 17:10:38 - Row :408 - Parsing item.
+10-18-2021 @ 17:10:38 - Importing as new order ID:90424
+10-18-2021 @ 17:10:38 - Row :408 - Processing item.
+10-18-2021 @ 17:10:39 - Found order object. ID:90424
+10-18-2021 @ 17:10:40 - Row :408 - Order updated successfully.
+10-18-2021 @ 17:10:40 - Row :409 - Parsing item.
+10-18-2021 @ 17:10:40 - Importing as new order ID:90425
+10-18-2021 @ 17:10:40 - Row :409 - Processing item.
+10-18-2021 @ 17:10:40 - Found order object. ID:90425
+10-18-2021 @ 17:10:42 - Row :409 - Order updated successfully.
+10-18-2021 @ 17:10:42 - Row :410 - Parsing item.
+10-18-2021 @ 17:10:42 - Importing as new order ID:90426
+10-18-2021 @ 17:10:42 - Row :410 - Processing item.
+10-18-2021 @ 17:10:42 - Found order object. ID:90426
+10-18-2021 @ 17:10:43 - Row :410 - Order updated successfully.
+10-18-2021 @ 17:10:43 - Row :411 - Parsing item.
+10-18-2021 @ 17:10:43 - Importing as new order ID:90427
+10-18-2021 @ 17:10:43 - Row :411 - Processing item.
+10-18-2021 @ 17:10:44 - Found order object. ID:90427
+10-18-2021 @ 17:10:46 - Row :411 - Order updated successfully.
+10-18-2021 @ 17:10:46 - Row :412 - Parsing item.
+10-18-2021 @ 17:10:46 - Importing as new order ID:90428
+10-18-2021 @ 17:10:46 - Row :412 - Processing item.
+10-18-2021 @ 17:10:46 - Found order object. ID:90428
+10-18-2021 @ 17:10:46 - Row :412 - Order updated successfully.
+10-18-2021 @ 17:10:46 - Row :413 - Parsing item.
+10-18-2021 @ 17:10:46 - Importing as new order ID:90429
+10-18-2021 @ 17:10:46 - Row :413 - Processing item.
+10-18-2021 @ 17:10:47 - Found order object. ID:90429
+10-18-2021 @ 17:10:49 - Row :413 - Order updated successfully.
+10-18-2021 @ 17:10:49 - Row :414 - Parsing item.
+10-18-2021 @ 17:10:49 - Importing as new order ID:90430
+10-18-2021 @ 17:10:49 - Row :414 - Processing item.
+10-18-2021 @ 17:10:49 - Found order object. ID:90430
+10-18-2021 @ 17:10:50 - Row :414 - Order updated successfully.
+10-18-2021 @ 17:10:50 - Row :415 - Parsing item.
+10-18-2021 @ 17:10:50 - Importing as new order ID:90431
+10-18-2021 @ 17:10:50 - Row :415 - Processing item.
+10-18-2021 @ 17:10:50 - Found order object. ID:90431
+10-18-2021 @ 17:10:53 - Row :415 - Order updated successfully.
+10-18-2021 @ 17:10:53 - Row :416 - Parsing item.
+10-18-2021 @ 17:10:53 - Importing as new order ID:90432
+10-18-2021 @ 17:10:53 - Row :416 - Processing item.
+10-18-2021 @ 17:10:53 - Found order object. ID:90432
+10-18-2021 @ 17:10:54 - Row :416 - Order updated successfully.
+10-18-2021 @ 17:10:54 - Row :417 - Parsing item.
+10-18-2021 @ 17:10:54 - Importing as new order ID:90433
+10-18-2021 @ 17:10:54 - Row :417 - Processing item.
+10-18-2021 @ 17:10:54 - Found order object. ID:90433
+10-18-2021 @ 17:10:56 - Row :417 - Order updated successfully.
+10-18-2021 @ 17:10:56 - Row :418 - Parsing item.
+10-18-2021 @ 17:10:56 - Importing as new order ID:90434
+10-18-2021 @ 17:10:56 - Row :418 - Processing item.
+10-18-2021 @ 17:10:56 - Found order object. ID:90434
+10-18-2021 @ 17:10:56 - Row :418 - Order updated successfully.
+10-18-2021 @ 17:10:56 - Row :419 - Parsing item.
+10-18-2021 @ 17:10:56 - Importing as new order ID:90435
+10-18-2021 @ 17:10:56 - Row :419 - Processing item.
+10-18-2021 @ 17:10:56 - Found order object. ID:90435
+10-18-2021 @ 17:10:59 - Row :419 - Order updated successfully.
+10-18-2021 @ 17:10:59 - Row :420 - Parsing item.
+10-18-2021 @ 17:10:59 - Importing as new order ID:90436
+10-18-2021 @ 17:10:59 - Row :420 - Processing item.
+10-18-2021 @ 17:10:59 - Found order object. ID:90436
+10-18-2021 @ 17:11:00 - Row :420 - Order updated successfully.
+10-18-2021 @ 17:11:00 - Row :421 - Parsing item.
+10-18-2021 @ 17:11:00 - Importing as new order ID:90437
+10-18-2021 @ 17:11:00 - Row :421 - Processing item.
+10-18-2021 @ 17:11:00 - Found order object. ID:90437
+10-18-2021 @ 17:11:02 - Row :421 - Order updated successfully.
+10-18-2021 @ 17:11:02 - Row :422 - Parsing item.
+10-18-2021 @ 17:11:02 - Importing as new order ID:90438
+10-18-2021 @ 17:11:02 - Row :422 - Processing item.
+10-18-2021 @ 17:11:02 - Found order object. ID:90438
+10-18-2021 @ 17:11:05 - Row :422 - Order updated successfully.
+10-18-2021 @ 17:11:05 - Row :423 - Parsing item.
+10-18-2021 @ 17:11:05 - Importing as new order ID:90439
+10-18-2021 @ 17:11:05 - Row :423 - Processing item.
+10-18-2021 @ 17:11:05 - Found order object. ID:90439
+10-18-2021 @ 17:11:06 - Row :423 - Order updated successfully.
+10-18-2021 @ 17:11:06 - Row :424 - Parsing item.
+10-18-2021 @ 17:11:06 - Importing as new order ID:90440
+10-18-2021 @ 17:11:06 - Row :424 - Processing item.
+10-18-2021 @ 17:11:06 - Found order object. ID:90440
+10-18-2021 @ 17:11:07 - Row :424 - Order updated successfully.
+10-18-2021 @ 17:11:07 - Row :425 - Parsing item.
+10-18-2021 @ 17:11:07 - Importing as new order ID:90441
+10-18-2021 @ 17:11:07 - Row :425 - Processing item.
+10-18-2021 @ 17:11:08 - Found order object. ID:90441
+10-18-2021 @ 17:11:08 - Row :425 - Order updated successfully.
+10-18-2021 @ 17:11:08 - Row :426 - Parsing item.
+10-18-2021 @ 17:11:08 - Importing as new order ID:90442
+10-18-2021 @ 17:11:08 - Row :426 - Processing item.
+10-18-2021 @ 17:11:08 - Found order object. ID:90442
+10-18-2021 @ 17:11:10 - Row :426 - Order updated successfully.
+10-18-2021 @ 17:11:10 - Row :427 - Parsing item.
+10-18-2021 @ 17:11:10 - Importing as new order ID:90443
+10-18-2021 @ 17:11:10 - Row :427 - Processing item.
+10-18-2021 @ 17:11:10 - Found order object. ID:90443
+10-18-2021 @ 17:11:10 - Row :427 - Order updated successfully.
+10-18-2021 @ 17:11:10 - Row :428 - Parsing item.
+10-18-2021 @ 17:11:10 - Importing as new order ID:90444
+10-18-2021 @ 17:11:10 - Row :428 - Processing item.
+10-18-2021 @ 17:11:10 - Found order object. ID:90444
+10-18-2021 @ 17:11:12 - Row :428 - Order updated successfully.
+10-18-2021 @ 17:11:12 - Row :429 - Parsing item.
+10-18-2021 @ 17:11:12 - Importing as new order ID:90445
+10-18-2021 @ 17:11:12 - Row :429 - Processing item.
+10-18-2021 @ 17:11:12 - Found order object. ID:90445
+10-18-2021 @ 17:11:12 - Row :429 - Order updated successfully.
+10-18-2021 @ 17:11:12 - Row :430 - Parsing item.
+10-18-2021 @ 17:11:12 - Importing as new order ID:90446
+10-18-2021 @ 17:11:12 - Row :430 - Processing item.
+10-18-2021 @ 17:11:12 - Found order object. ID:90446
+10-18-2021 @ 17:11:14 - Row :430 - Order updated successfully.
+10-18-2021 @ 17:11:14 - Row :431 - Parsing item.
+10-18-2021 @ 17:11:15 - Importing as new order ID:90447
+10-18-2021 @ 17:11:15 - Row :431 - Processing item.
+10-18-2021 @ 17:11:15 - Found order object. ID:90447
+10-18-2021 @ 17:11:15 - Row :431 - Order updated successfully.
+10-18-2021 @ 17:11:15 - Row :432 - Parsing item.
+10-18-2021 @ 17:11:15 - Importing as new order ID:90448
+10-18-2021 @ 17:11:15 - Row :432 - Processing item.
+10-18-2021 @ 17:11:15 - Found order object. ID:90448
+10-18-2021 @ 17:11:17 - Row :432 - Order updated successfully.
+10-18-2021 @ 17:11:17 - Row :433 - Parsing item.
+10-18-2021 @ 17:11:17 - Importing as new order ID:90449
+10-18-2021 @ 17:11:17 - Row :433 - Processing item.
+10-18-2021 @ 17:11:17 - Found order object. ID:90449
+10-18-2021 @ 17:11:18 - Row :433 - Order updated successfully.
+10-18-2021 @ 17:11:18 - Row :434 - Parsing item.
+10-18-2021 @ 17:11:18 - Importing as new order ID:90450
+10-18-2021 @ 17:11:18 - Row :434 - Processing item.
+10-18-2021 @ 17:11:18 - Found order object. ID:90450
+10-18-2021 @ 17:11:19 - Row :434 - Order updated successfully.
+10-18-2021 @ 17:11:19 - Row :435 - Parsing item.
+10-18-2021 @ 17:11:19 - Importing as new order ID:90451
+10-18-2021 @ 17:11:19 - Row :435 - Processing item.
+10-18-2021 @ 17:11:19 - Found order object. ID:90451
+10-18-2021 @ 17:11:21 - Row :435 - Order updated successfully.
+10-18-2021 @ 17:11:21 - Row :436 - Parsing item.
+10-18-2021 @ 17:11:21 - Importing as new order ID:90452
+10-18-2021 @ 17:11:21 - Row :436 - Processing item.
+10-18-2021 @ 17:11:21 - Found order object. ID:90452
+10-18-2021 @ 17:11:23 - Row :436 - Order updated successfully.
+10-18-2021 @ 17:11:23 - Row :437 - Parsing item.
+10-18-2021 @ 17:11:23 - Importing as new order ID:90453
+10-18-2021 @ 17:11:23 - Row :437 - Processing item.
+10-18-2021 @ 17:11:23 - Found order object. ID:90453
+10-18-2021 @ 17:11:25 - Row :437 - Order updated successfully.
+10-18-2021 @ 17:11:25 - Row :438 - Parsing item.
+10-18-2021 @ 17:11:25 - Importing as new order ID:90454
+10-18-2021 @ 17:11:25 - Row :438 - Processing item.
+10-18-2021 @ 17:11:25 - Found order object. ID:90454
+10-18-2021 @ 17:11:27 - Row :438 - Order updated successfully.
+10-18-2021 @ 17:11:27 - Row :439 - Parsing item.
+10-18-2021 @ 17:11:27 - Importing as new order ID:90455
+10-18-2021 @ 17:11:27 - Row :439 - Processing item.
+10-18-2021 @ 17:11:27 - Found order object. ID:90455
+10-18-2021 @ 17:11:29 - Row :439 - Order updated successfully.
+10-18-2021 @ 17:11:29 - Row :440 - Parsing item.
+10-18-2021 @ 17:11:29 - Importing as new order ID:90456
+10-18-2021 @ 17:11:29 - Row :440 - Processing item.
+10-18-2021 @ 17:11:29 - Found order object. ID:90456
+10-18-2021 @ 17:11:30 - Row :440 - Order updated successfully.
+10-18-2021 @ 17:11:30 - Row :441 - Parsing item.
+10-18-2021 @ 17:11:30 - Importing as new order ID:90457
+10-18-2021 @ 17:11:30 - Row :441 - Processing item.
+10-18-2021 @ 17:11:30 - Found order object. ID:90457
+10-18-2021 @ 17:11:32 - Row :441 - Order updated successfully.
+10-18-2021 @ 17:11:32 - Row :442 - Parsing item.
+10-18-2021 @ 17:11:32 - Importing as new order ID:90458
+10-18-2021 @ 17:11:32 - Row :442 - Processing item.
+10-18-2021 @ 17:11:32 - Found order object. ID:90458
+10-18-2021 @ 17:11:33 - Row :442 - Order updated successfully.
+10-18-2021 @ 17:11:33 - Row :443 - Parsing item.
+10-18-2021 @ 17:11:33 - Importing as new order ID:90459
+10-18-2021 @ 17:11:33 - Row :443 - Processing item.
+10-18-2021 @ 17:11:33 - Found order object. ID:90459
+10-18-2021 @ 17:11:35 - Row :443 - Order updated successfully.
+10-18-2021 @ 17:11:35 - Row :444 - Parsing item.
+10-18-2021 @ 17:11:35 - Importing as new order ID:90460
+10-18-2021 @ 17:11:35 - Row :444 - Processing item.
+10-18-2021 @ 17:11:35 - Found order object. ID:90460
+10-18-2021 @ 17:11:38 - Row :444 - Order updated successfully.
+10-18-2021 @ 17:11:38 - Row :445 - Parsing item.
+10-18-2021 @ 17:11:38 - Importing as new order ID:90461
+10-18-2021 @ 17:11:38 - Row :445 - Processing item.
+10-18-2021 @ 17:11:38 - Found order object. ID:90461

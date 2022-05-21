@@ -1,0 +1,35 @@
+2021-11-01T05:56:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Cart::add_fee(), 1 passed in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php on line 1385 and at least 2 expected in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php:1911
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1385): WC_Cart->add_fee('CCPU')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_add_cart_fee(Object(WC_Cart))
+#2 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerc dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php à la ligne 1911
+
+2021-11-01T06:26:19+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to woo_add_cart_fee() must be of the type float, object given, called in E:\laragon\www\chutetest\wp-includes\class-wp-hook.php on line 303 and defined in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1389
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_add_cart_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocomm dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1389
+
+2021-11-01T07:09:09+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1385
+
+2021-11-01T07:09:10+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1385
+
+2021-11-01T07:13:54+00:00 CRITICAL Uncaught Error: Call to undefined method WP::sub_ccpu_price_callback() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1388
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_add_cart_fee(Object(WC_Cart))
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart.php(1885): do_action('woocommerce_car...', Object(WC_Cart))
+#4 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(272): WC_Cart->calculate_fees()
+#5 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(833): WC_Cart_Totals->get_fees_from_cart()
+#6 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\includes\class-wc-cart-totals.php(145): WC_Cart_Totals->calculate_fee_totals()
+#7 E:\laragon\www\chutetest\wp-cont dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1388
+

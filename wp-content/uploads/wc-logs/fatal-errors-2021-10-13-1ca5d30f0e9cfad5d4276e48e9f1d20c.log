@@ -1,0 +1,40 @@
+2021-10-13T07:29:08+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1238
+
+2021-10-13T07:29:11+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1238
+
+2021-10-13T07:29:12+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1238
+
+2021-10-13T07:29:37+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1238
+
+2021-10-13T07:30:09+00:00 CRITICAL syntax error, unexpected '}' dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1238
+
+2021-10-13T07:53:11+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::wp_delete_post() in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1239
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): del_order('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-admin\admin.php(175): do_action('admin_init')
+#4 E:\laragon\www\chutetest\wp-admin\index.php(10): require_once('E:\\laragon\\www\\...')
+#5 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1239
+
+2021-10-13T07:53:31+00:00 CRITICAL Uncaught Error: Object of class WP_Post could not be converted to string in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1240
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): del_order('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-admin\admin.php(175): do_action('admin_init')
+#4 E:\laragon\www\chutetest\wp-admin\index.php(10): require_once('E:\\laragon\\www\\...')
+#5 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1240
+
+2021-10-13T09:52:59+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\TemplateLibrary\Source_Local::on_save_post() must be an instance of WP_Post, null given, called in E:\laragon\www\chutetest\wp-includes\class-wp-hook.php on line 305 and defined in E:\laragon\www\chutetest\wp-content\plugins\elementor\includes\template-library\sources\local.php:1046
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(305): Elementor\TemplateLibrary\Source_Local->on_save_post(52406, NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-includes\post.php(4468): do_action('save_post', 52406, NULL, true)
+#4 E:\laragon\www\chutetest\wp-includes\post.php(4570): wp_insert_post(Array, false, true)
+#5 E:\laragon\www\chutetest\wp-content\plugins\order-import-export-for-woocommerce\admin\modules\order\import\import.php(1772): wp_update_post(Array)
+#6 E:\laragon\www\chutet dans E:\laragon\www\chutetest\wp-content\plugins\elementor\includes\template-library\sources\local.php à la ligne 1046
+

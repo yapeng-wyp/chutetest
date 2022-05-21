@@ -1,0 +1,542 @@
+2021-12-01T00:31:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T00:31:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T00:32:02+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#8 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T00:32:02+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#8 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T00:32:29+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:12:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:14:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:15:05+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:17:05+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:19:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:20:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:22:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:24:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:26:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:27:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:28:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:30:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:32:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:34:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:36:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:57:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T01:59:25+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:01:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:03:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:05:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:20:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:22:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:24:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:26:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:28:25+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:30:25+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:31:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:33:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T02:35:49+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:22:08+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:23:39+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:24:56+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:26:09+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:27:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:29:09+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:30:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:32:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:34:11+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:36:11+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+
+2021-12-01T09:38:12+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1539
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): empty_cart('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-settings.php(578): do_action('init')
+#4 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-cron.php(44): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1539
+

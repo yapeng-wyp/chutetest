@@ -1,0 +1,40 @@
+2021-10-15T04:47:30+00:00 CRITICAL syntax error, unexpected ',', expecting end of file dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1247
+
+2021-10-15T04:47:31+00:00 CRITICAL syntax error, unexpected ',', expecting end of file dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1247
+
+2021-10-15T06:15:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in E:\laragon\www\chutetest\wp-content\plugins\elementor\modules\usage\module.php:237
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(305): Elementor\Modules\Usage\Module->on_before_delete_post('64743')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-includes\post.php(3207): do_action('before_delete_p...', '64743', Object(WP_Post))
+#4 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1239): wp_delete_post('64743', true)
+#5 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): del_order('')
+#6 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 E:\laragon\www\chutetest\wp-admin\admin.php(175): do_action(' dans E:\laragon\www\chutetest\wp-content\plugins\elementor\modules\usage\module.php à la ligne 237
+
+2021-10-15T06:15:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in E:\laragon\www\chutetest\wp-content\plugins\elementor\modules\usage\module.php:237
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(305): Elementor\Modules\Usage\Module->on_before_delete_post('64743')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-includes\post.php(3207): do_action('before_delete_p...', '64743', Object(WP_Post))
+#4 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1239): wp_delete_post('64743', true)
+#5 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): del_order('')
+#6 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 E:\laragon\www\chutetest\wp-admin\admin.php(175): do_action(' dans E:\laragon\www\chutetest\wp-content\plugins\elementor\modules\usage\module.php à la ligne 237
+
+2021-10-15T06:21:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in E:\laragon\www\chutetest\wp-content\plugins\elementor\modules\usage\module.php:237
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(305): Elementor\Modules\Usage\Module->on_before_delete_post('55433')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-includes\post.php(3207): do_action('before_delete_p...', '55433', Object(WP_Post))
+#4 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1239): wp_delete_post('55433', true)
+#5 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): del_order('')
+#6 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 E:\laragon\www\chutetest\wp-admin\admin-ajax.php(45): do_acti dans E:\laragon\www\chutetest\wp-content\plugins\elementor\modules\usage\module.php à la ligne 237
+

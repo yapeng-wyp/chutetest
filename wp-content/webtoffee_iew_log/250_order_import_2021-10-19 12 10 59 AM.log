@@ -1,0 +1,1773 @@
+10-19-2021 @ 08:10:59 - ---[ New import started at 2021-10-19 00:10:59 ] PHP Memory: 1 Go, WP Memory: 40 Mo
+10-19-2021 @ 08:10:59 - Preparing for import.
+10-19-2021 @ 08:10:59 - Row :1 - Parsing item.
+10-19-2021 @ 08:10:59 - Row :1 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 3
+10-19-2021 @ 08:10:59 - Row :2 - Parsing item.
+10-19-2021 @ 08:11:00 - Importing as new order ID:4
+10-19-2021 @ 08:11:00 - Row :2 - Processing item.
+10-19-2021 @ 08:11:01 - Found order object. ID:4
+10-19-2021 @ 08:11:03 - Row :2 - Order imported successfully.
+10-19-2021 @ 08:11:03 - Row :3 - Parsing item.
+10-19-2021 @ 08:11:03 - Row :3 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 5
+10-19-2021 @ 08:11:03 - Row :4 - Parsing item.
+10-19-2021 @ 08:11:03 - Row :4 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 6
+10-19-2021 @ 08:11:03 - Row :5 - Parsing item.
+10-19-2021 @ 08:11:03 - Row :5 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 7
+10-19-2021 @ 08:11:03 - Row :6 - Parsing item.
+10-19-2021 @ 08:11:03 - Row :6 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 8
+10-19-2021 @ 08:11:03 - Row :7 - Parsing item.
+10-19-2021 @ 08:11:03 - Row :7 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 9
+10-19-2021 @ 08:11:03 - Row :8 - Parsing item.
+10-19-2021 @ 08:11:03 - Importing as new order ID:10
+10-19-2021 @ 08:11:03 - Row :8 - Processing item.
+10-19-2021 @ 08:11:03 - Found order object. ID:10
+10-19-2021 @ 08:11:04 - Row :8 - Order imported successfully.
+10-19-2021 @ 08:11:04 - Row :9 - Parsing item.
+10-19-2021 @ 08:11:04 - Importing as new order ID:11
+10-19-2021 @ 08:11:04 - Row :9 - Processing item.
+10-19-2021 @ 08:11:04 - Found order object. ID:11
+10-19-2021 @ 08:11:06 - Row :9 - Order imported successfully.
+10-19-2021 @ 08:11:06 - Row :10 - Parsing item.
+10-19-2021 @ 08:11:06 - Row :10 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 13
+10-19-2021 @ 08:11:06 - Row :11 - Parsing item.
+10-19-2021 @ 08:11:06 - Row :11 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 14
+10-19-2021 @ 08:11:06 - Row :12 - Parsing item.
+10-19-2021 @ 08:11:06 - Importing as new order ID:15
+10-19-2021 @ 08:11:06 - Row :12 - Processing item.
+10-19-2021 @ 08:11:06 - Found order object. ID:15
+10-19-2021 @ 08:11:06 - Row :12 - Order imported successfully.
+10-19-2021 @ 08:11:06 - Row :13 - Parsing item.
+10-19-2021 @ 08:11:06 - Importing as new order ID:18
+10-19-2021 @ 08:11:06 - Row :13 - Processing item.
+10-19-2021 @ 08:11:06 - Found order object. ID:18
+10-19-2021 @ 08:11:07 - Row :13 - Order imported successfully.
+10-19-2021 @ 08:11:07 - Row :14 - Parsing item.
+10-19-2021 @ 08:11:07 - Importing as new order ID:19
+10-19-2021 @ 08:11:07 - Row :14 - Processing item.
+10-19-2021 @ 08:11:08 - Found order object. ID:19
+10-19-2021 @ 08:11:09 - Row :14 - Order imported successfully.
+10-19-2021 @ 08:11:09 - Row :15 - Parsing item.
+10-19-2021 @ 08:11:09 - Importing as new order ID:20
+10-19-2021 @ 08:11:09 - Row :15 - Processing item.
+10-19-2021 @ 08:11:09 - Found order object. ID:20
+10-19-2021 @ 08:11:11 - Row :15 - Order imported successfully.
+10-19-2021 @ 08:11:11 - Row :16 - Parsing item.
+10-19-2021 @ 08:11:11 - Importing as new order ID:21
+10-19-2021 @ 08:11:11 - Row :16 - Processing item.
+10-19-2021 @ 08:11:11 - Found order object. ID:21
+10-19-2021 @ 08:11:13 - Row :16 - Order imported successfully.
+10-19-2021 @ 08:11:13 - Row :17 - Parsing item.
+10-19-2021 @ 08:11:13 - Importing as new order ID:22
+10-19-2021 @ 08:11:13 - Row :17 - Processing item.
+10-19-2021 @ 08:11:13 - Found order object. ID:22
+10-19-2021 @ 08:11:15 - Row :17 - Order imported successfully.
+10-19-2021 @ 08:11:16 - Row :18 - Parsing item.
+10-19-2021 @ 08:11:16 - Importing as new order ID:23
+10-19-2021 @ 08:11:16 - Row :18 - Processing item.
+10-19-2021 @ 08:11:16 - Found order object. ID:23
+10-19-2021 @ 08:11:16 - Row :18 - Order imported successfully.
+10-19-2021 @ 08:11:16 - Row :19 - Parsing item.
+10-19-2021 @ 08:11:16 - Importing as new order ID:24
+10-19-2021 @ 08:11:16 - Row :19 - Processing item.
+10-19-2021 @ 08:11:16 - Found order object. ID:24
+10-19-2021 @ 08:11:17 - Row :19 - Order imported successfully.
+10-19-2021 @ 08:11:17 - Row :20 - Parsing item.
+10-19-2021 @ 08:11:17 - Importing as new order ID:25
+10-19-2021 @ 08:11:17 - Row :20 - Processing item.
+10-19-2021 @ 08:11:17 - Found order object. ID:25
+10-19-2021 @ 08:11:19 - Row :20 - Order imported successfully.
+10-19-2021 @ 08:11:19 - Row :21 - Parsing item.
+10-19-2021 @ 08:11:19 - Importing as new order ID:26
+10-19-2021 @ 08:11:19 - Row :21 - Processing item.
+10-19-2021 @ 08:11:19 - Found order object. ID:26
+10-19-2021 @ 08:11:20 - Row :21 - Order imported successfully.
+10-19-2021 @ 08:11:20 - Row :22 - Parsing item.
+10-19-2021 @ 08:11:20 - Importing as new order ID:27
+10-19-2021 @ 08:11:20 - Row :22 - Processing item.
+10-19-2021 @ 08:11:20 - Found order object. ID:27
+10-19-2021 @ 08:11:22 - Row :22 - Order imported successfully.
+10-19-2021 @ 08:11:22 - Row :23 - Parsing item.
+10-19-2021 @ 08:11:22 - Importing as new order ID:31
+10-19-2021 @ 08:11:22 - Row :23 - Processing item.
+10-19-2021 @ 08:11:22 - Found order object. ID:31
+10-19-2021 @ 08:11:24 - Row :23 - Order imported successfully.
+10-19-2021 @ 08:11:24 - Row :24 - Parsing item.
+10-19-2021 @ 08:11:24 - Importing as new order ID:32
+10-19-2021 @ 08:11:24 - Row :24 - Processing item.
+10-19-2021 @ 08:11:24 - Found order object. ID:32
+10-19-2021 @ 08:11:26 - Row :24 - Order imported successfully.
+10-19-2021 @ 08:11:26 - Row :25 - Parsing item.
+10-19-2021 @ 08:11:26 - Importing as new order ID:33
+10-19-2021 @ 08:11:26 - Row :25 - Processing item.
+10-19-2021 @ 08:11:26 - Found order object. ID:33
+10-19-2021 @ 08:11:28 - Row :25 - Order imported successfully.
+10-19-2021 @ 08:11:28 - Row :26 - Parsing item.
+10-19-2021 @ 08:11:28 - Importing as new order ID:34
+10-19-2021 @ 08:11:28 - Row :26 - Processing item.
+10-19-2021 @ 08:11:28 - Found order object. ID:34
+10-19-2021 @ 08:11:29 - Row :26 - Order imported successfully.
+10-19-2021 @ 08:11:29 - Row :27 - Parsing item.
+10-19-2021 @ 08:11:29 - Importing as new order ID:35
+10-19-2021 @ 08:11:29 - Row :27 - Processing item.
+10-19-2021 @ 08:11:29 - Found order object. ID:35
+10-19-2021 @ 08:11:29 - Row :27 - Order imported successfully.
+10-19-2021 @ 08:11:29 - Row :28 - Parsing item.
+10-19-2021 @ 08:11:29 - Importing as new order ID:36
+10-19-2021 @ 08:11:29 - Row :28 - Processing item.
+10-19-2021 @ 08:11:29 - Found order object. ID:36
+10-19-2021 @ 08:11:32 - Row :28 - Order imported successfully.
+10-19-2021 @ 08:11:32 - Row :29 - Parsing item.
+10-19-2021 @ 08:11:32 - Importing as new order ID:37
+10-19-2021 @ 08:11:32 - Row :29 - Processing item.
+10-19-2021 @ 08:11:32 - Found order object. ID:37
+10-19-2021 @ 08:11:34 - Row :29 - Order imported successfully.
+10-19-2021 @ 08:11:34 - Row :30 - Parsing item.
+10-19-2021 @ 08:11:34 - Importing as new order ID:38
+10-19-2021 @ 08:11:34 - Row :30 - Processing item.
+10-19-2021 @ 08:11:34 - Found order object. ID:38
+10-19-2021 @ 08:11:35 - Row :30 - Order imported successfully.
+10-19-2021 @ 08:11:35 - Row :31 - Parsing item.
+10-19-2021 @ 08:11:35 - Importing as new order ID:39
+10-19-2021 @ 08:11:35 - Row :31 - Processing item.
+10-19-2021 @ 08:11:35 - Found order object. ID:39
+10-19-2021 @ 08:11:37 - Row :31 - Order imported successfully.
+10-19-2021 @ 08:11:37 - Row :32 - Parsing item.
+10-19-2021 @ 08:11:37 - Importing as new order ID:40
+10-19-2021 @ 08:11:37 - Row :32 - Processing item.
+10-19-2021 @ 08:11:37 - Found order object. ID:40
+10-19-2021 @ 08:11:38 - Row :32 - Order imported successfully.
+10-19-2021 @ 08:11:38 - Row :33 - Parsing item.
+10-19-2021 @ 08:11:39 - Importing as new order ID:41
+10-19-2021 @ 08:11:39 - Row :33 - Processing item.
+10-19-2021 @ 08:11:39 - Found order object. ID:41
+10-19-2021 @ 08:11:40 - Row :33 - Order imported successfully.
+10-19-2021 @ 08:11:40 - Row :34 - Parsing item.
+10-19-2021 @ 08:11:40 - Importing as new order ID:42
+10-19-2021 @ 08:11:40 - Row :34 - Processing item.
+10-19-2021 @ 08:11:40 - Found order object. ID:42
+10-19-2021 @ 08:11:42 - Row :34 - Order imported successfully.
+10-19-2021 @ 08:11:43 - Row :35 - Parsing item.
+10-19-2021 @ 08:11:43 - Importing as new order ID:43
+10-19-2021 @ 08:11:43 - Row :35 - Processing item.
+10-19-2021 @ 08:11:43 - Found order object. ID:43
+10-19-2021 @ 08:11:44 - Row :35 - Order imported successfully.
+10-19-2021 @ 08:11:44 - Row :36 - Parsing item.
+10-19-2021 @ 08:11:44 - Importing as new order ID:44
+10-19-2021 @ 08:11:44 - Row :36 - Processing item.
+10-19-2021 @ 08:11:44 - Found order object. ID:44
+10-19-2021 @ 08:11:46 - Row :36 - Order imported successfully.
+10-19-2021 @ 08:11:46 - Row :37 - Parsing item.
+10-19-2021 @ 08:11:46 - Row :37 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 45
+10-19-2021 @ 08:11:46 - Row :38 - Parsing item.
+10-19-2021 @ 08:11:46 - Importing as new order ID:46
+10-19-2021 @ 08:11:46 - Row :38 - Processing item.
+10-19-2021 @ 08:11:46 - Found order object. ID:46
+10-19-2021 @ 08:11:48 - Row :38 - Order imported successfully.
+10-19-2021 @ 08:11:48 - Row :39 - Parsing item.
+10-19-2021 @ 08:11:48 - Row :39 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 47
+10-19-2021 @ 08:11:48 - Row :40 - Parsing item.
+10-19-2021 @ 08:11:48 - Importing as new order ID:48
+10-19-2021 @ 08:11:48 - Row :40 - Processing item.
+10-19-2021 @ 08:11:48 - Found order object. ID:48
+10-19-2021 @ 08:11:49 - Row :40 - Order imported successfully.
+10-19-2021 @ 08:11:49 - Row :41 - Parsing item.
+10-19-2021 @ 08:11:49 - Importing as new order ID:49
+10-19-2021 @ 08:11:49 - Row :41 - Processing item.
+10-19-2021 @ 08:11:49 - Found order object. ID:49
+10-19-2021 @ 08:11:51 - Row :41 - Order imported successfully.
+10-19-2021 @ 08:11:51 - Row :42 - Parsing item.
+10-19-2021 @ 08:11:51 - Importing as new order ID:50
+10-19-2021 @ 08:11:51 - Row :42 - Processing item.
+10-19-2021 @ 08:11:51 - Found order object. ID:50
+10-19-2021 @ 08:11:51 - Row :42 - Order imported successfully.
+10-19-2021 @ 08:11:51 - Row :43 - Parsing item.
+10-19-2021 @ 08:11:51 - Importing as new order ID:51
+10-19-2021 @ 08:11:51 - Row :43 - Processing item.
+10-19-2021 @ 08:11:51 - Found order object. ID:51
+10-19-2021 @ 08:11:52 - Row :43 - Order imported successfully.
+10-19-2021 @ 08:11:52 - Row :44 - Parsing item.
+10-19-2021 @ 08:11:52 - Row :44 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 52
+10-19-2021 @ 08:11:52 - Row :45 - Parsing item.
+10-19-2021 @ 08:11:52 - Importing as new order ID:53
+10-19-2021 @ 08:11:52 - Row :45 - Processing item.
+10-19-2021 @ 08:11:52 - Found order object. ID:53
+10-19-2021 @ 08:11:53 - Row :45 - Order imported successfully.
+10-19-2021 @ 08:11:53 - Row :46 - Parsing item.
+10-19-2021 @ 08:11:53 - Importing as new order ID:54
+10-19-2021 @ 08:11:53 - Row :46 - Processing item.
+10-19-2021 @ 08:11:53 - Found order object. ID:54
+10-19-2021 @ 08:11:54 - Row :46 - Order imported successfully.
+10-19-2021 @ 08:11:54 - Row :47 - Parsing item.
+10-19-2021 @ 08:11:54 - Importing as new order ID:55
+10-19-2021 @ 08:11:54 - Row :47 - Processing item.
+10-19-2021 @ 08:11:54 - Found order object. ID:55
+10-19-2021 @ 08:11:55 - Row :47 - Order imported successfully.
+10-19-2021 @ 08:11:55 - Row :48 - Parsing item.
+10-19-2021 @ 08:11:55 - Importing as new order ID:56
+10-19-2021 @ 08:11:55 - Row :48 - Processing item.
+10-19-2021 @ 08:11:55 - Found order object. ID:56
+10-19-2021 @ 08:11:56 - Row :48 - Order imported successfully.
+10-19-2021 @ 08:11:56 - Row :49 - Parsing item.
+10-19-2021 @ 08:11:56 - Importing as new order ID:57
+10-19-2021 @ 08:11:56 - Row :49 - Processing item.
+10-19-2021 @ 08:11:56 - Found order object. ID:57
+10-19-2021 @ 08:11:58 - Row :49 - Order imported successfully.
+10-19-2021 @ 08:11:58 - Row :50 - Parsing item.
+10-19-2021 @ 08:11:58 - Importing as new order ID:58
+10-19-2021 @ 08:11:58 - Row :50 - Processing item.
+10-19-2021 @ 08:11:59 - Found order object. ID:58
+10-19-2021 @ 08:12:00 - Row :50 - Order imported successfully.
+10-19-2021 @ 08:12:00 - Row :51 - Parsing item.
+10-19-2021 @ 08:12:00 - Importing as new order ID:59
+10-19-2021 @ 08:12:00 - Row :51 - Processing item.
+10-19-2021 @ 08:12:00 - Found order object. ID:59
+10-19-2021 @ 08:12:02 - Row :51 - Order imported successfully.
+10-19-2021 @ 08:12:02 - Row :52 - Parsing item.
+10-19-2021 @ 08:12:02 - Importing as new order ID:60
+10-19-2021 @ 08:12:02 - Row :52 - Processing item.
+10-19-2021 @ 08:12:02 - Found order object. ID:60
+10-19-2021 @ 08:12:03 - Row :52 - Order imported successfully.
+10-19-2021 @ 08:12:03 - Row :53 - Parsing item.
+10-19-2021 @ 08:12:03 - Importing as new order ID:61
+10-19-2021 @ 08:12:03 - Row :53 - Processing item.
+10-19-2021 @ 08:12:03 - Found order object. ID:61
+10-19-2021 @ 08:12:03 - Row :53 - Order imported successfully.
+10-19-2021 @ 08:12:03 - Row :54 - Parsing item.
+10-19-2021 @ 08:12:03 - Importing as new order ID:62
+10-19-2021 @ 08:12:03 - Row :54 - Processing item.
+10-19-2021 @ 08:12:04 - Found order object. ID:62
+10-19-2021 @ 08:12:05 - Row :54 - Order imported successfully.
+10-19-2021 @ 08:12:05 - Row :55 - Parsing item.
+10-19-2021 @ 08:12:05 - Row :55 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 63
+10-19-2021 @ 08:12:05 - Row :56 - Parsing item.
+10-19-2021 @ 08:12:05 - Importing as new order ID:64
+10-19-2021 @ 08:12:05 - Row :56 - Processing item.
+10-19-2021 @ 08:12:05 - Found order object. ID:64
+10-19-2021 @ 08:12:06 - Row :56 - Order imported successfully.
+10-19-2021 @ 08:12:06 - Row :57 - Parsing item.
+10-19-2021 @ 08:12:06 - Importing as new order ID:65
+10-19-2021 @ 08:12:06 - Row :57 - Processing item.
+10-19-2021 @ 08:12:06 - Found order object. ID:65
+10-19-2021 @ 08:12:08 - Row :57 - Order imported successfully.
+10-19-2021 @ 08:12:08 - Row :58 - Parsing item.
+10-19-2021 @ 08:12:08 - Importing as new order ID:66
+10-19-2021 @ 08:12:08 - Row :58 - Processing item.
+10-19-2021 @ 08:12:08 - Found order object. ID:66
+10-19-2021 @ 08:12:10 - Row :58 - Order imported successfully.
+10-19-2021 @ 08:12:10 - Row :59 - Parsing item.
+10-19-2021 @ 08:12:10 - Importing as new order ID:67
+10-19-2021 @ 08:12:10 - Row :59 - Processing item.
+10-19-2021 @ 08:12:10 - Found order object. ID:67
+10-19-2021 @ 08:12:12 - Row :59 - Order imported successfully.
+10-19-2021 @ 08:12:12 - Row :60 - Parsing item.
+10-19-2021 @ 08:12:12 - Importing as new order ID:68
+10-19-2021 @ 08:12:12 - Row :60 - Processing item.
+10-19-2021 @ 08:12:12 - Found order object. ID:68
+10-19-2021 @ 08:12:14 - Row :60 - Order imported successfully.
+10-19-2021 @ 08:12:14 - Row :61 - Parsing item.
+10-19-2021 @ 08:12:14 - Importing as new order ID:69
+10-19-2021 @ 08:12:14 - Row :61 - Processing item.
+10-19-2021 @ 08:12:14 - Found order object. ID:69
+10-19-2021 @ 08:12:15 - Row :61 - Order imported successfully.
+10-19-2021 @ 08:12:15 - Row :62 - Parsing item.
+10-19-2021 @ 08:12:15 - Row :62 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 70
+10-19-2021 @ 08:12:15 - Row :63 - Parsing item.
+10-19-2021 @ 08:12:15 - Row :63 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 71
+10-19-2021 @ 08:12:15 - Row :64 - Parsing item.
+10-19-2021 @ 08:12:15 - Row :64 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 72
+10-19-2021 @ 08:12:15 - Row :65 - Parsing item.
+10-19-2021 @ 08:12:15 - Importing as new order ID:73
+10-19-2021 @ 08:12:15 - Row :65 - Processing item.
+10-19-2021 @ 08:12:15 - Found order object. ID:73
+10-19-2021 @ 08:12:16 - Row :65 - Order imported successfully.
+10-19-2021 @ 08:12:16 - Row :66 - Parsing item.
+10-19-2021 @ 08:12:16 - Importing as new order ID:74
+10-19-2021 @ 08:12:16 - Row :66 - Processing item.
+10-19-2021 @ 08:12:16 - Found order object. ID:74
+10-19-2021 @ 08:12:17 - Row :66 - Order imported successfully.
+10-19-2021 @ 08:12:17 - Row :67 - Parsing item.
+10-19-2021 @ 08:12:17 - Importing as new order ID:75
+10-19-2021 @ 08:12:17 - Row :67 - Processing item.
+10-19-2021 @ 08:12:17 - Found order object. ID:75
+10-19-2021 @ 08:12:19 - Row :67 - Order imported successfully.
+10-19-2021 @ 08:12:19 - Row :68 - Parsing item.
+10-19-2021 @ 08:12:19 - Importing as new order ID:76
+10-19-2021 @ 08:12:19 - Row :68 - Processing item.
+10-19-2021 @ 08:12:19 - Found order object. ID:76
+10-19-2021 @ 08:12:21 - Row :68 - Order imported successfully.
+10-19-2021 @ 08:12:21 - Row :69 - Parsing item.
+10-19-2021 @ 08:12:21 - Importing as new order ID:77
+10-19-2021 @ 08:12:21 - Row :69 - Processing item.
+10-19-2021 @ 08:12:21 - Found order object. ID:77
+10-19-2021 @ 08:12:22 - Row :69 - Order imported successfully.
+10-19-2021 @ 08:12:22 - Row :70 - Parsing item.
+10-19-2021 @ 08:12:22 - Importing as new order ID:78
+10-19-2021 @ 08:12:22 - Row :70 - Processing item.
+10-19-2021 @ 08:12:23 - Found order object. ID:78
+10-19-2021 @ 08:12:23 - Row :70 - Order imported successfully.
+10-19-2021 @ 08:12:23 - Row :71 - Parsing item.
+10-19-2021 @ 08:12:23 - Importing as new order ID:79
+10-19-2021 @ 08:12:23 - Row :71 - Processing item.
+10-19-2021 @ 08:12:23 - Found order object. ID:79
+10-19-2021 @ 08:12:25 - Row :71 - Order imported successfully.
+10-19-2021 @ 08:12:25 - Row :72 - Parsing item.
+10-19-2021 @ 08:12:25 - Importing as new order ID:80
+10-19-2021 @ 08:12:25 - Row :72 - Processing item.
+10-19-2021 @ 08:12:25 - Found order object. ID:80
+10-19-2021 @ 08:12:26 - Row :72 - Order imported successfully.
+10-19-2021 @ 08:12:26 - Row :73 - Parsing item.
+10-19-2021 @ 08:12:26 - Importing as new order ID:81
+10-19-2021 @ 08:12:26 - Row :73 - Processing item.
+10-19-2021 @ 08:12:26 - Found order object. ID:81
+10-19-2021 @ 08:12:29 - Row :73 - Order imported successfully.
+10-19-2021 @ 08:12:29 - Row :74 - Parsing item.
+10-19-2021 @ 08:12:29 - Importing as new order ID:82
+10-19-2021 @ 08:12:29 - Row :74 - Processing item.
+10-19-2021 @ 08:12:29 - Found order object. ID:82
+10-19-2021 @ 08:12:30 - Row :74 - Order imported successfully.
+10-19-2021 @ 08:12:30 - Row :75 - Parsing item.
+10-19-2021 @ 08:12:30 - Row :75 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 83
+10-19-2021 @ 08:12:30 - Row :76 - Parsing item.
+10-19-2021 @ 08:12:30 - Importing as new order ID:84
+10-19-2021 @ 08:12:30 - Row :76 - Processing item.
+10-19-2021 @ 08:12:30 - Found order object. ID:84
+10-19-2021 @ 08:12:31 - Row :76 - Order imported successfully.
+10-19-2021 @ 08:12:31 - Row :77 - Parsing item.
+10-19-2021 @ 08:12:31 - Importing as new order ID:85
+10-19-2021 @ 08:12:31 - Row :77 - Processing item.
+10-19-2021 @ 08:12:32 - Found order object. ID:85
+10-19-2021 @ 08:12:33 - Row :77 - Order imported successfully.
+10-19-2021 @ 08:12:33 - Row :78 - Parsing item.
+10-19-2021 @ 08:12:33 - Row :78 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 86
+10-19-2021 @ 08:12:33 - Row :79 - Parsing item.
+10-19-2021 @ 08:12:33 - Importing as new order ID:87
+10-19-2021 @ 08:12:33 - Row :79 - Processing item.
+10-19-2021 @ 08:12:33 - Found order object. ID:87
+10-19-2021 @ 08:12:35 - Row :79 - Order imported successfully.
+10-19-2021 @ 08:12:35 - Row :80 - Parsing item.
+10-19-2021 @ 08:12:35 - Importing as new order ID:88
+10-19-2021 @ 08:12:35 - Row :80 - Processing item.
+10-19-2021 @ 08:12:35 - Found order object. ID:88
+10-19-2021 @ 08:12:37 - Row :80 - Order imported successfully.
+10-19-2021 @ 08:12:37 - Row :81 - Parsing item.
+10-19-2021 @ 08:12:37 - Importing as new order ID:89
+10-19-2021 @ 08:12:37 - Row :81 - Processing item.
+10-19-2021 @ 08:12:37 - Found order object. ID:89
+10-19-2021 @ 08:12:39 - Row :81 - Order imported successfully.
+10-19-2021 @ 08:12:39 - Row :82 - Parsing item.
+10-19-2021 @ 08:12:39 - Row :82 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 90
+10-19-2021 @ 08:12:39 - Row :83 - Parsing item.
+10-19-2021 @ 08:12:39 - Importing as new order ID:91
+10-19-2021 @ 08:12:39 - Row :83 - Processing item.
+10-19-2021 @ 08:12:39 - Found order object. ID:91
+10-19-2021 @ 08:12:39 - Row :83 - Order imported successfully.
+10-19-2021 @ 08:12:39 - Row :84 - Parsing item.
+10-19-2021 @ 08:12:39 - Importing as new order ID:92
+10-19-2021 @ 08:12:39 - Row :84 - Processing item.
+10-19-2021 @ 08:12:39 - Found order object. ID:92
+10-19-2021 @ 08:12:41 - Row :84 - Order imported successfully.
+10-19-2021 @ 08:12:41 - Row :85 - Parsing item.
+10-19-2021 @ 08:12:41 - Importing as new order ID:93
+10-19-2021 @ 08:12:41 - Row :85 - Processing item.
+10-19-2021 @ 08:12:41 - Found order object. ID:93
+10-19-2021 @ 08:12:43 - Row :85 - Order imported successfully.
+10-19-2021 @ 08:12:43 - Row :86 - Parsing item.
+10-19-2021 @ 08:12:43 - Importing as new order ID:94
+10-19-2021 @ 08:12:43 - Row :86 - Processing item.
+10-19-2021 @ 08:12:43 - Found order object. ID:94
+10-19-2021 @ 08:12:44 - Row :86 - Order imported successfully.
+10-19-2021 @ 08:12:44 - Row :87 - Parsing item.
+10-19-2021 @ 08:12:44 - Importing as new order ID:95
+10-19-2021 @ 08:12:44 - Row :87 - Processing item.
+10-19-2021 @ 08:12:44 - Found order object. ID:95
+10-19-2021 @ 08:12:45 - Row :87 - Order imported successfully.
+10-19-2021 @ 08:12:45 - Row :88 - Parsing item.
+10-19-2021 @ 08:12:45 - Importing as new order ID:96
+10-19-2021 @ 08:12:45 - Row :88 - Processing item.
+10-19-2021 @ 08:12:45 - Found order object. ID:96
+10-19-2021 @ 08:12:47 - Row :88 - Order imported successfully.
+10-19-2021 @ 08:12:47 - Row :89 - Parsing item.
+10-19-2021 @ 08:12:47 - Importing as new order ID:97
+10-19-2021 @ 08:12:47 - Row :89 - Processing item.
+10-19-2021 @ 08:12:47 - Found order object. ID:97
+10-19-2021 @ 08:12:48 - Row :89 - Order imported successfully.
+10-19-2021 @ 08:12:48 - Row :90 - Parsing item.
+10-19-2021 @ 08:12:48 - Importing as new order ID:98
+10-19-2021 @ 08:12:48 - Row :90 - Processing item.
+10-19-2021 @ 08:12:48 - Found order object. ID:98
+10-19-2021 @ 08:12:50 - Row :90 - Order imported successfully.
+10-19-2021 @ 08:12:50 - Row :91 - Parsing item.
+10-19-2021 @ 08:12:50 - Importing as new order ID:99
+10-19-2021 @ 08:12:50 - Row :91 - Processing item.
+10-19-2021 @ 08:12:50 - Found order object. ID:99
+10-19-2021 @ 08:12:51 - Row :91 - Order imported successfully.
+10-19-2021 @ 08:12:51 - Row :92 - Parsing item.
+10-19-2021 @ 08:12:51 - Importing as new order ID:100
+10-19-2021 @ 08:12:51 - Row :92 - Processing item.
+10-19-2021 @ 08:12:51 - Found order object. ID:100
+10-19-2021 @ 08:12:52 - Row :92 - Order imported successfully.
+10-19-2021 @ 08:12:52 - Row :93 - Parsing item.
+10-19-2021 @ 08:12:52 - Importing as new order ID:101
+10-19-2021 @ 08:12:52 - Row :93 - Processing item.
+10-19-2021 @ 08:12:52 - Found order object. ID:101
+10-19-2021 @ 08:12:54 - Row :93 - Order imported successfully.
+10-19-2021 @ 08:12:54 - Row :94 - Parsing item.
+10-19-2021 @ 08:12:54 - Importing as new order ID:102
+10-19-2021 @ 08:12:54 - Row :94 - Processing item.
+10-19-2021 @ 08:12:54 - Found order object. ID:102
+10-19-2021 @ 08:12:55 - Row :94 - Order imported successfully.
+10-19-2021 @ 08:12:55 - Row :95 - Parsing item.
+10-19-2021 @ 08:12:55 - Importing as new order ID:103
+10-19-2021 @ 08:12:55 - Row :95 - Processing item.
+10-19-2021 @ 08:12:55 - Found order object. ID:103
+10-19-2021 @ 08:12:56 - Row :95 - Order imported successfully.
+10-19-2021 @ 08:12:56 - Row :96 - Parsing item.
+10-19-2021 @ 08:12:56 - Importing as new order ID:106
+10-19-2021 @ 08:12:56 - Row :96 - Processing item.
+10-19-2021 @ 08:12:57 - Found order object. ID:106
+10-19-2021 @ 08:12:58 - Row :96 - Order imported successfully.
+10-19-2021 @ 08:12:58 - Row :97 - Parsing item.
+10-19-2021 @ 08:12:58 - Row :97 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 107
+10-19-2021 @ 08:12:58 - Row :98 - Parsing item.
+10-19-2021 @ 08:12:58 - Importing as new order ID:108
+10-19-2021 @ 08:12:58 - Row :98 - Processing item.
+10-19-2021 @ 08:12:58 - Found order object. ID:108
+10-19-2021 @ 08:12:59 - Row :98 - Order imported successfully.
+10-19-2021 @ 08:12:59 - Row :99 - Parsing item.
+10-19-2021 @ 08:12:59 - Row :99 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 109
+10-19-2021 @ 08:12:59 - Row :100 - Parsing item.
+10-19-2021 @ 08:12:59 - Importing as new order ID:110
+10-19-2021 @ 08:12:59 - Row :100 - Processing item.
+10-19-2021 @ 08:12:59 - Found order object. ID:110
+10-19-2021 @ 08:13:00 - Row :100 - Order imported successfully.
+10-19-2021 @ 08:13:00 - Row :101 - Parsing item.
+10-19-2021 @ 08:13:00 - Row :101 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 111
+10-19-2021 @ 08:13:00 - Row :102 - Parsing item.
+10-19-2021 @ 08:13:00 - Row :102 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 112
+10-19-2021 @ 08:13:00 - Row :103 - Parsing item.
+10-19-2021 @ 08:13:00 - Importing as new order ID:113
+10-19-2021 @ 08:13:00 - Row :103 - Processing item.
+10-19-2021 @ 08:13:00 - Found order object. ID:113
+10-19-2021 @ 08:13:01 - Row :103 - Order imported successfully.
+10-19-2021 @ 08:13:01 - Row :104 - Parsing item.
+10-19-2021 @ 08:13:01 - Importing as new order ID:114
+10-19-2021 @ 08:13:01 - Row :104 - Processing item.
+10-19-2021 @ 08:13:01 - Found order object. ID:114
+10-19-2021 @ 08:13:03 - Row :104 - Order imported successfully.
+10-19-2021 @ 08:13:03 - Row :105 - Parsing item.
+10-19-2021 @ 08:13:03 - Importing as new order ID:115
+10-19-2021 @ 08:13:03 - Row :105 - Processing item.
+10-19-2021 @ 08:13:03 - Found order object. ID:115
+10-19-2021 @ 08:13:03 - Row :105 - Order imported successfully.
+10-19-2021 @ 08:13:03 - Row :106 - Parsing item.
+10-19-2021 @ 08:13:03 - Importing as new order ID:116
+10-19-2021 @ 08:13:03 - Row :106 - Processing item.
+10-19-2021 @ 08:13:03 - Found order object. ID:116
+10-19-2021 @ 08:13:04 - Row :106 - Order imported successfully.
+10-19-2021 @ 08:13:04 - Row :107 - Parsing item.
+10-19-2021 @ 08:13:04 - Importing as new order ID:117
+10-19-2021 @ 08:13:04 - Row :107 - Processing item.
+10-19-2021 @ 08:13:04 - Found order object. ID:117
+10-19-2021 @ 08:13:05 - Row :107 - Order imported successfully.
+10-19-2021 @ 08:13:05 - Row :108 - Parsing item.
+10-19-2021 @ 08:13:05 - Row :108 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 118
+10-19-2021 @ 08:13:05 - Row :109 - Parsing item.
+10-19-2021 @ 08:13:06 - Importing as new order ID:119
+10-19-2021 @ 08:13:06 - Row :109 - Processing item.
+10-19-2021 @ 08:13:06 - Found order object. ID:119
+10-19-2021 @ 08:13:08 - Row :109 - Order imported successfully.
+10-19-2021 @ 08:13:08 - Row :110 - Parsing item.
+10-19-2021 @ 08:13:08 - Importing as new order ID:120
+10-19-2021 @ 08:13:08 - Row :110 - Processing item.
+10-19-2021 @ 08:13:08 - Found order object. ID:120
+10-19-2021 @ 08:13:09 - Row :110 - Order imported successfully.
+10-19-2021 @ 08:13:09 - Row :111 - Parsing item.
+10-19-2021 @ 08:13:09 - Row :111 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 121
+10-19-2021 @ 08:13:09 - Row :112 - Parsing item.
+10-19-2021 @ 08:13:09 - Importing as new order ID:122
+10-19-2021 @ 08:13:09 - Row :112 - Processing item.
+10-19-2021 @ 08:13:09 - Found order object. ID:122
+10-19-2021 @ 08:13:10 - Row :112 - Order imported successfully.
+10-19-2021 @ 08:13:10 - Row :113 - Parsing item.
+10-19-2021 @ 08:13:10 - Row :113 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 123
+10-19-2021 @ 08:13:10 - Row :114 - Parsing item.
+10-19-2021 @ 08:13:10 - Row :114 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 124
+10-19-2021 @ 08:13:10 - Row :115 - Parsing item.
+10-19-2021 @ 08:13:10 - Importing as new order ID:125
+10-19-2021 @ 08:13:10 - Row :115 - Processing item.
+10-19-2021 @ 08:13:10 - Found order object. ID:125
+10-19-2021 @ 08:13:12 - Row :115 - Order imported successfully.
+10-19-2021 @ 08:13:12 - Row :116 - Parsing item.
+10-19-2021 @ 08:13:12 - Importing as new order ID:126
+10-19-2021 @ 08:13:12 - Row :116 - Processing item.
+10-19-2021 @ 08:13:12 - Found order object. ID:126
+10-19-2021 @ 08:13:13 - Row :116 - Order imported successfully.
+10-19-2021 @ 08:13:13 - Row :117 - Parsing item.
+10-19-2021 @ 08:13:13 - Row :117 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 127
+10-19-2021 @ 08:13:13 - Row :118 - Parsing item.
+10-19-2021 @ 08:13:14 - Importing as new order ID:128
+10-19-2021 @ 08:13:14 - Row :118 - Processing item.
+10-19-2021 @ 08:13:14 - Found order object. ID:128
+10-19-2021 @ 08:13:15 - Row :118 - Order imported successfully.
+10-19-2021 @ 08:13:15 - Row :119 - Parsing item.
+10-19-2021 @ 08:13:15 - Importing as new order ID:129
+10-19-2021 @ 08:13:15 - Row :119 - Processing item.
+10-19-2021 @ 08:13:15 - Found order object. ID:129
+10-19-2021 @ 08:13:17 - Row :119 - Order imported successfully.
+10-19-2021 @ 08:13:17 - Row :120 - Parsing item.
+10-19-2021 @ 08:13:17 - Importing as new order ID:130
+10-19-2021 @ 08:13:17 - Row :120 - Processing item.
+10-19-2021 @ 08:13:17 - Found order object. ID:130
+10-19-2021 @ 08:13:18 - Row :120 - Order imported successfully.
+10-19-2021 @ 08:13:18 - Row :121 - Parsing item.
+10-19-2021 @ 08:13:18 - Importing as new order ID:131
+10-19-2021 @ 08:13:18 - Row :121 - Processing item.
+10-19-2021 @ 08:13:18 - Found order object. ID:131
+10-19-2021 @ 08:13:18 - Row :121 - Order imported successfully.
+10-19-2021 @ 08:13:18 - Row :122 - Parsing item.
+10-19-2021 @ 08:13:18 - Importing as new order ID:132
+10-19-2021 @ 08:13:18 - Row :122 - Processing item.
+10-19-2021 @ 08:13:18 - Found order object. ID:132
+10-19-2021 @ 08:13:20 - Row :122 - Order imported successfully.
+10-19-2021 @ 08:13:20 - Row :123 - Parsing item.
+10-19-2021 @ 08:13:20 - Importing as new order ID:133
+10-19-2021 @ 08:13:20 - Row :123 - Processing item.
+10-19-2021 @ 08:13:20 - Found order object. ID:133
+10-19-2021 @ 08:13:22 - Row :123 - Order imported successfully.
+10-19-2021 @ 08:13:22 - Row :124 - Parsing item.
+10-19-2021 @ 08:13:22 - Importing as new order ID:134
+10-19-2021 @ 08:13:22 - Row :124 - Processing item.
+10-19-2021 @ 08:13:22 - Found order object. ID:134
+10-19-2021 @ 08:13:24 - Row :124 - Order imported successfully.
+10-19-2021 @ 08:13:24 - Row :125 - Parsing item.
+10-19-2021 @ 08:13:24 - Importing as new order ID:135
+10-19-2021 @ 08:13:24 - Row :125 - Processing item.
+10-19-2021 @ 08:13:24 - Found order object. ID:135
+10-19-2021 @ 08:13:26 - Row :125 - Order imported successfully.
+10-19-2021 @ 08:13:26 - Row :126 - Parsing item.
+10-19-2021 @ 08:13:26 - Importing as new order ID:136
+10-19-2021 @ 08:13:26 - Row :126 - Processing item.
+10-19-2021 @ 08:13:26 - Found order object. ID:136
+10-19-2021 @ 08:13:27 - Row :126 - Order imported successfully.
+10-19-2021 @ 08:13:27 - Row :127 - Parsing item.
+10-19-2021 @ 08:13:27 - Importing as new order ID:137
+10-19-2021 @ 08:13:27 - Row :127 - Processing item.
+10-19-2021 @ 08:13:27 - Found order object. ID:137
+10-19-2021 @ 08:13:27 - Row :127 - Order imported successfully.
+10-19-2021 @ 08:13:27 - Row :128 - Parsing item.
+10-19-2021 @ 08:13:27 - Importing as new order ID:138
+10-19-2021 @ 08:13:27 - Row :128 - Processing item.
+10-19-2021 @ 08:13:27 - Found order object. ID:138
+10-19-2021 @ 08:13:29 - Row :128 - Order imported successfully.
+10-19-2021 @ 08:13:29 - Row :129 - Parsing item.
+10-19-2021 @ 08:13:29 - Row :129 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 139
+10-19-2021 @ 08:13:29 - Row :130 - Parsing item.
+10-19-2021 @ 08:13:29 - Row :130 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 140
+10-19-2021 @ 08:13:29 - Row :131 - Parsing item.
+10-19-2021 @ 08:13:29 - Importing as new order ID:141
+10-19-2021 @ 08:13:29 - Row :131 - Processing item.
+10-19-2021 @ 08:13:29 - Found order object. ID:141
+10-19-2021 @ 08:13:30 - Row :131 - Order imported successfully.
+10-19-2021 @ 08:13:30 - Row :132 - Parsing item.
+10-19-2021 @ 08:13:30 - Row :132 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 142
+10-19-2021 @ 08:13:30 - Row :133 - Parsing item.
+10-19-2021 @ 08:13:30 - Importing as new order ID:143
+10-19-2021 @ 08:13:30 - Row :133 - Processing item.
+10-19-2021 @ 08:13:30 - Found order object. ID:143
+10-19-2021 @ 08:13:32 - Row :133 - Order imported successfully.
+10-19-2021 @ 08:13:32 - Row :134 - Parsing item.
+10-19-2021 @ 08:13:32 - Row :134 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 144
+10-19-2021 @ 08:13:32 - Row :135 - Parsing item.
+10-19-2021 @ 08:13:32 - Row :135 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 145
+10-19-2021 @ 08:13:32 - Row :136 - Parsing item.
+10-19-2021 @ 08:13:32 - Row :136 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 146
+10-19-2021 @ 08:13:32 - Row :137 - Parsing item.
+10-19-2021 @ 08:13:32 - Row :137 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 147
+10-19-2021 @ 08:13:32 - Row :138 - Parsing item.
+10-19-2021 @ 08:13:32 - Row :138 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 148
+10-19-2021 @ 08:13:32 - Row :139 - Parsing item.
+10-19-2021 @ 08:13:32 - Row :139 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 149
+10-19-2021 @ 08:13:32 - Row :140 - Parsing item.
+10-19-2021 @ 08:13:33 - Importing as new order ID:150
+10-19-2021 @ 08:13:33 - Row :140 - Processing item.
+10-19-2021 @ 08:13:33 - Found order object. ID:150
+10-19-2021 @ 08:13:35 - Row :140 - Order imported successfully.
+10-19-2021 @ 08:13:35 - Row :141 - Parsing item.
+10-19-2021 @ 08:13:35 - Importing as new order ID:151
+10-19-2021 @ 08:13:35 - Row :141 - Processing item.
+10-19-2021 @ 08:13:35 - Found order object. ID:151
+10-19-2021 @ 08:13:36 - Row :141 - Order imported successfully.
+10-19-2021 @ 08:13:36 - Row :142 - Parsing item.
+10-19-2021 @ 08:13:36 - Importing as new order ID:152
+10-19-2021 @ 08:13:36 - Row :142 - Processing item.
+10-19-2021 @ 08:13:36 - Found order object. ID:152
+10-19-2021 @ 08:13:37 - Row :142 - Order imported successfully.
+10-19-2021 @ 08:13:37 - Row :143 - Parsing item.
+10-19-2021 @ 08:13:37 - Importing as new order ID:153
+10-19-2021 @ 08:13:37 - Row :143 - Processing item.
+10-19-2021 @ 08:13:37 - Found order object. ID:153
+10-19-2021 @ 08:13:39 - Row :143 - Order imported successfully.
+10-19-2021 @ 08:13:39 - Row :144 - Parsing item.
+10-19-2021 @ 08:13:39 - Importing as new order ID:154
+10-19-2021 @ 08:13:39 - Row :144 - Processing item.
+10-19-2021 @ 08:13:39 - Found order object. ID:154
+10-19-2021 @ 08:13:40 - Row :144 - Order imported successfully.
+10-19-2021 @ 08:13:40 - Row :145 - Parsing item.
+10-19-2021 @ 08:13:41 - Importing as new order ID:155
+10-19-2021 @ 08:13:41 - Row :145 - Processing item.
+10-19-2021 @ 08:13:41 - Found order object. ID:155
+10-19-2021 @ 08:13:42 - Row :145 - Order imported successfully.
+10-19-2021 @ 08:13:42 - Row :146 - Parsing item.
+10-19-2021 @ 08:13:42 - Row :146 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 156
+10-19-2021 @ 08:13:42 - Row :147 - Parsing item.
+10-19-2021 @ 08:13:42 - Row :147 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 157
+10-19-2021 @ 08:13:42 - Row :148 - Parsing item.
+10-19-2021 @ 08:13:42 - Row :148 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 158
+10-19-2021 @ 08:13:42 - Row :149 - Parsing item.
+10-19-2021 @ 08:13:42 - Row :149 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 159
+10-19-2021 @ 08:13:42 - Row :150 - Parsing item.
+10-19-2021 @ 08:13:42 - Row :150 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 160
+10-19-2021 @ 08:13:42 - Row :151 - Parsing item.
+10-19-2021 @ 08:13:42 - Row :151 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 161
+10-19-2021 @ 08:13:42 - Row :152 - Parsing item.
+10-19-2021 @ 08:13:42 - Importing as new order ID:162
+10-19-2021 @ 08:13:42 - Row :152 - Processing item.
+10-19-2021 @ 08:13:42 - Found order object. ID:162
+10-19-2021 @ 08:13:44 - Row :152 - Order imported successfully.
+10-19-2021 @ 08:13:44 - Row :153 - Parsing item.
+10-19-2021 @ 08:13:44 - Importing as new order ID:163
+10-19-2021 @ 08:13:44 - Row :153 - Processing item.
+10-19-2021 @ 08:13:44 - Found order object. ID:163
+10-19-2021 @ 08:13:45 - Row :153 - Order imported successfully.
+10-19-2021 @ 08:13:45 - Row :154 - Parsing item.
+10-19-2021 @ 08:13:45 - Importing as new order ID:164
+10-19-2021 @ 08:13:45 - Row :154 - Processing item.
+10-19-2021 @ 08:13:45 - Found order object. ID:164
+10-19-2021 @ 08:13:46 - Row :154 - Order imported successfully.
+10-19-2021 @ 08:13:46 - Row :155 - Parsing item.
+10-19-2021 @ 08:13:46 - Importing as new order ID:165
+10-19-2021 @ 08:13:46 - Row :155 - Processing item.
+10-19-2021 @ 08:13:46 - Found order object. ID:165
+10-19-2021 @ 08:13:48 - Row :155 - Order imported successfully.
+10-19-2021 @ 08:13:48 - Row :156 - Parsing item.
+10-19-2021 @ 08:13:48 - Importing as new order ID:166
+10-19-2021 @ 08:13:48 - Row :156 - Processing item.
+10-19-2021 @ 08:13:48 - Found order object. ID:166
+10-19-2021 @ 08:13:48 - Row :156 - Order imported successfully.
+10-19-2021 @ 08:13:48 - Row :157 - Parsing item.
+10-19-2021 @ 08:13:48 - Importing as new order ID:167
+10-19-2021 @ 08:13:48 - Row :157 - Processing item.
+10-19-2021 @ 08:13:48 - Found order object. ID:167
+10-19-2021 @ 08:13:50 - Row :157 - Order imported successfully.
+10-19-2021 @ 08:13:50 - Row :158 - Parsing item.
+10-19-2021 @ 08:13:50 - Importing as new order ID:168
+10-19-2021 @ 08:13:50 - Row :158 - Processing item.
+10-19-2021 @ 08:13:50 - Found order object. ID:168
+10-19-2021 @ 08:13:53 - Row :158 - Order imported successfully.
+10-19-2021 @ 08:13:53 - Row :159 - Parsing item.
+10-19-2021 @ 08:13:53 - Importing as new order ID:169
+10-19-2021 @ 08:13:53 - Row :159 - Processing item.
+10-19-2021 @ 08:13:53 - Found order object. ID:169
+10-19-2021 @ 08:13:54 - Row :159 - Order imported successfully.
+10-19-2021 @ 08:13:54 - Row :160 - Parsing item.
+10-19-2021 @ 08:13:54 - Importing as new order ID:170
+10-19-2021 @ 08:13:54 - Row :160 - Processing item.
+10-19-2021 @ 08:13:54 - Found order object. ID:170
+10-19-2021 @ 08:13:55 - Row :160 - Order imported successfully.
+10-19-2021 @ 08:13:55 - Row :161 - Parsing item.
+10-19-2021 @ 08:13:55 - Importing as new order ID:171
+10-19-2021 @ 08:13:55 - Row :161 - Processing item.
+10-19-2021 @ 08:13:56 - Found order object. ID:171
+10-19-2021 @ 08:13:57 - Row :161 - Order imported successfully.
+10-19-2021 @ 08:13:57 - Row :162 - Parsing item.
+10-19-2021 @ 08:13:57 - Importing as new order ID:172
+10-19-2021 @ 08:13:57 - Row :162 - Processing item.
+10-19-2021 @ 08:13:57 - Found order object. ID:172
+10-19-2021 @ 08:13:58 - Row :162 - Order imported successfully.
+10-19-2021 @ 08:13:58 - Row :163 - Parsing item.
+10-19-2021 @ 08:13:58 - Importing as new order ID:173
+10-19-2021 @ 08:13:58 - Row :163 - Processing item.
+10-19-2021 @ 08:13:58 - Found order object. ID:173
+10-19-2021 @ 08:14:01 - Row :163 - Order imported successfully.
+10-19-2021 @ 08:14:01 - Row :164 - Parsing item.
+10-19-2021 @ 08:14:01 - Importing as new order ID:174
+10-19-2021 @ 08:14:01 - Row :164 - Processing item.
+10-19-2021 @ 08:14:01 - Found order object. ID:174
+10-19-2021 @ 08:14:02 - Row :164 - Order imported successfully.
+10-19-2021 @ 08:14:02 - Row :165 - Parsing item.
+10-19-2021 @ 08:14:02 - Importing as new order ID:175
+10-19-2021 @ 08:14:02 - Row :165 - Processing item.
+10-19-2021 @ 08:14:02 - Found order object. ID:175
+10-19-2021 @ 08:14:03 - Row :165 - Order imported successfully.
+10-19-2021 @ 08:14:04 - Row :166 - Parsing item.
+10-19-2021 @ 08:14:04 - Importing as new order ID:176
+10-19-2021 @ 08:14:04 - Row :166 - Processing item.
+10-19-2021 @ 08:14:04 - Found order object. ID:176
+10-19-2021 @ 08:14:05 - Row :166 - Order imported successfully.
+10-19-2021 @ 08:14:05 - Row :167 - Parsing item.
+10-19-2021 @ 08:14:05 - Row :167 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 177
+10-19-2021 @ 08:14:05 - Row :168 - Parsing item.
+10-19-2021 @ 08:14:05 - Importing as new order ID:178
+10-19-2021 @ 08:14:05 - Row :168 - Processing item.
+10-19-2021 @ 08:14:05 - Found order object. ID:178
+10-19-2021 @ 08:14:06 - Row :168 - Order imported successfully.
+10-19-2021 @ 08:14:06 - Row :169 - Parsing item.
+10-19-2021 @ 08:14:06 - Importing as new order ID:179
+10-19-2021 @ 08:14:06 - Row :169 - Processing item.
+10-19-2021 @ 08:14:06 - Found order object. ID:179
+10-19-2021 @ 08:14:06 - Row :169 - Order imported successfully.
+10-19-2021 @ 08:14:06 - Row :170 - Parsing item.
+10-19-2021 @ 08:14:06 - Importing as new order ID:180
+10-19-2021 @ 08:14:06 - Row :170 - Processing item.
+10-19-2021 @ 08:14:07 - Found order object. ID:180
+10-19-2021 @ 08:14:08 - Row :170 - Order imported successfully.
+10-19-2021 @ 08:14:08 - Row :171 - Parsing item.
+10-19-2021 @ 08:14:08 - Importing as new order ID:181
+10-19-2021 @ 08:14:08 - Row :171 - Processing item.
+10-19-2021 @ 08:14:08 - Found order object. ID:181
+10-19-2021 @ 08:14:10 - Row :171 - Order imported successfully.
+10-19-2021 @ 08:14:10 - Row :172 - Parsing item.
+10-19-2021 @ 08:14:10 - Importing as new order ID:182
+10-19-2021 @ 08:14:10 - Row :172 - Processing item.
+10-19-2021 @ 08:14:10 - Found order object. ID:182
+10-19-2021 @ 08:14:12 - Row :172 - Order imported successfully.
+10-19-2021 @ 08:14:12 - Row :173 - Parsing item.
+10-19-2021 @ 08:14:12 - Importing as new order ID:183
+10-19-2021 @ 08:14:12 - Row :173 - Processing item.
+10-19-2021 @ 08:14:12 - Found order object. ID:183
+10-19-2021 @ 08:14:13 - Row :173 - Order imported successfully.
+10-19-2021 @ 08:14:13 - Row :174 - Parsing item.
+10-19-2021 @ 08:14:13 - Row :174 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 184
+10-19-2021 @ 08:14:13 - Row :175 - Parsing item.
+10-19-2021 @ 08:14:13 - Importing as new order ID:185
+10-19-2021 @ 08:14:13 - Row :175 - Processing item.
+10-19-2021 @ 08:14:13 - Found order object. ID:185
+10-19-2021 @ 08:14:15 - Row :175 - Order imported successfully.
+10-19-2021 @ 08:14:15 - Row :176 - Parsing item.
+10-19-2021 @ 08:14:15 - Importing as new order ID:186
+10-19-2021 @ 08:14:15 - Row :176 - Processing item.
+10-19-2021 @ 08:14:16 - Found order object. ID:186
+10-19-2021 @ 08:14:18 - Row :176 - Order imported successfully.
+10-19-2021 @ 08:14:18 - Row :177 - Parsing item.
+10-19-2021 @ 08:14:18 - Importing as new order ID:187
+10-19-2021 @ 08:14:18 - Row :177 - Processing item.
+10-19-2021 @ 08:14:18 - Found order object. ID:187
+10-19-2021 @ 08:14:19 - Row :177 - Order imported successfully.
+10-19-2021 @ 08:14:19 - Row :178 - Parsing item.
+10-19-2021 @ 08:14:19 - Importing as new order ID:188
+10-19-2021 @ 08:14:19 - Row :178 - Processing item.
+10-19-2021 @ 08:14:19 - Found order object. ID:188
+10-19-2021 @ 08:14:21 - Row :178 - Order imported successfully.
+10-19-2021 @ 08:14:21 - Row :179 - Parsing item.
+10-19-2021 @ 08:14:21 - Importing as new order ID:189
+10-19-2021 @ 08:14:21 - Row :179 - Processing item.
+10-19-2021 @ 08:14:21 - Found order object. ID:189
+10-19-2021 @ 08:14:21 - Row :179 - Order imported successfully.
+10-19-2021 @ 08:14:21 - Row :180 - Parsing item.
+10-19-2021 @ 08:14:21 - Importing as new order ID:190
+10-19-2021 @ 08:14:21 - Row :180 - Processing item.
+10-19-2021 @ 08:14:21 - Found order object. ID:190
+10-19-2021 @ 08:14:23 - Row :180 - Order imported successfully.
+10-19-2021 @ 08:14:23 - Row :181 - Parsing item.
+10-19-2021 @ 08:14:23 - Importing as new order ID:191
+10-19-2021 @ 08:14:23 - Row :181 - Processing item.
+10-19-2021 @ 08:14:23 - Found order object. ID:191
+10-19-2021 @ 08:14:23 - Row :181 - Order imported successfully.
+10-19-2021 @ 08:14:23 - Row :182 - Parsing item.
+10-19-2021 @ 08:14:23 - Row :182 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 192
+10-19-2021 @ 08:14:23 - Row :183 - Parsing item.
+10-19-2021 @ 08:14:23 - Importing as new order ID:193
+10-19-2021 @ 08:14:23 - Row :183 - Processing item.
+10-19-2021 @ 08:14:23 - Found order object. ID:193
+10-19-2021 @ 08:14:25 - Row :183 - Order imported successfully.
+10-19-2021 @ 08:14:25 - Row :184 - Parsing item.
+10-19-2021 @ 08:14:25 - Importing as new order ID:194
+10-19-2021 @ 08:14:25 - Row :184 - Processing item.
+10-19-2021 @ 08:14:25 - Found order object. ID:194
+10-19-2021 @ 08:14:26 - Row :184 - Order imported successfully.
+10-19-2021 @ 08:14:26 - Row :185 - Parsing item.
+10-19-2021 @ 08:14:26 - Importing as new order ID:195
+10-19-2021 @ 08:14:26 - Row :185 - Processing item.
+10-19-2021 @ 08:14:26 - Found order object. ID:195
+10-19-2021 @ 08:14:27 - Row :185 - Order imported successfully.
+10-19-2021 @ 08:14:27 - Row :186 - Parsing item.
+10-19-2021 @ 08:14:27 - Importing as new order ID:196
+10-19-2021 @ 08:14:27 - Row :186 - Processing item.
+10-19-2021 @ 08:14:27 - Found order object. ID:196
+10-19-2021 @ 08:14:29 - Row :186 - Order imported successfully.
+10-19-2021 @ 08:14:29 - Row :187 - Parsing item.
+10-19-2021 @ 08:14:29 - Row :187 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 197
+10-19-2021 @ 08:14:29 - Row :188 - Parsing item.
+10-19-2021 @ 08:14:29 - Row :188 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 198
+10-19-2021 @ 08:14:29 - Row :189 - Parsing item.
+10-19-2021 @ 08:14:29 - Importing as new order ID:199
+10-19-2021 @ 08:14:29 - Row :189 - Processing item.
+10-19-2021 @ 08:14:29 - Found order object. ID:199
+10-19-2021 @ 08:14:29 - Row :189 - Order imported successfully.
+10-19-2021 @ 08:14:29 - Row :190 - Parsing item.
+10-19-2021 @ 08:14:29 - Importing as new order ID:200
+10-19-2021 @ 08:14:29 - Row :190 - Processing item.
+10-19-2021 @ 08:14:29 - Found order object. ID:200
+10-19-2021 @ 08:14:30 - Row :190 - Order imported successfully.
+10-19-2021 @ 08:14:30 - Row :191 - Parsing item.
+10-19-2021 @ 08:14:30 - Importing as new order ID:201
+10-19-2021 @ 08:14:30 - Row :191 - Processing item.
+10-19-2021 @ 08:14:30 - Found order object. ID:201
+10-19-2021 @ 08:14:32 - Row :191 - Order imported successfully.
+10-19-2021 @ 08:14:32 - Row :192 - Parsing item.
+10-19-2021 @ 08:14:32 - Importing as new order ID:202
+10-19-2021 @ 08:14:32 - Row :192 - Processing item.
+10-19-2021 @ 08:14:32 - Found order object. ID:202
+10-19-2021 @ 08:14:34 - Row :192 - Order imported successfully.
+10-19-2021 @ 08:14:34 - Row :193 - Parsing item.
+10-19-2021 @ 08:14:34 - Importing as new order ID:203
+10-19-2021 @ 08:14:34 - Row :193 - Processing item.
+10-19-2021 @ 08:14:34 - Found order object. ID:203
+10-19-2021 @ 08:14:34 - Row :193 - Order imported successfully.
+10-19-2021 @ 08:14:34 - Row :194 - Parsing item.
+10-19-2021 @ 08:14:34 - Importing as new order ID:204
+10-19-2021 @ 08:14:34 - Row :194 - Processing item.
+10-19-2021 @ 08:14:34 - Found order object. ID:204
+10-19-2021 @ 08:14:37 - Row :194 - Order imported successfully.
+10-19-2021 @ 08:14:37 - Row :195 - Parsing item.
+10-19-2021 @ 08:14:37 - Row :195 - Parsing failed. Reason: Order with same ID already exists. ID: 205
+10-19-2021 @ 08:14:37 - Row :196 - Parsing item.
+10-19-2021 @ 08:14:37 - Row :196 - Parsing failed. Reason: Order with same ID already exists. ID: 206
+10-19-2021 @ 08:14:37 - Row :197 - Parsing item.
+10-19-2021 @ 08:14:37 - Importing as new order ID:207
+10-19-2021 @ 08:14:37 - Row :197 - Processing item.
+10-19-2021 @ 08:14:37 - Found order object. ID:207
+10-19-2021 @ 08:14:39 - Row :197 - Order imported successfully.
+10-19-2021 @ 08:14:39 - Row :198 - Parsing item.
+10-19-2021 @ 08:14:39 - Row :198 - Parsing failed. Reason: Order with same ID already exists. ID: 208
+10-19-2021 @ 08:14:39 - Row :199 - Parsing item.
+10-19-2021 @ 08:14:39 - Row :199 - Parsing failed. Reason: Order with same ID already exists. ID: 209
+10-19-2021 @ 08:14:39 - Row :200 - Parsing item.
+10-19-2021 @ 08:14:39 - Importing as new order ID:210
+10-19-2021 @ 08:14:39 - Row :200 - Processing item.
+10-19-2021 @ 08:14:39 - Found order object. ID:210
+10-19-2021 @ 08:14:41 - Row :200 - Order imported successfully.
+10-19-2021 @ 08:14:41 - Row :201 - Parsing item.
+10-19-2021 @ 08:14:41 - Row :201 - Parsing failed. Reason: Order with same ID already exists. ID: 211
+10-19-2021 @ 08:14:41 - Row :202 - Parsing item.
+10-19-2021 @ 08:14:41 - Importing as new order ID:212
+10-19-2021 @ 08:14:41 - Row :202 - Processing item.
+10-19-2021 @ 08:14:41 - Found order object. ID:212
+10-19-2021 @ 08:14:43 - Row :202 - Order imported successfully.
+10-19-2021 @ 08:14:43 - Row :203 - Parsing item.
+10-19-2021 @ 08:14:43 - Row :203 - Parsing failed. Reason: Order with same ID already exists. ID: 213
+10-19-2021 @ 08:14:43 - Row :204 - Parsing item.
+10-19-2021 @ 08:14:43 - Importing as new order ID:214
+10-19-2021 @ 08:14:43 - Row :204 - Processing item.
+10-19-2021 @ 08:14:43 - Found order object. ID:214
+10-19-2021 @ 08:14:44 - Row :204 - Order imported successfully.
+10-19-2021 @ 08:14:44 - Row :205 - Parsing item.
+10-19-2021 @ 08:14:44 - Importing as new order ID:215
+10-19-2021 @ 08:14:44 - Row :205 - Processing item.
+10-19-2021 @ 08:14:44 - Found order object. ID:215
+10-19-2021 @ 08:14:46 - Row :205 - Order imported successfully.
+10-19-2021 @ 08:14:46 - Row :206 - Parsing item.
+10-19-2021 @ 08:14:46 - Row :206 - Parsing failed. Reason: Order with same ID already exists. ID: 216
+10-19-2021 @ 08:14:46 - Row :207 - Parsing item.
+10-19-2021 @ 08:14:46 - Importing as new order ID:217
+10-19-2021 @ 08:14:46 - Row :207 - Processing item.
+10-19-2021 @ 08:14:46 - Found order object. ID:217
+10-19-2021 @ 08:14:47 - Row :207 - Order imported successfully.
+10-19-2021 @ 08:14:47 - Row :208 - Parsing item.
+10-19-2021 @ 08:14:47 - Row :208 - Parsing failed. Reason: Order with same ID already exists. ID: 218
+10-19-2021 @ 08:14:47 - Row :209 - Parsing item.
+10-19-2021 @ 08:14:47 - Importing as new order ID:219
+10-19-2021 @ 08:14:47 - Row :209 - Processing item.
+10-19-2021 @ 08:14:47 - Found order object. ID:219
+10-19-2021 @ 08:14:48 - Row :209 - Order imported successfully.
+10-19-2021 @ 08:14:48 - Row :210 - Parsing item.
+10-19-2021 @ 08:14:48 - Importing as new order ID:220
+10-19-2021 @ 08:14:48 - Row :210 - Processing item.
+10-19-2021 @ 08:14:48 - Found order object. ID:220
+10-19-2021 @ 08:14:49 - Row :210 - Order imported successfully.
+10-19-2021 @ 08:14:49 - Row :211 - Parsing item.
+10-19-2021 @ 08:14:49 - Row :211 - Parsing failed. Reason: Order with same ID already exists. ID: 221
+10-19-2021 @ 08:14:49 - Row :212 - Parsing item.
+10-19-2021 @ 08:14:49 - Importing as new order ID:222
+10-19-2021 @ 08:14:49 - Row :212 - Processing item.
+10-19-2021 @ 08:14:49 - Found order object. ID:222
+10-19-2021 @ 08:14:51 - Row :212 - Order imported successfully.
+10-19-2021 @ 08:14:51 - Row :213 - Parsing item.
+10-19-2021 @ 08:14:51 - Row :213 - Parsing failed. Reason: Order with same ID already exists. ID: 223
+10-19-2021 @ 08:14:51 - Row :214 - Parsing item.
+10-19-2021 @ 08:14:51 - Row :214 - Parsing failed. Reason: Order with same ID already exists. ID: 224
+10-19-2021 @ 08:14:51 - Row :215 - Parsing item.
+10-19-2021 @ 08:14:51 - Importing as new order ID:226
+10-19-2021 @ 08:14:52 - Row :215 - Processing item.
+10-19-2021 @ 08:14:52 - Found order object. ID:226
+10-19-2021 @ 08:14:53 - Row :215 - Order imported successfully.
+10-19-2021 @ 08:14:53 - Row :216 - Parsing item.
+10-19-2021 @ 08:14:53 - Importing as new order ID:227
+10-19-2021 @ 08:14:53 - Row :216 - Processing item.
+10-19-2021 @ 08:14:53 - Found order object. ID:227
+10-19-2021 @ 08:14:54 - Row :216 - Order imported successfully.
+10-19-2021 @ 08:14:54 - Row :217 - Parsing item.
+10-19-2021 @ 08:14:54 - Row :217 - Parsing failed. Reason: Order with same ID already exists. ID: 228
+10-19-2021 @ 08:14:54 - Row :218 - Parsing item.
+10-19-2021 @ 08:14:54 - Importing as new order ID:229
+10-19-2021 @ 08:14:54 - Row :218 - Processing item.
+10-19-2021 @ 08:14:54 - Found order object. ID:229
+10-19-2021 @ 08:14:56 - Row :218 - Order imported successfully.
+10-19-2021 @ 08:14:56 - Row :219 - Parsing item.
+10-19-2021 @ 08:14:56 - Row :219 - Parsing failed. Reason: Order with same ID already exists. ID: 230
+10-19-2021 @ 08:14:56 - Row :220 - Parsing item.
+10-19-2021 @ 08:14:56 - Importing as new order ID:231
+10-19-2021 @ 08:14:56 - Row :220 - Processing item.
+10-19-2021 @ 08:14:56 - Found order object. ID:231
+10-19-2021 @ 08:14:58 - Row :220 - Order imported successfully.
+10-19-2021 @ 08:14:58 - Row :221 - Parsing item.
+10-19-2021 @ 08:14:58 - Row :221 - Parsing failed. Reason: Order with same ID already exists. ID: 232
+10-19-2021 @ 08:14:58 - Row :222 - Parsing item.
+10-19-2021 @ 08:14:58 - Row :222 - Parsing failed. Reason: Order with same ID already exists. ID: 233
+10-19-2021 @ 08:14:58 - Row :223 - Parsing item.
+10-19-2021 @ 08:14:58 - Importing as new order ID:234
+10-19-2021 @ 08:14:58 - Row :223 - Processing item.
+10-19-2021 @ 08:14:58 - Found order object. ID:234
+10-19-2021 @ 08:14:59 - Row :223 - Order imported successfully.
+10-19-2021 @ 08:14:59 - Row :224 - Parsing item.
+10-19-2021 @ 08:14:59 - Row :224 - Parsing failed. Reason: Order with same ID already exists. ID: 235
+10-19-2021 @ 08:14:59 - Row :225 - Parsing item.
+10-19-2021 @ 08:14:59 - Importing as new order ID:236
+10-19-2021 @ 08:14:59 - Row :225 - Processing item.
+10-19-2021 @ 08:15:00 - Found order object. ID:236
+10-19-2021 @ 08:15:01 - Row :225 - Order imported successfully.
+10-19-2021 @ 08:15:01 - Row :226 - Parsing item.
+10-19-2021 @ 08:15:01 - Row :226 - Parsing failed. Reason: Order with same ID already exists. ID: 237
+10-19-2021 @ 08:15:01 - Row :227 - Parsing item.
+10-19-2021 @ 08:15:01 - Importing as new order ID:238
+10-19-2021 @ 08:15:01 - Row :227 - Processing item.
+10-19-2021 @ 08:15:01 - Found order object. ID:238
+10-19-2021 @ 08:15:03 - Row :227 - Order imported successfully.
+10-19-2021 @ 08:15:03 - Row :228 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :228 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 239
+10-19-2021 @ 08:15:03 - Row :229 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :229 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 240
+10-19-2021 @ 08:15:03 - Row :230 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :230 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 241
+10-19-2021 @ 08:15:03 - Row :231 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :231 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 242
+10-19-2021 @ 08:15:03 - Row :232 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :232 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 243
+10-19-2021 @ 08:15:03 - Row :233 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :233 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 244
+10-19-2021 @ 08:15:03 - Row :234 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :234 - Parsing failed. Reason: Order with same ID already exists. ID: 245
+10-19-2021 @ 08:15:03 - Row :235 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :235 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 246
+10-19-2021 @ 08:15:03 - Row :236 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :236 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 247
+10-19-2021 @ 08:15:03 - Row :237 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :237 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 248
+10-19-2021 @ 08:15:03 - Row :238 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :238 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 249
+10-19-2021 @ 08:15:03 - Row :239 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :239 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 250
+10-19-2021 @ 08:15:03 - Row :240 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :240 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 251
+10-19-2021 @ 08:15:03 - Row :241 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :241 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 252
+10-19-2021 @ 08:15:03 - Row :242 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :242 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 253
+10-19-2021 @ 08:15:03 - Row :243 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :243 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 254
+10-19-2021 @ 08:15:03 - Row :244 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :244 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 255
+10-19-2021 @ 08:15:03 - Row :245 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :245 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 256
+10-19-2021 @ 08:15:03 - Row :246 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :246 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 257
+10-19-2021 @ 08:15:03 - Row :247 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :247 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 258
+10-19-2021 @ 08:15:03 - Row :248 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :248 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 259
+10-19-2021 @ 08:15:03 - Row :249 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :249 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 260
+10-19-2021 @ 08:15:03 - Row :250 - Parsing item.
+10-19-2021 @ 08:15:03 - Row :250 - Parsing failed. Reason: Order with same ID already exists. ID: 261
+10-19-2021 @ 08:15:03 - Row :251 - Parsing item.
+10-19-2021 @ 08:15:04 - Row :251 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 262
+10-19-2021 @ 08:15:04 - Row :252 - Parsing item.
+10-19-2021 @ 08:15:04 - Importing as new order ID:263
+10-19-2021 @ 08:15:04 - Row :252 - Processing item.
+10-19-2021 @ 08:15:04 - Found order object. ID:263
+10-19-2021 @ 08:15:06 - Row :252 - Order imported successfully.
+10-19-2021 @ 08:15:06 - Row :253 - Parsing item.
+10-19-2021 @ 08:15:06 - Row :253 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 264
+10-19-2021 @ 08:15:06 - Row :254 - Parsing item.
+10-19-2021 @ 08:15:06 - Row :254 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 265
+10-19-2021 @ 08:15:06 - Row :255 - Parsing item.
+10-19-2021 @ 08:15:06 - Row :255 - Parsing failed. Reason: Order with same ID already exists. ID: 266
+10-19-2021 @ 08:15:06 - Row :256 - Parsing item.
+10-19-2021 @ 08:15:06 - Row :256 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 267
+10-19-2021 @ 08:15:06 - Row :257 - Parsing item.
+10-19-2021 @ 08:15:06 - Row :257 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 268
+10-19-2021 @ 08:15:06 - Row :258 - Parsing item.
+10-19-2021 @ 08:15:06 - Row :258 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 269
+10-19-2021 @ 08:15:06 - Row :259 - Parsing item.
+10-19-2021 @ 08:15:06 - Importing as new order ID:270
+10-19-2021 @ 08:15:06 - Row :259 - Processing item.
+10-19-2021 @ 08:15:06 - Found order object. ID:270
+10-19-2021 @ 08:15:08 - Row :259 - Order imported successfully.
+10-19-2021 @ 08:15:08 - Row :260 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :260 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 271
+10-19-2021 @ 08:15:08 - Row :261 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :261 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 272
+10-19-2021 @ 08:15:08 - Row :262 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :262 - Parsing failed. Reason: Order with same ID already exists. ID: 273
+10-19-2021 @ 08:15:08 - Row :263 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :263 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 274
+10-19-2021 @ 08:15:08 - Row :264 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :264 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 275
+10-19-2021 @ 08:15:08 - Row :265 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :265 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 276
+10-19-2021 @ 08:15:08 - Row :266 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :266 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 277
+10-19-2021 @ 08:15:08 - Row :267 - Parsing item.
+10-19-2021 @ 08:15:08 - Row :267 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 278
+10-19-2021 @ 08:15:08 - Row :268 - Parsing item.
+10-19-2021 @ 08:15:08 - Importing as new order ID:279
+10-19-2021 @ 08:15:08 - Row :268 - Processing item.
+10-19-2021 @ 08:15:08 - Found order object. ID:279
+10-19-2021 @ 08:15:10 - Row :268 - Order imported successfully.
+10-19-2021 @ 08:15:10 - Row :269 - Parsing item.
+10-19-2021 @ 08:15:10 - Row :269 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 280
+10-19-2021 @ 08:15:10 - Row :270 - Parsing item.
+10-19-2021 @ 08:15:10 - Row :270 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 281
+10-19-2021 @ 08:15:10 - Row :271 - Parsing item.
+10-19-2021 @ 08:15:10 - Row :271 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 282
+10-19-2021 @ 08:15:10 - Row :272 - Parsing item.
+10-19-2021 @ 08:15:10 - Row :272 - Parsing failed. Reason: Order with same ID already exists. ID: 283
+10-19-2021 @ 08:15:10 - Row :273 - Parsing item.
+10-19-2021 @ 08:15:10 - Row :273 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 284
+10-19-2021 @ 08:15:10 - Row :274 - Parsing item.
+10-19-2021 @ 08:15:10 - Importing as new order ID:285
+10-19-2021 @ 08:15:10 - Row :274 - Processing item.
+10-19-2021 @ 08:15:10 - Found order object. ID:285
+10-19-2021 @ 08:15:11 - Row :274 - Order imported successfully.
+10-19-2021 @ 08:15:11 - Row :275 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :275 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 286
+10-19-2021 @ 08:15:11 - Row :276 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :276 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 287
+10-19-2021 @ 08:15:11 - Row :277 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :277 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 288
+10-19-2021 @ 08:15:11 - Row :278 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :278 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 289
+10-19-2021 @ 08:15:11 - Row :279 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :279 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 290
+10-19-2021 @ 08:15:11 - Row :280 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :280 - Parsing failed. Reason: Order with same ID already exists. ID: 291
+10-19-2021 @ 08:15:11 - Row :281 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :281 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 292
+10-19-2021 @ 08:15:11 - Row :282 - Parsing item.
+10-19-2021 @ 08:15:11 - Row :282 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 293
+10-19-2021 @ 08:15:11 - Row :283 - Parsing item.
+10-19-2021 @ 08:15:11 - Importing as new order ID:294
+10-19-2021 @ 08:15:11 - Row :283 - Processing item.
+10-19-2021 @ 08:15:12 - Found order object. ID:294
+10-19-2021 @ 08:15:12 - Row :283 - Order imported successfully.
+10-19-2021 @ 08:15:12 - Row :284 - Parsing item.
+10-19-2021 @ 08:15:12 - Row :284 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 295
+10-19-2021 @ 08:15:12 - Row :285 - Parsing item.
+10-19-2021 @ 08:15:12 - Importing as new order ID:296
+10-19-2021 @ 08:15:12 - Row :285 - Processing item.
+10-19-2021 @ 08:15:12 - Found order object. ID:296
+10-19-2021 @ 08:15:14 - Row :285 - Order imported successfully.
+10-19-2021 @ 08:15:14 - Row :286 - Parsing item.
+10-19-2021 @ 08:15:14 - Row :286 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 297
+10-19-2021 @ 08:15:14 - Row :287 - Parsing item.
+10-19-2021 @ 08:15:14 - Row :287 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 298
+10-19-2021 @ 08:15:14 - Row :288 - Parsing item.
+10-19-2021 @ 08:15:14 - Row :288 - Parsing failed. Reason: Order with same ID already exists. ID: 299
+10-19-2021 @ 08:15:15 - Row :289 - Parsing item.
+10-19-2021 @ 08:15:15 - Row :289 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 300
+10-19-2021 @ 08:15:15 - Row :290 - Parsing item.
+10-19-2021 @ 08:15:15 - Importing as new order ID:301
+10-19-2021 @ 08:15:15 - Row :290 - Processing item.
+10-19-2021 @ 08:15:15 - Found order object. ID:301
+10-19-2021 @ 08:15:17 - Row :290 - Order imported successfully.
+10-19-2021 @ 08:15:17 - Row :291 - Parsing item.
+10-19-2021 @ 08:15:17 - Row :291 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 302
+10-19-2021 @ 08:15:17 - Row :292 - Parsing item.
+10-19-2021 @ 08:15:17 - Row :292 - Parsing failed. Reason: Order with same ID already exists. ID: 303
+10-19-2021 @ 08:15:17 - Row :293 - Parsing item.
+10-19-2021 @ 08:15:17 - Row :293 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 304
+10-19-2021 @ 08:15:17 - Row :294 - Parsing item.
+10-19-2021 @ 08:15:17 - Row :294 - Parsing failed. Reason: Order with same ID already exists. ID: 305
+10-19-2021 @ 08:15:17 - Row :295 - Parsing item.
+10-19-2021 @ 08:15:17 - Importing as new order ID:306
+10-19-2021 @ 08:15:17 - Row :295 - Processing item.
+10-19-2021 @ 08:15:17 - Found order object. ID:306
+10-19-2021 @ 08:15:18 - Row :295 - Order imported successfully.
+10-19-2021 @ 08:15:18 - Row :296 - Parsing item.
+10-19-2021 @ 08:15:18 - Row :296 - Parsing failed. Reason: Order with same ID already exists. ID: 307
+10-19-2021 @ 08:15:18 - Row :297 - Parsing item.
+10-19-2021 @ 08:15:18 - Importing as new order ID:308
+10-19-2021 @ 08:15:18 - Row :297 - Processing item.
+10-19-2021 @ 08:15:18 - Found order object. ID:308
+10-19-2021 @ 08:15:20 - Row :297 - Order imported successfully.
+10-19-2021 @ 08:15:20 - Row :298 - Parsing item.
+10-19-2021 @ 08:15:20 - Row :298 - Parsing failed. Reason: Order with same ID already exists. ID: 309
+10-19-2021 @ 08:15:20 - Row :299 - Parsing item.
+10-19-2021 @ 08:15:20 - Row :299 - Parsing failed. Reason: Order with same ID already exists. ID: 310
+10-19-2021 @ 08:15:20 - Row :300 - Parsing item.
+10-19-2021 @ 08:15:20 - Importing as new order ID:311
+10-19-2021 @ 08:15:20 - Row :300 - Processing item.
+10-19-2021 @ 08:15:20 - Found order object. ID:311
+10-19-2021 @ 08:15:22 - Row :300 - Order imported successfully.
+10-19-2021 @ 08:15:22 - Row :301 - Parsing item.
+10-19-2021 @ 08:15:22 - Row :301 - Parsing failed. Reason: Order with same ID already exists. ID: 312
+10-19-2021 @ 08:15:22 - Row :302 - Parsing item.
+10-19-2021 @ 08:15:22 - Row :302 - Parsing failed. Reason: Order with same ID already exists. ID: 313
+10-19-2021 @ 08:15:22 - Row :303 - Parsing item.
+10-19-2021 @ 08:15:22 - Importing as new order ID:314
+10-19-2021 @ 08:15:22 - Row :303 - Processing item.
+10-19-2021 @ 08:15:22 - Found order object. ID:314
+10-19-2021 @ 08:15:23 - Row :303 - Order imported successfully.
+10-19-2021 @ 08:15:23 - Row :304 - Parsing item.
+10-19-2021 @ 08:15:23 - Importing as new order ID:315
+10-19-2021 @ 08:15:23 - Row :304 - Processing item.
+10-19-2021 @ 08:15:23 - Found order object. ID:315
+10-19-2021 @ 08:15:25 - Row :304 - Order imported successfully.
+10-19-2021 @ 08:15:25 - Row :305 - Parsing item.
+10-19-2021 @ 08:15:25 - Row :305 - Parsing failed. Reason: Order with same ID already exists. ID: 316
+10-19-2021 @ 08:15:25 - Row :306 - Parsing item.
+10-19-2021 @ 08:15:25 - Row :306 - Parsing failed. Reason: Order with same ID already exists. ID: 317
+10-19-2021 @ 08:15:25 - Row :307 - Parsing item.
+10-19-2021 @ 08:15:25 - Importing as new order ID:318
+10-19-2021 @ 08:15:25 - Row :307 - Processing item.
+10-19-2021 @ 08:15:25 - Found order object. ID:318
+10-19-2021 @ 08:15:27 - Row :307 - Order imported successfully.
+10-19-2021 @ 08:15:27 - Row :308 - Parsing item.
+10-19-2021 @ 08:15:27 - Row :308 - Parsing failed. Reason: Order with same ID already exists. ID: 319
+10-19-2021 @ 08:15:27 - Row :309 - Parsing item.
+10-19-2021 @ 08:15:27 - Row :309 - Parsing failed. Reason: Order with same ID already exists. ID: 320
+10-19-2021 @ 08:15:27 - Row :310 - Parsing item.
+10-19-2021 @ 08:15:27 - Importing as new order ID:321
+10-19-2021 @ 08:15:27 - Row :310 - Processing item.
+10-19-2021 @ 08:15:27 - Found order object. ID:321
+10-19-2021 @ 08:15:29 - Row :310 - Order imported successfully.
+10-19-2021 @ 08:15:29 - Row :311 - Parsing item.
+10-19-2021 @ 08:15:29 - Row :311 - Parsing failed. Reason: Order with same ID already exists. ID: 322
+10-19-2021 @ 08:15:29 - Row :312 - Parsing item.
+10-19-2021 @ 08:15:29 - Row :312 - Parsing failed. Reason: Order with same ID already exists. ID: 323
+10-19-2021 @ 08:15:29 - Row :313 - Parsing item.
+10-19-2021 @ 08:15:29 - Importing as new order ID:324
+10-19-2021 @ 08:15:29 - Row :313 - Processing item.
+10-19-2021 @ 08:15:29 - Found order object. ID:324
+10-19-2021 @ 08:15:29 - Row :313 - Order imported successfully.
+10-19-2021 @ 08:15:29 - Row :314 - Parsing item.
+10-19-2021 @ 08:15:29 - Importing as new order ID:325
+10-19-2021 @ 08:15:29 - Row :314 - Processing item.
+10-19-2021 @ 08:15:30 - Found order object. ID:325
+10-19-2021 @ 08:15:32 - Row :314 - Order imported successfully.
+10-19-2021 @ 08:15:32 - Row :315 - Parsing item.
+10-19-2021 @ 08:15:32 - Row :315 - Parsing failed. Reason: Order with same ID already exists. ID: 326
+10-19-2021 @ 08:15:32 - Row :316 - Parsing item.
+10-19-2021 @ 08:15:32 - Importing as new order ID:327
+10-19-2021 @ 08:15:32 - Row :316 - Processing item.
+10-19-2021 @ 08:15:32 - Found order object. ID:327
+10-19-2021 @ 08:15:32 - Row :316 - Order imported successfully.
+10-19-2021 @ 08:15:32 - Row :317 - Parsing item.
+10-19-2021 @ 08:15:32 - Row :317 - Parsing failed. Reason: Order with same ID already exists. ID: 328
+10-19-2021 @ 08:15:32 - Row :318 - Parsing item.
+10-19-2021 @ 08:15:32 - Importing as new order ID:329
+10-19-2021 @ 08:15:32 - Row :318 - Processing item.
+10-19-2021 @ 08:15:32 - Found order object. ID:329
+10-19-2021 @ 08:15:34 - Row :318 - Order imported successfully.
+10-19-2021 @ 08:15:34 - Row :319 - Parsing item.
+10-19-2021 @ 08:15:34 - Row :319 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 330
+10-19-2021 @ 08:15:34 - Row :320 - Parsing item.
+10-19-2021 @ 08:15:34 - Row :320 - Parsing failed. Reason: Order with same ID already exists. ID: 331
+10-19-2021 @ 08:15:34 - Row :321 - Parsing item.
+10-19-2021 @ 08:15:34 - Importing as new order ID:332
+10-19-2021 @ 08:15:34 - Row :321 - Processing item.
+10-19-2021 @ 08:15:34 - Found order object. ID:332
+10-19-2021 @ 08:15:34 - Row :321 - Order imported successfully.
+10-19-2021 @ 08:15:34 - Row :322 - Parsing item.
+10-19-2021 @ 08:15:34 - Importing as new order ID:333
+10-19-2021 @ 08:15:34 - Row :322 - Processing item.
+10-19-2021 @ 08:15:34 - Found order object. ID:333
+10-19-2021 @ 08:15:37 - Row :322 - Order imported successfully.
+10-19-2021 @ 08:15:37 - Row :323 - Parsing item.
+10-19-2021 @ 08:15:37 - Row :323 - Parsing failed. Reason: Order with same ID already exists. ID: 334
+10-19-2021 @ 08:15:37 - Row :324 - Parsing item.
+10-19-2021 @ 08:15:37 - Row :324 - Parsing failed. Reason: Order with same ID already exists. ID: 335
+10-19-2021 @ 08:15:37 - Row :325 - Parsing item.
+10-19-2021 @ 08:15:37 - Row :325 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 336
+10-19-2021 @ 08:15:37 - Row :326 - Parsing item.
+10-19-2021 @ 08:15:37 - Row :326 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 337
+10-19-2021 @ 08:15:37 - Row :327 - Parsing item.
+10-19-2021 @ 08:15:37 - Importing as new order ID:338
+10-19-2021 @ 08:15:37 - Row :327 - Processing item.
+10-19-2021 @ 08:15:37 - Found order object. ID:338
+10-19-2021 @ 08:15:37 - Row :327 - Order imported successfully.
+10-19-2021 @ 08:15:37 - Row :328 - Parsing item.
+10-19-2021 @ 08:15:37 - Row :328 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 339
+10-19-2021 @ 08:15:38 - Row :329 - Parsing item.
+10-19-2021 @ 08:15:38 - Row :329 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 340
+10-19-2021 @ 08:15:38 - Row :330 - Parsing item.
+10-19-2021 @ 08:15:38 - Row :330 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 341
+10-19-2021 @ 08:15:38 - Row :331 - Parsing item.
+10-19-2021 @ 08:15:38 - Row :331 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 342
+10-19-2021 @ 08:15:38 - Row :332 - Parsing item.
+10-19-2021 @ 08:15:38 - Row :332 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 343
+10-19-2021 @ 08:15:38 - Row :333 - Parsing item.
+10-19-2021 @ 08:15:38 - Importing as new order ID:345
+10-19-2021 @ 08:15:38 - Row :333 - Processing item.
+10-19-2021 @ 08:15:38 - Found order object. ID:345
+10-19-2021 @ 08:15:39 - Row :333 - Order imported successfully.
+10-19-2021 @ 08:15:39 - Row :334 - Parsing item.
+10-19-2021 @ 08:15:39 - Row :334 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 346
+10-19-2021 @ 08:15:39 - Row :335 - Parsing item.
+10-19-2021 @ 08:15:39 - Row :335 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 347
+10-19-2021 @ 08:15:39 - Row :336 - Parsing item.
+10-19-2021 @ 08:15:39 - Row :336 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 348
+10-19-2021 @ 08:15:39 - Row :337 - Parsing item.
+10-19-2021 @ 08:15:39 - Row :337 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 349
+10-19-2021 @ 08:15:39 - Row :338 - Parsing item.
+10-19-2021 @ 08:15:39 - Row :338 - Parsing failed. Reason: Order with same ID already exists. ID: 350
+10-19-2021 @ 08:15:39 - Row :339 - Parsing item.
+10-19-2021 @ 08:15:39 - Row :339 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 351
+10-19-2021 @ 08:15:39 - Row :340 - Parsing item.
+10-19-2021 @ 08:15:39 - Importing as new order ID:352
+10-19-2021 @ 08:15:39 - Row :340 - Processing item.
+10-19-2021 @ 08:15:39 - Found order object. ID:352
+10-19-2021 @ 08:15:40 - Row :340 - Order imported successfully.
+10-19-2021 @ 08:15:40 - Row :341 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :341 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 353
+10-19-2021 @ 08:15:40 - Row :342 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :342 - Parsing failed. Reason: Order with same ID already exists. ID: 354
+10-19-2021 @ 08:15:40 - Row :343 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :343 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 355
+10-19-2021 @ 08:15:40 - Row :344 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :344 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 356
+10-19-2021 @ 08:15:40 - Row :345 - Parsing item.
+10-19-2021 @ 08:15:40 - Importing as new order ID:357
+10-19-2021 @ 08:15:40 - Row :345 - Processing item.
+10-19-2021 @ 08:15:40 - Found order object. ID:357
+10-19-2021 @ 08:15:40 - Row :345 - Order imported successfully.
+10-19-2021 @ 08:15:40 - Row :346 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :346 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 358
+10-19-2021 @ 08:15:40 - Row :347 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :347 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 359
+10-19-2021 @ 08:15:40 - Row :348 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :348 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 360
+10-19-2021 @ 08:15:40 - Row :349 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :349 - Parsing failed. Reason: Order with same ID already exists. ID: 361
+10-19-2021 @ 08:15:40 - Row :350 - Parsing item.
+10-19-2021 @ 08:15:40 - Row :350 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 362
+10-19-2021 @ 08:15:40 - Row :351 - Parsing item.
+10-19-2021 @ 08:15:40 - Importing as new order ID:363
+10-19-2021 @ 08:15:40 - Row :351 - Processing item.
+10-19-2021 @ 08:15:41 - Found order object. ID:363
+10-19-2021 @ 08:15:41 - Row :351 - Order imported successfully.
+10-19-2021 @ 08:15:41 - Row :352 - Parsing item.
+10-19-2021 @ 08:15:41 - Row :352 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 364
+10-19-2021 @ 08:15:41 - Row :353 - Parsing item.
+10-19-2021 @ 08:15:41 - Importing as new order ID:365
+10-19-2021 @ 08:15:41 - Row :353 - Processing item.
+10-19-2021 @ 08:15:41 - Found order object. ID:365
+10-19-2021 @ 08:15:43 - Row :353 - Order imported successfully.
+10-19-2021 @ 08:15:43 - Row :354 - Parsing item.
+10-19-2021 @ 08:15:43 - Row :354 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 366
+10-19-2021 @ 08:15:43 - Row :355 - Parsing item.
+10-19-2021 @ 08:15:43 - Row :355 - Parsing failed. Reason: Order with same ID already exists. ID: 367
+10-19-2021 @ 08:15:43 - Row :356 - Parsing item.
+10-19-2021 @ 08:15:43 - Row :356 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 368
+10-19-2021 @ 08:15:43 - Row :357 - Parsing item.
+10-19-2021 @ 08:15:43 - Importing as new order ID:369
+10-19-2021 @ 08:15:43 - Row :357 - Processing item.
+10-19-2021 @ 08:15:43 - Found order object. ID:369
+10-19-2021 @ 08:15:44 - Row :357 - Order imported successfully.
+10-19-2021 @ 08:15:44 - Row :358 - Parsing item.
+10-19-2021 @ 08:15:44 - Row :358 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 370
+10-19-2021 @ 08:15:44 - Row :359 - Parsing item.
+10-19-2021 @ 08:15:44 - Row :359 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 371
+10-19-2021 @ 08:15:44 - Row :360 - Parsing item.
+10-19-2021 @ 08:15:44 - Importing as new order ID:372
+10-19-2021 @ 08:15:44 - Row :360 - Processing item.
+10-19-2021 @ 08:15:44 - Found order object. ID:372
+10-19-2021 @ 08:15:46 - Row :360 - Order imported successfully.
+10-19-2021 @ 08:15:46 - Row :361 - Parsing item.
+10-19-2021 @ 08:15:46 - Row :361 - Parsing failed. Reason: Order with same ID already exists. ID: 373
+10-19-2021 @ 08:15:46 - Row :362 - Parsing item.
+10-19-2021 @ 08:15:46 - Importing as new order ID:374
+10-19-2021 @ 08:15:46 - Row :362 - Processing item.
+10-19-2021 @ 08:15:46 - Found order object. ID:374
+10-19-2021 @ 08:15:49 - Row :362 - Order imported successfully.
+10-19-2021 @ 08:15:49 - Row :363 - Parsing item.
+10-19-2021 @ 08:15:49 - Row :363 - Parsing failed. Reason: Order with same ID already exists. ID: 375
+10-19-2021 @ 08:15:49 - Row :364 - Parsing item.
+10-19-2021 @ 08:15:49 - Importing as new order ID:376
+10-19-2021 @ 08:15:49 - Row :364 - Processing item.
+10-19-2021 @ 08:15:49 - Found order object. ID:376
+10-19-2021 @ 08:15:50 - Row :364 - Order imported successfully.
+10-19-2021 @ 08:15:50 - Row :365 - Parsing item.
+10-19-2021 @ 08:15:50 - Row :365 - Parsing failed. Reason: Order with same ID already exists. ID: 377
+10-19-2021 @ 08:15:50 - Row :366 - Parsing item.
+10-19-2021 @ 08:15:50 - Importing as new order ID:378
+10-19-2021 @ 08:15:50 - Row :366 - Processing item.
+10-19-2021 @ 08:15:50 - Found order object. ID:378
+10-19-2021 @ 08:15:52 - Row :366 - Order imported successfully.
+10-19-2021 @ 08:15:52 - Row :367 - Parsing item.
+10-19-2021 @ 08:15:52 - Row :367 - Parsing failed. Reason: Order with same ID already exists. ID: 379
+10-19-2021 @ 08:15:52 - Row :368 - Parsing item.
+10-19-2021 @ 08:15:52 - Importing as new order ID:380
+10-19-2021 @ 08:15:52 - Row :368 - Processing item.
+10-19-2021 @ 08:15:52 - Found order object. ID:380
+10-19-2021 @ 08:15:55 - Row :368 - Order imported successfully.
+10-19-2021 @ 08:15:55 - Row :369 - Parsing item.
+10-19-2021 @ 08:15:55 - Row :369 - Parsing failed. Reason: Order with same ID already exists. ID: 381
+10-19-2021 @ 08:15:55 - Row :370 - Parsing item.
+10-19-2021 @ 08:15:55 - Row :370 - Parsing failed. Reason: Order with same ID already exists. ID: 382
+10-19-2021 @ 08:15:55 - Row :371 - Parsing item.
+10-19-2021 @ 08:15:55 - Importing as new order ID:383
+10-19-2021 @ 08:15:55 - Row :371 - Processing item.
+10-19-2021 @ 08:15:55 - Found order object. ID:383
+10-19-2021 @ 08:15:56 - Row :371 - Order imported successfully.
+10-19-2021 @ 08:15:56 - Row :372 - Parsing item.
+10-19-2021 @ 08:15:56 - Importing as new order ID:92058
+10-19-2021 @ 08:15:56 - Row :372 - Processing item.
+10-19-2021 @ 08:15:56 - Found order object. ID:92058
+10-19-2021 @ 08:15:59 - Row :372 - Order imported successfully.
+10-19-2021 @ 08:15:59 - Row :373 - Parsing item.
+10-19-2021 @ 08:15:59 - Row :373 - Parsing failed. Reason: Order with same ID already exists. ID: 385
+10-19-2021 @ 08:15:59 - Row :374 - Parsing item.
+10-19-2021 @ 08:15:59 - Importing as new order ID:386
+10-19-2021 @ 08:15:59 - Row :374 - Processing item.
+10-19-2021 @ 08:15:59 - Found order object. ID:386
+10-19-2021 @ 08:16:00 - Row :374 - Order imported successfully.
+10-19-2021 @ 08:16:00 - Row :375 - Parsing item.
+10-19-2021 @ 08:16:00 - Row :375 - Parsing failed. Reason: Order with same ID already exists. ID: 387
+10-19-2021 @ 08:16:00 - Row :376 - Parsing item.
+10-19-2021 @ 08:16:00 - Row :376 - Parsing failed. Reason: Order with same ID already exists. ID: 393
+10-19-2021 @ 08:16:00 - Row :377 - Parsing item.
+10-19-2021 @ 08:16:00 - Importing as new order ID:394
+10-19-2021 @ 08:16:00 - Row :377 - Processing item.
+10-19-2021 @ 08:16:00 - Found order object. ID:394
+10-19-2021 @ 08:16:00 - Row :377 - Order imported successfully.
+10-19-2021 @ 08:16:00 - Row :378 - Parsing item.
+10-19-2021 @ 08:16:00 - Importing as new order ID:395
+10-19-2021 @ 08:16:00 - Row :378 - Processing item.
+10-19-2021 @ 08:16:01 - Found order object. ID:395
+10-19-2021 @ 08:16:02 - Row :378 - Order imported successfully.
+10-19-2021 @ 08:16:02 - Row :379 - Parsing item.
+10-19-2021 @ 08:16:02 - Row :379 - Parsing failed. Reason: Order with same ID already exists. ID: 396
+10-19-2021 @ 08:16:02 - Row :380 - Parsing item.
+10-19-2021 @ 08:16:02 - Importing as new order ID:397
+10-19-2021 @ 08:16:02 - Row :380 - Processing item.
+10-19-2021 @ 08:16:02 - Found order object. ID:397
+10-19-2021 @ 08:16:03 - Row :380 - Order imported successfully.
+10-19-2021 @ 08:16:03 - Row :381 - Parsing item.
+10-19-2021 @ 08:16:03 - Importing as new order ID:398
+10-19-2021 @ 08:16:03 - Row :381 - Processing item.
+10-19-2021 @ 08:16:03 - Found order object. ID:398
+10-19-2021 @ 08:16:04 - Row :381 - Order imported successfully.
+10-19-2021 @ 08:16:04 - Row :382 - Parsing item.
+10-19-2021 @ 08:16:04 - Row :382 - Parsing failed. Reason: Order with same ID already exists. ID: 399
+10-19-2021 @ 08:16:04 - Row :383 - Parsing item.
+10-19-2021 @ 08:16:04 - Importing as new order ID:400
+10-19-2021 @ 08:16:04 - Row :383 - Processing item.
+10-19-2021 @ 08:16:04 - Found order object. ID:400
+10-19-2021 @ 08:16:06 - Row :383 - Order imported successfully.
+10-19-2021 @ 08:16:06 - Row :384 - Parsing item.
+10-19-2021 @ 08:16:06 - Row :384 - Parsing failed. Reason: Order with same ID already exists. ID: 401
+10-19-2021 @ 08:16:06 - Row :385 - Parsing item.
+10-19-2021 @ 08:16:06 - Row :385 - Parsing failed. Reason: Order with same ID already exists. ID: 402
+10-19-2021 @ 08:16:06 - Row :386 - Parsing item.
+10-19-2021 @ 08:16:06 - Importing as new order ID:403
+10-19-2021 @ 08:16:06 - Row :386 - Processing item.
+10-19-2021 @ 08:16:06 - Found order object. ID:403
+10-19-2021 @ 08:16:08 - Row :386 - Order imported successfully.
+10-19-2021 @ 08:16:08 - Row :387 - Parsing item.
+10-19-2021 @ 08:16:08 - Importing as new order ID:404
+10-19-2021 @ 08:16:08 - Row :387 - Processing item.
+10-19-2021 @ 08:16:08 - Found order object. ID:404
+10-19-2021 @ 08:16:10 - Row :387 - Order imported successfully.
+10-19-2021 @ 08:16:10 - Row :388 - Parsing item.
+10-19-2021 @ 08:16:10 - Row :388 - Parsing failed. Reason: Order with same ID already exists. ID: 405
+10-19-2021 @ 08:16:10 - Row :389 - Parsing item.
+10-19-2021 @ 08:16:10 - Row :389 - Parsing failed. Reason: Order with same ID already exists. ID: 406
+10-19-2021 @ 08:16:10 - Row :390 - Parsing item.
+10-19-2021 @ 08:16:10 - Row :390 - Parsing failed. Reason: Order with same ID already exists. ID: 407
+10-19-2021 @ 08:16:10 - Row :391 - Parsing item.
+10-19-2021 @ 08:16:10 - Row :391 - Parsing failed. Reason: Order with same ID already exists. ID: 408
+10-19-2021 @ 08:16:10 - Row :392 - Parsing item.
+10-19-2021 @ 08:16:10 - Importing as new order ID:409
+10-19-2021 @ 08:16:10 - Row :392 - Processing item.
+10-19-2021 @ 08:16:10 - Found order object. ID:409
+10-19-2021 @ 08:16:11 - Row :392 - Order imported successfully.
+10-19-2021 @ 08:16:11 - Row :393 - Parsing item.
+10-19-2021 @ 08:16:11 - Importing as new order ID:410
+10-19-2021 @ 08:16:11 - Row :393 - Processing item.
+10-19-2021 @ 08:16:11 - Found order object. ID:410
+10-19-2021 @ 08:16:12 - Row :393 - Order imported successfully.
+10-19-2021 @ 08:16:12 - Row :394 - Parsing item.
+10-19-2021 @ 08:16:12 - Importing as new order ID:411
+10-19-2021 @ 08:16:12 - Row :394 - Processing item.
+10-19-2021 @ 08:16:12 - Found order object. ID:411
+10-19-2021 @ 08:16:13 - Row :394 - Order imported successfully.
+10-19-2021 @ 08:16:13 - Row :395 - Parsing item.
+10-19-2021 @ 08:16:13 - Row :395 - Parsing failed. Reason: Order with same ID already exists. ID: 412
+10-19-2021 @ 08:16:13 - Row :396 - Parsing item.
+10-19-2021 @ 08:16:13 - Row :396 - Parsing failed. Reason: Order with same ID already exists. ID: 413
+10-19-2021 @ 08:16:13 - Row :397 - Parsing item.
+10-19-2021 @ 08:16:13 - Importing as new order ID:414
+10-19-2021 @ 08:16:14 - Row :397 - Processing item.
+10-19-2021 @ 08:16:14 - Found order object. ID:414
+10-19-2021 @ 08:16:15 - Row :397 - Order imported successfully.
+10-19-2021 @ 08:16:15 - Row :398 - Parsing item.
+10-19-2021 @ 08:16:15 - Importing as new order ID:415
+10-19-2021 @ 08:16:15 - Row :398 - Processing item.
+10-19-2021 @ 08:16:15 - Found order object. ID:415
+10-19-2021 @ 08:16:16 - Row :398 - Order imported successfully.
+10-19-2021 @ 08:16:16 - Row :399 - Parsing item.
+10-19-2021 @ 08:16:16 - Row :399 - Parsing failed. Reason: Order with same ID already exists. ID: 416
+10-19-2021 @ 08:16:16 - Row :400 - Parsing item.
+10-19-2021 @ 08:16:16 - Row :400 - Parsing failed. Reason: Order with same ID already exists. ID: 417
+10-19-2021 @ 08:16:16 - Row :401 - Parsing item.
+10-19-2021 @ 08:16:16 - Importing as new order ID:418
+10-19-2021 @ 08:16:16 - Row :401 - Processing item.
+10-19-2021 @ 08:16:16 - Found order object. ID:418
+10-19-2021 @ 08:16:19 - Row :401 - Order imported successfully.
+10-19-2021 @ 08:16:19 - Row :402 - Parsing item.
+10-19-2021 @ 08:16:19 - Row :402 - Parsing failed. Reason: Order with same ID already exists. ID: 419
+10-19-2021 @ 08:16:19 - Row :403 - Parsing item.
+10-19-2021 @ 08:16:19 - Row :403 - Parsing failed. Reason: Order with same ID already exists. ID: 420
+10-19-2021 @ 08:16:19 - Row :404 - Parsing item.
+10-19-2021 @ 08:16:19 - Importing as new order ID:421
+10-19-2021 @ 08:16:19 - Row :404 - Processing item.
+10-19-2021 @ 08:16:19 - Found order object. ID:421
+10-19-2021 @ 08:16:21 - Row :404 - Order imported successfully.
+10-19-2021 @ 08:16:21 - Row :405 - Parsing item.
+10-19-2021 @ 08:16:21 - Row :405 - Parsing failed. Reason: Order with same ID already exists. ID: 422
+10-19-2021 @ 08:16:21 - Row :406 - Parsing item.
+10-19-2021 @ 08:16:21 - Importing as new order ID:423
+10-19-2021 @ 08:16:21 - Row :406 - Processing item.
+10-19-2021 @ 08:16:21 - Found order object. ID:423
+10-19-2021 @ 08:16:21 - Row :406 - Order imported successfully.
+10-19-2021 @ 08:16:21 - Row :407 - Parsing item.
+10-19-2021 @ 08:16:21 - Row :407 - Parsing failed. Reason: Order with same ID already exists. ID: 424
+10-19-2021 @ 08:16:21 - Row :408 - Parsing item.
+10-19-2021 @ 08:16:21 - Importing as new order ID:425
+10-19-2021 @ 08:16:21 - Row :408 - Processing item.
+10-19-2021 @ 08:16:21 - Found order object. ID:425
+10-19-2021 @ 08:16:23 - Row :408 - Order imported successfully.
+10-19-2021 @ 08:16:23 - Row :409 - Parsing item.
+10-19-2021 @ 08:16:23 - Row :409 - Parsing failed. Reason: Order with same ID already exists. ID: 426
+10-19-2021 @ 08:16:23 - Row :410 - Parsing item.
+10-19-2021 @ 08:16:23 - Importing as new order ID:427
+10-19-2021 @ 08:16:23 - Row :410 - Processing item.
+10-19-2021 @ 08:16:23 - Found order object. ID:427
+10-19-2021 @ 08:16:24 - Row :410 - Order imported successfully.
+10-19-2021 @ 08:16:24 - Row :411 - Parsing item.
+10-19-2021 @ 08:16:24 - Row :411 - Parsing failed. Reason: Order with same ID already exists. ID: 428
+10-19-2021 @ 08:16:24 - Row :412 - Parsing item.
+10-19-2021 @ 08:16:24 - Importing as new order ID:429
+10-19-2021 @ 08:16:24 - Row :412 - Processing item.
+10-19-2021 @ 08:16:24 - Found order object. ID:429
+10-19-2021 @ 08:16:26 - Row :412 - Order imported successfully.
+10-19-2021 @ 08:16:26 - Row :413 - Parsing item.
+10-19-2021 @ 08:16:26 - Row :413 - Parsing failed. Reason: Order with same ID already exists. ID: 430
+10-19-2021 @ 08:16:26 - Row :414 - Parsing item.
+10-19-2021 @ 08:16:26 - Importing as new order ID:431
+10-19-2021 @ 08:16:26 - Row :414 - Processing item.
+10-19-2021 @ 08:16:26 - Found order object. ID:431
+10-19-2021 @ 08:16:26 - Row :414 - Order imported successfully.
+10-19-2021 @ 08:16:26 - Row :415 - Parsing item.
+10-19-2021 @ 08:16:26 - Importing as new order ID:432
+10-19-2021 @ 08:16:26 - Row :415 - Processing item.
+10-19-2021 @ 08:16:26 - Found order object. ID:432
+10-19-2021 @ 08:16:27 - Row :415 - Order imported successfully.
+10-19-2021 @ 08:16:27 - Row :416 - Parsing item.
+10-19-2021 @ 08:16:27 - Importing as new order ID:433
+10-19-2021 @ 08:16:27 - Row :416 - Processing item.
+10-19-2021 @ 08:16:28 - Found order object. ID:433
+10-19-2021 @ 08:16:28 - Row :416 - Order imported successfully.
+10-19-2021 @ 08:16:28 - Row :417 - Parsing item.
+10-19-2021 @ 08:16:28 - Row :417 - Parsing failed. Reason: Order with same ID already exists. ID: 434
+10-19-2021 @ 08:16:28 - Row :418 - Parsing item.
+10-19-2021 @ 08:16:28 - Importing as new order ID:435
+10-19-2021 @ 08:16:28 - Row :418 - Processing item.
+10-19-2021 @ 08:16:28 - Found order object. ID:435
+10-19-2021 @ 08:16:30 - Row :418 - Order imported successfully.
+10-19-2021 @ 08:16:30 - Row :419 - Parsing item.
+10-19-2021 @ 08:16:30 - Row :419 - Parsing failed. Reason: Order with same ID already exists. ID: 436
+10-19-2021 @ 08:16:30 - Row :420 - Parsing item.
+10-19-2021 @ 08:16:30 - Row :420 - Parsing failed. Reason: Order with same ID already exists. ID: 437
+10-19-2021 @ 08:16:30 - Row :421 - Parsing item.
+10-19-2021 @ 08:16:30 - Importing as new order ID:438
+10-19-2021 @ 08:16:30 - Row :421 - Processing item.
+10-19-2021 @ 08:16:30 - Found order object. ID:438
+10-19-2021 @ 08:16:31 - Row :421 - Order imported successfully.
+10-19-2021 @ 08:16:31 - Row :422 - Parsing item.
+10-19-2021 @ 08:16:31 - Importing as new order ID:439
+10-19-2021 @ 08:16:31 - Row :422 - Processing item.
+10-19-2021 @ 08:16:31 - Found order object. ID:439
+10-19-2021 @ 08:16:32 - Row :422 - Order imported successfully.
+10-19-2021 @ 08:16:32 - Row :423 - Parsing item.
+10-19-2021 @ 08:16:32 - Importing as new order ID:440
+10-19-2021 @ 08:16:32 - Row :423 - Processing item.
+10-19-2021 @ 08:16:32 - Found order object. ID:440
+10-19-2021 @ 08:16:33 - Row :423 - Order imported successfully.
+10-19-2021 @ 08:16:33 - Row :424 - Parsing item.
+10-19-2021 @ 08:16:33 - Row :424 - Parsing failed. Reason: Order with same ID already exists. ID: 441
+10-19-2021 @ 08:16:33 - Row :425 - Parsing item.
+10-19-2021 @ 08:16:33 - Importing as new order ID:442
+10-19-2021 @ 08:16:33 - Row :425 - Processing item.
+10-19-2021 @ 08:16:33 - Found order object. ID:442
+10-19-2021 @ 08:16:35 - Row :425 - Order imported successfully.
+10-19-2021 @ 08:16:35 - Row :426 - Parsing item.
+10-19-2021 @ 08:16:35 - Row :426 - Parsing failed. Reason: Order with same ID already exists. ID: 443
+10-19-2021 @ 08:16:35 - Row :427 - Parsing item.
+10-19-2021 @ 08:16:35 - Importing as new order ID:444
+10-19-2021 @ 08:16:35 - Row :427 - Processing item.
+10-19-2021 @ 08:16:35 - Found order object. ID:444
+10-19-2021 @ 08:16:36 - Row :427 - Order imported successfully.
+10-19-2021 @ 08:16:36 - Row :428 - Parsing item.
+10-19-2021 @ 08:16:36 - Importing as new order ID:445
+10-19-2021 @ 08:16:36 - Row :428 - Processing item.
+10-19-2021 @ 08:16:36 - Found order object. ID:445
+10-19-2021 @ 08:16:37 - Row :428 - Order imported successfully.
+10-19-2021 @ 08:16:37 - Row :429 - Parsing item.
+10-19-2021 @ 08:16:37 - Row :429 - Parsing failed. Reason: Order with same ID already exists. ID: 446
+10-19-2021 @ 08:16:37 - Row :430 - Parsing item.
+10-19-2021 @ 08:16:37 - Importing as new order ID:447
+10-19-2021 @ 08:16:37 - Row :430 - Processing item.
+10-19-2021 @ 08:16:37 - Found order object. ID:447
+10-19-2021 @ 08:16:39 - Row :430 - Order imported successfully.
+10-19-2021 @ 08:16:39 - Row :431 - Parsing item.
+10-19-2021 @ 08:16:39 - Row :431 - Parsing failed. Reason: Order with same ID already exists. ID: 448
+10-19-2021 @ 08:16:39 - Row :432 - Parsing item.
+10-19-2021 @ 08:16:39 - Row :432 - Parsing failed. Reason: Order with same ID already exists. ID: 449
+10-19-2021 @ 08:16:39 - Row :433 - Parsing item.
+10-19-2021 @ 08:16:39 - Importing as new order ID:450
+10-19-2021 @ 08:16:39 - Row :433 - Processing item.
+10-19-2021 @ 08:16:39 - Found order object. ID:450
+10-19-2021 @ 08:16:41 - Row :433 - Order imported successfully.
+10-19-2021 @ 08:16:41 - Row :434 - Parsing item.
+10-19-2021 @ 08:16:41 - Row :434 - Parsing failed. Reason: Order with same ID already exists. ID: 451
+10-19-2021 @ 08:16:41 - Row :435 - Parsing item.
+10-19-2021 @ 08:16:41 - Importing as new order ID:452
+10-19-2021 @ 08:16:41 - Row :435 - Processing item.
+10-19-2021 @ 08:16:41 - Found order object. ID:452
+10-19-2021 @ 08:16:43 - Row :435 - Order imported successfully.
+10-19-2021 @ 08:16:43 - Row :436 - Parsing item.
+10-19-2021 @ 08:16:43 - Row :436 - Parsing failed. Reason: Order with same ID already exists. ID: 453
+10-19-2021 @ 08:16:43 - Row :437 - Parsing item.
+10-19-2021 @ 08:16:43 - Importing as new order ID:454
+10-19-2021 @ 08:16:43 - Row :437 - Processing item.
+10-19-2021 @ 08:16:43 - Found order object. ID:454
+10-19-2021 @ 08:16:45 - Row :437 - Order imported successfully.
+10-19-2021 @ 08:16:45 - Row :438 - Parsing item.
+10-19-2021 @ 08:16:45 - Row :438 - Parsing failed. Reason: Order with same ID already exists. ID: 455
+10-19-2021 @ 08:16:45 - Row :439 - Parsing item.
+10-19-2021 @ 08:16:45 - Row :439 - Parsing failed. Reason: Order with same ID already exists. ID: 456
+10-19-2021 @ 08:16:45 - Row :440 - Parsing item.
+10-19-2021 @ 08:16:45 - Row :440 - Parsing failed. Reason: Order with same ID already exists. ID: 457
+10-19-2021 @ 08:16:45 - Row :441 - Parsing item.
+10-19-2021 @ 08:16:45 - Importing as new order ID:458
+10-19-2021 @ 08:16:45 - Row :441 - Processing item.
+10-19-2021 @ 08:16:45 - Found order object. ID:458
+10-19-2021 @ 08:16:46 - Row :441 - Order imported successfully.
+10-19-2021 @ 08:16:46 - Row :442 - Parsing item.
+10-19-2021 @ 08:16:46 - Row :442 - Parsing failed. Reason: Order with same ID already exists. ID: 459
+10-19-2021 @ 08:16:46 - Row :443 - Parsing item.
+10-19-2021 @ 08:16:46 - Importing as new order ID:460
+10-19-2021 @ 08:16:46 - Row :443 - Processing item.
+10-19-2021 @ 08:16:46 - Found order object. ID:460
+10-19-2021 @ 08:16:46 - Row :443 - Order imported successfully.
+10-19-2021 @ 08:16:46 - Row :444 - Parsing item.
+10-19-2021 @ 08:16:46 - Importing as new order ID:461
+10-19-2021 @ 08:16:46 - Row :444 - Processing item.
+10-19-2021 @ 08:16:46 - Found order object. ID:461
+10-19-2021 @ 08:16:48 - Row :444 - Order imported successfully.
+10-19-2021 @ 08:16:48 - Row :445 - Parsing item.
+10-19-2021 @ 08:16:48 - Importing as new order ID:462
+10-19-2021 @ 08:16:48 - Row :445 - Processing item.
+10-19-2021 @ 08:16:48 - Found order object. ID:462
+10-19-2021 @ 08:16:49 - Row :445 - Order imported successfully.
+10-19-2021 @ 08:16:49 - Row :446 - Parsing item.
+10-19-2021 @ 08:16:49 - Row :446 - Parsing failed. Reason: Order with same ID already exists. ID: 463
+10-19-2021 @ 08:16:49 - Row :447 - Parsing item.
+10-19-2021 @ 08:16:49 - Row :447 - Parsing failed. Reason: Order with same ID already exists. ID: 464
+10-19-2021 @ 08:16:49 - Row :448 - Parsing item.
+10-19-2021 @ 08:16:49 - Importing as new order ID:465
+10-19-2021 @ 08:16:49 - Row :448 - Processing item.
+10-19-2021 @ 08:16:49 - Found order object. ID:465
+10-19-2021 @ 08:16:51 - Row :448 - Order imported successfully.
+10-19-2021 @ 08:16:51 - Row :449 - Parsing item.
+10-19-2021 @ 08:16:51 - Row :449 - Parsing failed. Reason: Order with same ID already exists. ID: 466
+10-19-2021 @ 08:16:51 - Row :450 - Parsing item.
+10-19-2021 @ 08:16:51 - Importing as new order ID:467
+10-19-2021 @ 08:16:51 - Row :450 - Processing item.
+10-19-2021 @ 08:16:51 - Found order object. ID:467
+10-19-2021 @ 08:16:51 - Row :450 - Order imported successfully.
+10-19-2021 @ 08:16:51 - Row :451 - Parsing item.
+10-19-2021 @ 08:16:51 - Importing as new order ID:468
+10-19-2021 @ 08:16:51 - Row :451 - Processing item.
+10-19-2021 @ 08:16:51 - Found order object. ID:468
+10-19-2021 @ 08:16:53 - Row :451 - Order imported successfully.
+10-19-2021 @ 08:16:53 - Row :452 - Parsing item.
+10-19-2021 @ 08:16:53 - Row :452 - Parsing failed. Reason: Order with same ID already exists. ID: 469
+10-19-2021 @ 08:16:53 - Row :453 - Parsing item.
+10-19-2021 @ 08:16:54 - Importing as new order ID:470
+10-19-2021 @ 08:16:54 - Row :453 - Processing item.
+10-19-2021 @ 08:16:54 - Found order object. ID:470
+10-19-2021 @ 08:16:55 - Row :453 - Order imported successfully.
+10-19-2021 @ 08:16:55 - Row :454 - Parsing item.
+10-19-2021 @ 08:16:55 - Row :454 - Parsing failed. Reason: Order with same ID already exists. ID: 471
+10-19-2021 @ 08:16:55 - Row :455 - Parsing item.
+10-19-2021 @ 08:16:55 - Row :455 - Parsing failed. Reason: Order with same ID already exists. ID: 472
+10-19-2021 @ 08:16:55 - Row :456 - Parsing item.
+10-19-2021 @ 08:16:55 - Importing as new order ID:473
+10-19-2021 @ 08:16:55 - Row :456 - Processing item.
+10-19-2021 @ 08:16:55 - Found order object. ID:473
+10-19-2021 @ 08:16:56 - Row :456 - Order imported successfully.
+10-19-2021 @ 08:16:56 - Row :457 - Parsing item.
+10-19-2021 @ 08:16:56 - Row :457 - Parsing failed. Reason: Order with same ID already exists. ID: 474
+10-19-2021 @ 08:16:56 - Row :458 - Parsing item.
+10-19-2021 @ 08:16:56 - Importing as new order ID:475
+10-19-2021 @ 08:16:56 - Row :458 - Processing item.
+10-19-2021 @ 08:16:56 - Found order object. ID:475
+10-19-2021 @ 08:16:57 - Row :458 - Order imported successfully.
+10-19-2021 @ 08:16:57 - Row :459 - Parsing item.
+10-19-2021 @ 08:16:57 - Importing as new order ID:476
+10-19-2021 @ 08:16:57 - Row :459 - Processing item.
+10-19-2021 @ 08:16:57 - Found order object. ID:476
+10-19-2021 @ 08:16:59 - Row :459 - Order imported successfully.
+10-19-2021 @ 08:16:59 - Row :460 - Parsing item.
+10-19-2021 @ 08:16:59 - Row :460 - Parsing failed. Reason: Order with same ID already exists. ID: 477
+10-19-2021 @ 08:16:59 - Row :461 - Parsing item.
+10-19-2021 @ 08:16:59 - Importing as new order ID:478
+10-19-2021 @ 08:16:59 - Row :461 - Processing item.
+10-19-2021 @ 08:16:59 - Found order object. ID:478
+10-19-2021 @ 08:17:01 - Row :461 - Order imported successfully.
+10-19-2021 @ 08:17:01 - Row :462 - Parsing item.
+10-19-2021 @ 08:17:01 - Row :462 - Parsing failed. Reason: Order with same ID already exists. ID: 479
+10-19-2021 @ 08:17:01 - Row :463 - Parsing item.
+10-19-2021 @ 08:17:01 - Importing as new order ID:480
+10-19-2021 @ 08:17:01 - Row :463 - Processing item.
+10-19-2021 @ 08:17:01 - Found order object. ID:480
+10-19-2021 @ 08:17:01 - Row :463 - Order imported successfully.
+10-19-2021 @ 08:17:01 - Row :464 - Parsing item.
+10-19-2021 @ 08:17:01 - Importing as new order ID:481
+10-19-2021 @ 08:17:01 - Row :464 - Processing item.
+10-19-2021 @ 08:17:01 - Found order object. ID:481
+10-19-2021 @ 08:17:03 - Row :464 - Order imported successfully.
+10-19-2021 @ 08:17:03 - Row :465 - Parsing item.
+10-19-2021 @ 08:17:03 - Row :465 - Parsing failed. Reason: Order with same ID already exists. ID: 482
+10-19-2021 @ 08:17:03 - Row :466 - Parsing item.
+10-19-2021 @ 08:17:03 - Importing as new order ID:483
+10-19-2021 @ 08:17:03 - Row :466 - Processing item.
+10-19-2021 @ 08:17:03 - Found order object. ID:483
+10-19-2021 @ 08:17:03 - Row :466 - Order imported successfully.
+10-19-2021 @ 08:17:03 - Row :467 - Parsing item.
+10-19-2021 @ 08:17:03 - Row :467 - Parsing failed. Reason: Order with same ID already exists. ID: 484
+10-19-2021 @ 08:17:03 - Row :468 - Parsing item.
+10-19-2021 @ 08:17:03 - Importing as new order ID:485
+10-19-2021 @ 08:17:03 - Row :468 - Processing item.
+10-19-2021 @ 08:17:03 - Found order object. ID:485
+10-19-2021 @ 08:17:04 - Row :468 - Order imported successfully.
+10-19-2021 @ 08:17:04 - Row :469 - Parsing item.
+10-19-2021 @ 08:17:04 - Importing as new order ID:486
+10-19-2021 @ 08:17:04 - Row :469 - Processing item.
+10-19-2021 @ 08:17:04 - Found order object. ID:486
+10-19-2021 @ 08:17:05 - Row :469 - Order imported successfully.
+10-19-2021 @ 08:17:05 - Row :470 - Parsing item.
+10-19-2021 @ 08:17:05 - Row :470 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 487
+10-19-2021 @ 08:17:05 - Row :471 - Parsing item.
+10-19-2021 @ 08:17:05 - Row :471 - Parsing failed. Reason: Order with same ID already exists. ID: 488
+10-19-2021 @ 08:17:05 - Row :472 - Parsing item.
+10-19-2021 @ 08:17:05 - Importing as new order ID:489
+10-19-2021 @ 08:17:05 - Row :472 - Processing item.
+10-19-2021 @ 08:17:05 - Found order object. ID:489
+10-19-2021 @ 08:17:06 - Row :472 - Order imported successfully.
+10-19-2021 @ 08:17:06 - Row :473 - Parsing item.
+10-19-2021 @ 08:17:06 - Importing as new order ID:490
+10-19-2021 @ 08:17:06 - Row :473 - Processing item.
+10-19-2021 @ 08:17:06 - Found order object. ID:490
+10-19-2021 @ 08:17:06 - Row :473 - Order imported successfully.
+10-19-2021 @ 08:17:06 - Row :474 - Parsing item.
+10-19-2021 @ 08:17:06 - Importing as new order ID:517
+10-19-2021 @ 08:17:06 - Row :474 - Processing item.
+10-19-2021 @ 08:17:06 - Found order object. ID:517
+10-19-2021 @ 08:17:07 - Row :474 - Order imported successfully.
+10-19-2021 @ 08:17:07 - Row :475 - Parsing item.
+10-19-2021 @ 08:17:07 - Row :475 - Parsing failed. Reason: Order with same ID already exists. ID: 518
+10-19-2021 @ 08:17:07 - Row :476 - Parsing item.
+10-19-2021 @ 08:17:07 - Row :476 - Parsing failed. Reason: Order with same ID already exists. ID: 519
+10-19-2021 @ 08:17:07 - Row :477 - Parsing item.
+10-19-2021 @ 08:17:07 - Importing as new order ID:520
+10-19-2021 @ 08:17:07 - Row :477 - Processing item.
+10-19-2021 @ 08:17:08 - Found order object. ID:520
+10-19-2021 @ 08:17:08 - Row :477 - Order imported successfully.
+10-19-2021 @ 08:17:08 - Row :478 - Parsing item.
+10-19-2021 @ 08:17:08 - Importing as new order ID:521
+10-19-2021 @ 08:17:08 - Row :478 - Processing item.
+10-19-2021 @ 08:17:08 - Found order object. ID:521
+10-19-2021 @ 08:17:09 - Row :478 - Order imported successfully.
+10-19-2021 @ 08:17:09 - Row :479 - Parsing item.
+10-19-2021 @ 08:17:09 - Importing as new order ID:522
+10-19-2021 @ 08:17:09 - Row :479 - Processing item.
+10-19-2021 @ 08:17:09 - Found order object. ID:522
+10-19-2021 @ 08:17:11 - Row :479 - Order imported successfully.
+10-19-2021 @ 08:17:11 - Row :480 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :480 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 523
+10-19-2021 @ 08:17:11 - Row :481 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :481 - Parsing failed. Reason: Order with same ID already exists. ID: 524
+10-19-2021 @ 08:17:11 - Row :482 - Parsing item.
+10-19-2021 @ 08:17:11 - Importing as new order ID:525
+10-19-2021 @ 08:17:11 - Row :482 - Processing item.
+10-19-2021 @ 08:17:11 - Found order object. ID:525
+10-19-2021 @ 08:17:11 - Row :482 - Order imported successfully.
+10-19-2021 @ 08:17:11 - Row :483 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :483 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 526
+10-19-2021 @ 08:17:11 - Row :484 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :484 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 527
+10-19-2021 @ 08:17:11 - Row :485 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :485 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 528
+10-19-2021 @ 08:17:11 - Row :486 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :486 - Parsing failed. Reason: Order with same ID already exists. ID: 529
+10-19-2021 @ 08:17:11 - Row :487 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :487 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 530
+10-19-2021 @ 08:17:11 - Row :488 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :488 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 531
+10-19-2021 @ 08:17:11 - Row :489 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :489 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 532
+10-19-2021 @ 08:17:11 - Row :490 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :490 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 533
+10-19-2021 @ 08:17:11 - Row :491 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :491 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 534
+10-19-2021 @ 08:17:11 - Row :492 - Parsing item.
+10-19-2021 @ 08:17:11 - Row :492 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 535
+10-19-2021 @ 08:17:11 - Row :493 - Parsing item.
+10-19-2021 @ 08:17:11 - Importing as new order ID:536
+10-19-2021 @ 08:17:12 - Row :493 - Processing item.
+10-19-2021 @ 08:17:12 - Found order object. ID:536
+10-19-2021 @ 08:17:14 - Row :493 - Order imported successfully.
+10-19-2021 @ 08:17:14 - Row :494 - Parsing item.
+10-19-2021 @ 08:17:14 - Row :494 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 537
+10-19-2021 @ 08:17:14 - Row :495 - Parsing item.
+10-19-2021 @ 08:17:14 - Row :495 - Parsing failed. Reason: Order with same ID already exists. ID: 538
+10-19-2021 @ 08:17:14 - Row :496 - Parsing item.
+10-19-2021 @ 08:17:14 - Row :496 - Parsing failed. Reason: Importing Order(ID) conflicts with an existing post. ID: 539
+10-19-2021 @ 08:17:14 - Row :497 - Parsing item.
+10-19-2021 @ 08:17:14 - Importing as new order ID:540
+10-19-2021 @ 08:17:14 - Row :497 - Processing item.
+10-19-2021 @ 08:17:14 - Found order object. ID:540
+10-19-2021 @ 08:17:16 - Row :497 - Order imported successfully.
+10-19-2021 @ 08:17:16 - Row :498 - Parsing item.
+10-19-2021 @ 08:17:16 - Row :498 - Parsing failed. Reason: Order with same ID already exists. ID: 541
+10-19-2021 @ 08:17:16 - Row :499 - Parsing item.
+10-19-2021 @ 08:17:16 - Importing as new order ID:542
+10-19-2021 @ 08:17:16 - Row :499 - Processing item.
+10-19-2021 @ 08:17:16 - Found order object. ID:542
+10-19-2021 @ 08:17:18 - Row :499 - Order imported successfully.
+10-19-2021 @ 08:17:18 - Row :500 - Parsing item.
+10-19-2021 @ 08:17:18 - Row :500 - Parsing failed. Reason: Order with same ID already exists. ID: 543

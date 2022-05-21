@@ -1,0 +1,311 @@
+# Translation of Plugins - Qubely &#8211; Advanced Gutenberg Blocks - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Qubely &#8211; Advanced Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-20 11:17:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Qubely &#8211; Advanced Gutenberg Blocks - Stable (latest release)\n"
+
+#: core/admin-views/Getting_Started.php:98
+msgid "Advanced Gutenberg Blocks"
+msgstr "Advanced Gutenberg Blocks"
+
+#. Author of the plugin
+msgid "Themeum"
+msgstr "Themeum"
+
+#: core/QUBELY.php:1867
+msgid "No post id was provided"
+msgstr "Aucun ID de publication n’a été fourni."
+
+#: core/QUBELY.php:1740
+msgid "No section id was provided"
+msgstr "Aucun ID de section n’a été fourni."
+
+#: core/QUBELY.php:1709
+msgid "No layout id was provided"
+msgstr "Aucun ID de mise en page n’a été fourni"
+
+#: core/QUBELY.php:1607 core/QUBELY.php:1654 core/QUBELY.php:1701
+#: core/QUBELY.php:1732 core/QUBELY.php:1825 core/QUBELY.php:1857
+msgid "You don't have proper authorization to perform this action"
+msgstr "Vous n’avez pas l’autorisation appropriée pour exécuter cette action"
+
+#: core/QUBELY.php:1602 core/QUBELY.php:1649 core/QUBELY.php:1696
+#: core/QUBELY.php:1727 core/QUBELY.php:1820 core/QUBELY.php:1852
+msgid "You don't have permission to perform this action"
+msgstr "Vous n’avez pas le droit d’exécuter cette action"
+
+#: core/admin-views/Settings.php:220
+msgid "Set the default \"From Email\" for contact forms"
+msgstr "Mettre par défaut l’« e-mail de l’expéditeur » dans les formulaires de contact"
+
+#: core/admin-views/Settings.php:218
+msgid "From Email"
+msgstr "E-mail de l’expéditeur"
+
+#: core/admin-views/Settings.php:211
+msgid "Set the default \"From Name\" for contact forms"
+msgstr "Mettre par défaut le « nom de l’expéditeur » dans les formulaires de contact"
+
+#: core/admin-views/Settings.php:209
+msgid "From Name"
+msgstr "Nom de l’expéditeur"
+
+#: core/admin-views/Settings.php:274
+msgid "Select Yes if you want to load Google Fonts from Qubely"
+msgstr "Sélectionner oui si vous voulez charger les Google Fonts depuis Qubely"
+
+#: core/admin-views/Settings.php:272
+msgid "Load Google Fonts"
+msgstr "Charger Google Fonts"
+
+#: core/admin-views/Settings.php:265 core/admin-views/Settings.php:277
+msgid "No"
+msgstr "Non"
+
+#: core/admin-views/Settings.php:264 core/admin-views/Settings.php:276
+msgid "Yes"
+msgstr "Oui"
+
+#: core/admin-views/Settings.php:262
+msgid "Select Yes if you want to load Font Awesome from Qubely"
+msgstr "Sélectionner oui si vous voulez Font Awesome depuis Qubely"
+
+#: core/admin-views/Settings.php:260
+msgid "Load Font Awesome CSS"
+msgstr "Charger CSS de Font Awesome"
+
+#: core/QUBELY.php:170
+msgid "Preview JSON can not be saved due to permission!!!"
+msgstr "L’aperçu JSON ne peut pas être sauvegardé en raison des droits !!!"
+
+#: core/QUBELY.php:165
+msgid "Prevriew CSS can not be saved due to permission!!!"
+msgstr "L’aperçu du CSS ne peut pas être enregistré en raison des droits !!!"
+
+#: core/admin-views/Settings.php:197
+msgid "Enter your MailChimp Form Action, %1$s or Create a Signup form here %2$s"
+msgstr "Remplir votre formulaire d’action MailChimp, %1$s ou Créer un formulaire d’inscription ici %2$s"
+
+#: core/admin-views/Settings.php:195
+msgid "Default Form Action"
+msgstr "Action par défaut du formulaire"
+
+#: core/admin-views/Settings.php:253
+msgid "Never"
+msgstr "Jamais"
+
+#: core/admin-views/Settings.php:252
+msgid "Always"
+msgstr "Toujours"
+
+#: core/admin-views/Settings.php:251
+msgid "Manually"
+msgstr "Manuellement"
+
+#: core/admin-views/Settings.php:249
+msgid "Apply global settings while importing layouts/sections"
+msgstr "Appliquer les réglages globaux lors de l’importation de mises en page/sections"
+
+#: core/admin-views/Settings.php:247
+msgid "Use global settings with Import layouts/section"
+msgstr "Utiliser les réglages globaux avec l’importation des mises en page/sections "
+
+#: core/admin-views/Getting_Started.php:158
+msgid "Get Support"
+msgstr "Demander du support"
+
+#: core/admin-views/Getting_Started.php:156
+msgid "Fix any issues you may face while using Qubely with our expert support professionals."
+msgstr "Corriger tous les problèmes que vous pouvez rencontrer lors de l’utilisation de Qubely avec nos experts du support professionnel."
+
+#: core/admin-views/Getting_Started.php:154
+msgid "Need Help? We are Here For You!"
+msgstr "Besoin d’aide ? Nous sommes là pour vous !"
+
+#: core/admin-views/Getting_Started.php:149
+msgid "Leave a Review"
+msgstr "Laissez un avis"
+
+#: core/admin-views/Getting_Started.php:146
+msgid "Rate Your Experience with Qubely"
+msgstr "Évaluer votre  expérience Qubely"
+
+#: core/admin-views/Getting_Started.php:141
+msgid "Get Qubely Pro"
+msgstr "Obtenir Qubely Pro"
+
+#: core/admin-views/Getting_Started.php:140
+msgid "Enjoy the full power and flexibility of Qubely"
+msgstr "Profiter de toute la puissance et de la flexibilité de Qubely."
+
+#: core/admin-views/Getting_Started.php:130
+msgid "Stay in touch via our social media channels to receive the latest announcements and updates."
+msgstr "Restez en contact via nos canaux de médias sociaux pour recevoir les dernières annonces et mises à jour."
+
+#: core/admin-views/Getting_Started.php:128
+msgid "Stay in Touch with Us"
+msgstr "Restons en contact avec nous"
+
+#: core/admin-views/Getting_Started.php:120
+msgid "Do join Qubely's official Facebook group to share your experience, thoughts, and ideas."
+msgstr "Rejoignez le groupe Facebook officiel de Qubely pour partager votre expérience, vos réflexions et vos idées."
+
+#: core/admin-views/Getting_Started.php:118
+msgid "Join Our Facebook Community"
+msgstr "Rejoindre notre communauté Facebook"
+
+#: core/admin-views/Getting_Started.php:100
+msgid "Start creating page"
+msgstr "Commencer à créer une page"
+
+#: core/admin-views/Getting_Started.php:52
+msgid "Blocks"
+msgstr "Blocs"
+
+#: core/admin-views/Getting_Started.php:44
+msgid "Readymade Sections"
+msgstr "Sections prêtes à l’emploi"
+
+#: core/admin-views/Getting_Started.php:36
+msgid "Starter packs"
+msgstr "Packs de démarrage"
+
+#: core/blocks/postgrid.php:1286
+msgid "Next %1$s"
+msgstr "%1$s suivant"
+
+#: core/blocks/postgrid.php:1285
+msgid "%1$s Prev"
+msgstr "Préc %1$s"
+
+#: core/Options.php:56 core/Options.php:57
+msgid "Getting Started"
+msgstr "Pour commencer"
+
+#: core/Options.php:48
+msgid "Settings"
+msgstr "Réglages "
+
+#: core/admin-views/Settings.php:297 core/Options.php:47
+msgid "Qubely Settings"
+msgstr "Réglages Qubely"
+
+#: core/admin-views/Settings.php:235
+msgid "CSS location"
+msgstr "Emplacement du CSS"
+
+#: core/admin-views/Settings.php:183
+msgid "Enter your ReCaptcha secret key,  %1$s Get reCAPTCHA(v2) keys %2$s"
+msgstr "Saisissez voutre clé secrète reCAPTCHA, %1$s obtenir les clés reCAPTCHA (v2) %2$s"
+
+#: core/admin-views/Settings.php:181
+msgid "ReCaptcha secret key"
+msgstr "Clé secrète reCaptcha"
+
+#: core/admin-views/Settings.php:174
+msgid "Enter your ReCaptcha site key"
+msgstr "Saisir votre clé de site reCAPTCHA"
+
+#: core/admin-views/Settings.php:172
+msgid "ReCaptcha site key"
+msgstr "Clé du site Recaptcha"
+
+#: core/admin-views/Settings.php:160
+msgid "Enter your Google map api key, %1$s Generate API key %2$s"
+msgstr "Saisir votre clé API Google map, %1$s Générer une clé API %2$s"
+
+#: core/admin-views/Settings.php:158
+msgid "Google Map API Keys"
+msgstr "Clé API Google Map"
+
+#. Plugin Name of the plugin
+msgid "Qubely - Advanced Gutenberg Blocks"
+msgstr "Qubely - Advanced Gutenberg Blocks"
+
+#: core/QUBELY.php:1247
+msgid "JSON can not be saved due to permission!!!"
+msgstr "Le JSON ne peut pas être enregistré en raison des droits !!!"
+
+#: qubely.php:163
+msgid " "
+msgstr " "
+
+#: qubely.php:123
+msgid "Category list links"
+msgstr "Liste des liens des catégories"
+
+#: qubely.php:88
+msgid "Different sized featured images"
+msgstr "Images mises en avant de différentes tailles"
+
+#: core/blocks/postgrid.php:1424
+msgid "By "
+msgstr "Par "
+
+#: core/Template.php:48
+msgid "Qubely Canvas"
+msgstr "Qubely Canvas"
+
+#: core/Template.php:47
+msgid "Qubely Full Width"
+msgstr "Qubely pleine largeur"
+
+#: core/initial-setup.php:38
+msgid "QUBELY Blocks requires WordPress version %s or more."
+msgstr "QUBELY Blocks nécessite la version %s de WordPress ou supérieure."
+
+#: core/initial-setup.php:31
+msgid "QUBELY Blocks requires PHP version %s or more."
+msgstr "QUBELY Blocks nécessite la version %s de PHP ou supérieure."
+
+#: core/QUBELY.php:1943
+msgid "Captcha validation error"
+msgstr "Erreur de validation du CAPTCHA"
+
+#: core/QUBELY.php:1938
+msgid "Cannot validate captcha"
+msgstr "Impossible de valider le CAPTCHA"
+
+#: core/QUBELY.php:1242
+msgid "CSS can not be saved due to permission!!!"
+msgstr "Le CSS n’a pas pu être enregistré à cause des droits !!!"
+
+#: core/Options.php:37 core/Options.php:38 core/QUBELY.php:827
+msgid "Qubely"
+msgstr "Qubely"
+
+#: core/QUBELY.php:618
+msgid "Full"
+msgstr "Plein"
+
+#: core/admin-views/Settings.php:237
+msgid "Select where you want to save CSS"
+msgstr "Sélectionnez où vous souhaitez enregistrer le CSS"
+
+#: core/admin-views/Settings.php:240
+msgid "File System"
+msgstr "Fichier système"
+
+#: core/admin-views/Settings.php:239
+msgid "Header"
+msgstr "En-tête"
+
+#: core/admin-views/Getting_Started.php:102
+msgid "Documentation"
+msgstr "Documentation"
+
+#. Description of the plugin
+msgid "The one and only Gutenberg block plugin you will ever need."
+msgstr "La seule et unique extension de bloc Gutenberg dont vous aurez besoin."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.themeum.com/"
+msgstr "https://www.themeum.com/"

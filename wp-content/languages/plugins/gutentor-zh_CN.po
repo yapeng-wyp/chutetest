@@ -1,0 +1,1146 @@
+# Translation of Plugins - Gutentor &#8211; Gutenberg Blocks &#8211; Page Builder for Gutenberg Editor - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Gutentor &#8211; Gutenberg Blocks &#8211; Page Builder for Gutenberg Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-21 10:53:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Gutentor &#8211; Gutenberg Blocks &#8211; Page Builder for Gutenberg Editor - Stable (latest release)\n"
+
+#: includes/admin/settings/class-admin-settings.php:343 dist/blocks.build.js:1
+msgid "Disable"
+msgstr "禁用"
+
+#: includes/admin/settings/class-admin-settings.php:292 dist/blocks.build.js:1
+msgid "Grid"
+msgstr "网格"
+
+#: includes/admin/templates/settings.php:28 dist/blocks.build.js:1
+msgid "Optimization"
+msgstr "优化"
+
+#: includes/admin/class-gutentor-admin.php:396
+msgid " Insert an animated number to display the counter number."
+msgstr " 插入动画数字以显示计数器数字。"
+
+#: includes/admin/class-gutentor-admin.php:459
+msgid " Insert button group and it allows to added unlimited buttons."
+msgstr " 插入按钮组，它允许添加无限的按钮。"
+
+#: includes/dynamic-css.php:528
+msgid " create permission issue"
+msgstr " 创建权限问题"
+
+#: includes/dynamic-css.php:526
+msgid " created"
+msgstr " 创建"
+
+#: includes/dynamic-css.php:531
+msgid " exists"
+msgstr " 存在"
+
+#: includes/dynamic-css.php:524
+msgid " not exists"
+msgstr " 不存在"
+
+#: includes/block-base/class-gutentor-block-base.php:874
+#: includes/block-base/class-gutentor-block-base.php:1067
+#: includes/block-base/class-gutentor-block-base.php:3504
+#: includes/block-base/class-gutentor-block-base.php:3655
+#: dist/blocks.build.js:1
+msgid "#"
+msgstr "#"
+
+#: includes/block-templates/widgets/class-widget-blog-post-templates.php:109
+#: includes/block-base/class-gutentor-query-elements.php:375
+#: includes/block-base/class-gutentor-query-elements.php:444
+#: includes/block-base/class-gutentor-query-elements.php:1248
+#: includes/block-base/class-gutentor-query-elements.php:1271
+msgid ", "
+msgstr ", "
+
+#: includes/functions/functions.php:1335 dist/blocks.build.js:1
+msgid "1"
+msgstr "1"
+
+#: includes/admin/templates/getting-started-page.php:30
+msgid "1. Add New Page/Post"
+msgstr "1. 添加新页面/帖子"
+
+#: includes/admin/templates/getting-started-page.php:55
+msgid "2. Import Template Library or Add New Blocks"
+msgstr "2. 导入模板库或添加新块"
+
+#: includes/admin/templates/getting-started-page.php:86
+msgid "3. Start Designing"
+msgstr "3. 开始设计"
+
+#: includes/admin/class-gutentor-admin.php:549
+msgid "38 unique and lovely templates to showcase your Category and Term similar to Post (Type) Feature. Very useful to Blog, Magazine and E-commerce sites."
+msgstr "38 个独特而可爱的模板，以展示您的类别和术语类似于帖子（类型）功能。非常有用的博客，杂志和电子商务网站。"
+
+#: includes/admin/class-gutentor-admin.php:563 dist/blocks.build.js:1
+msgid "About Widget"
+msgstr "关于小工具"
+
+#: includes/admin/class-gutentor-admin.php:450
+msgid "Accordion "
+msgstr "手风琴 "
+
+#: includes/admin/class-gutentor-admin.php:567 dist/blocks.build.js:1
+msgid "Accordion Widget"
+msgstr "手风琴小工具"
+
+#: includes/admin/class-gutentor-admin.php:743
+msgid "Add Image"
+msgstr "添加图像"
+
+#: includes/admin/class-gutentor-admin.php:495
+msgid "Add tab items with tab title and content, allowed to add any gutentor element inside it."
+msgstr "添加包含选项卡标题和内容的选项卡项，允许在其内添加任何根特器元素。"
+
+#: includes/admin/templates/getting-started-page.php:32
+msgid "Adding Page"
+msgstr "添加页面"
+
+#: includes/admin/templates/getting-started-page.php:37
+msgid "Adding Post"
+msgstr "添加文章"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:35
+msgid "Addons Gutentor Block"
+msgstr "Gutentor区块扩展"
+
+#: includes/admin/class-gutentor-admin.php:454
+#: includes/admin/class-gutentor-admin.php:571 dist/blocks.build.js:1
+msgid "Advanced Columns"
+msgstr "高级专栏"
+
+#: includes/admin/class-gutentor-admin.php:512
+msgid "Advanced Post Module"
+msgstr "高级文章模块"
+
+#: includes/admin/class-gutentor-admin.php:387 dist/blocks.build.js:1
+msgid "Advanced Text"
+msgstr "進階文字"
+
+#: includes/admin/class-gutentor-admin.php:483
+msgid "Advanced gallery block which let you add any Gutentor Elements as gallery content. The Module Gallery Block also allows customizing the popup content as image and video."
+msgstr "高级画廊区块，允许您添加任何Gutentor元素作为画廊内容。模块画廊区块还允许将弹出窗口内容自定义为图像和视频。"
+
+#: includes/admin/templates/admin-page.php:5
+msgid "Advanced yet easy drag & drop WordPress block page builder. Create masterpiece, pixel perfect websites using modern WordPress way. Work with any theme, create any design."
+msgstr "高级但容易拖动和拖放 WordPress 块页面生成器。使用现代 WordPress 方式创建杰作，像素完美的网站。使用任何主题，创建任何设计。"
+
+#. Description of the plugin
+msgid "Advanced yet easy, Gutenberg editor page builder blocks. Create a masterpiece, pixel perfect websites using modern WordPress Gutenberg blocks."
+msgstr "用于Gutenberg编辑器的增强插件，由 WordPress大学 提供简体支持。"
+
+#: includes/admin/templates/getting-started-page.php:91
+#: includes/admin/templates/getting-started-page.php:117
+#: includes/admin/templates/getting-started-page.php:122
+msgid "Advanced: "
+msgstr "高级： "
+
+#: includes/admin/templates/getting-started-page.php:106
+msgid "After Adding a Block in the editor, It is ready to Design"
+msgstr "在编辑器中添加块后，即可进行设计"
+
+#: includes/admin/templates/getting-started-page.php:107
+msgid "At right sidebar of Edit screen, there are Document and Block Tabs, under %1$s Block Tab %2$s, you will find setting to respective block."
+msgstr "在\"编辑\"屏幕的右侧栏，有\"文档\"和\"块%1$s\"，%2$s块选项卡下，您将找到相应块的设置。"
+
+#: includes/admin/templates/getting-started-page.php:70
+msgid "At the top left corner of the page/post edit Screen, click on Sign"
+msgstr "在页面/编辑屏幕的左上角，单击按钮"
+
+#: includes/admin/templates/getting-started-page.php:60
+msgid "At the top of page/post edit Screen, click on “Template Library”"
+msgstr "在页面/文章编辑屏幕顶部，单击“模板库”"
+
+#: includes/block-base/class-gutentor-block-base.php:2147
+#: includes/block-base/class-gutentor-block-base.php:2169
+#: includes/block-base/class-gutentor-block-base.php:2482
+#: includes/block-base/class-gutentor-block-base.php:2508
+#: dist/blocks.build.js:1
+msgid "Author"
+msgstr "作者"
+
+#: includes/admin/class-gutentor-admin.php:575 dist/blocks.build.js:1
+msgid "Author Widget"
+msgstr "作者小部件"
+
+#: includes/admin/class-gutentor-admin.php:701 dist/blocks.build.js:1
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: includes/hooks.php:236
+msgid "Black"
+msgstr "黑"
+
+#: includes/tools/class-gutentor-self-api-handler.php:72
+#: includes/tools/class-gutentor-self-api-handler.php:78 dist/blocks.build.js:1
+msgid "Block ID"
+msgstr "区块 ID"
+
+#: includes/admin/templates/getting-started-page.php:113
+msgid "Block Items: "
+msgstr "区块项目： "
+
+#: includes/block-base/class-gutentor-block-base.php:3272
+#: dist/blocks.build.js:1
+msgid "Block Sub Title"
+msgstr "区块子标题"
+
+#: includes/block-base/class-gutentor-block-base.php:460
+#: includes/block-base/class-gutentor-block-base.php:573
+#: includes/block-base/class-gutentor-block-base.php:3192
+#: dist/blocks.build.js:1
+msgid "Block Title"
+msgstr "块标题"
+
+#: includes/admin/templates/getting-started-page.php:112
+msgid "Block Title: "
+msgstr "区块标题： "
+
+#: includes/admin/class-gutentor-admin.php:117
+#: includes/admin/class-gutentor-admin.php:118 dist/blocks.build.js:1
+msgid "Blocks"
+msgstr "区块"
+
+#: includes/admin/templates/getting-started-page.php:62
+msgid "Blocks: "
+msgstr "区块： "
+
+#: includes/hooks.php:296
+msgid "Blue"
+msgstr "蓝色"
+
+#: includes/admin/class-gutentor-admin.php:391
+#: includes/blocks/modules/class-gutentor-t1.php:168
+#: includes/block-base/class-gutentor-block-base.php:2133
+#: includes/block-base/class-gutentor-block-base.php:2468
+#: dist/blocks.build.js:1
+msgid "Button"
+msgstr "按钮"
+
+#: includes/admin/class-gutentor-admin.php:458 dist/blocks.build.js:1
+msgid "Button Group"
+msgstr "按钮组"
+
+#: includes/block-base/class-gutentor-query-elements.php:164
+#: includes/block-base/class-gutentor-query-elements.php:205
+msgid "By"
+msgstr "由"
+
+#: includes/dynamic-css.php:495
+msgid "CSS is not empty"
+msgstr "CSS 不为空"
+
+#: includes/admin/class-gutentor-admin.php:462 dist/blocks.build.js:1
+msgid "Carousel"
+msgstr "轮播"
+
+#: includes/block-base/class-gutentor-block-base.php:2155
+#: includes/block-base/class-gutentor-block-base.php:2177
+#: includes/block-base/class-gutentor-block-base.php:2490
+#: includes/block-base/class-gutentor-block-base.php:2516
+#: dist/blocks.build.js:1
+msgid "Category"
+msgstr "分类"
+
+#: includes/admin/class-gutentor-admin.php:748 dist/blocks.build.js:1
+msgid "Change Image"
+msgstr "更改图像"
+
+#: includes/tools/class-gutentor-self-api-handler.php:1195
+#: includes/tools/class-gutentor-self-api-handler.php:1207
+#: includes/tools/class-gutentor-templateberg.php:288
+#: includes/tools/class-gutentor-templateberg.php:300
+#: includes/tools/class-gutentor-advanced-import.php:316
+#: includes/tools/class-gutentor-advanced-import.php:328
+msgid "Cheatin&#8217; huh?"
+msgstr "开玩笑，呵？"
+
+#: includes/admin/settings/class-admin-settings.php:230
+#: includes/admin/settings/class-admin-settings.php:247
+#: includes/admin/settings/class-admin-settings.php:376
+msgid "Check to enable"
+msgstr "检查启用"
+
+#: includes/admin/templates/getting-started-page.php:35
+#: includes/admin/templates/getting-started-page.php:40
+msgid "Click here"
+msgstr "点击这里"
+
+#: includes/admin/class-gutentor-admin.php:513
+msgid "Combination of multiple blocks like Post Module, Post Header, Post Footer."
+msgstr "多个块的组合，如后模块，后头，后脚。"
+
+#: includes/block-base/class-gutentor-block-base.php:2159
+#: includes/block-base/class-gutentor-block-base.php:2181
+#: includes/block-base/class-gutentor-block-base.php:2494
+#: includes/block-base/class-gutentor-block-base.php:2520
+msgid "Comments"
+msgstr "评论"
+
+#: includes/admin/class-gutentor-admin.php:466
+msgid "Container/Cover Block"
+msgstr "容器/盖块"
+
+#: includes/admin/class-gutentor-admin.php:587 dist/blocks.build.js:1
+msgid "Content Widget"
+msgstr "内容小部件"
+
+#: includes/blocks/modules/class-gutentor-t1.php:160 dist/blocks.build.js:1
+msgid "Count"
+msgstr "总数"
+
+#: includes/admin/class-gutentor-admin.php:591 dist/blocks.build.js:1
+msgid "Countdown Widget"
+msgstr "倒计时小工具"
+
+#: includes/admin/class-gutentor-admin.php:395 dist/blocks.build.js:1
+msgid "Counter"
+msgstr "计数器"
+
+#: includes/admin/class-gutentor-admin.php:595 dist/blocks.build.js:1
+msgid "Counter Widget"
+msgstr "谷歌分析小工具"
+
+#: includes/hooks.php:241
+msgid "Dark Gray"
+msgstr "深灰色"
+
+#: includes/hooks.php:311
+msgid "Dark Orange\t"
+msgstr "深橙色\t"
+
+#: includes/block-base/class-gutentor-block-base.php:2151
+#: includes/block-base/class-gutentor-block-base.php:2173
+#: includes/block-base/class-gutentor-block-base.php:2486
+#: includes/block-base/class-gutentor-block-base.php:2512
+#: dist/blocks.build.js:1
+msgid "Date"
+msgstr "日期"
+
+#: includes/admin/settings/class-admin-settings.php:342 dist/blocks.build.js:1
+msgid "Default"
+msgstr "默认"
+
+#: includes/metabox/meta-box.php:111
+msgid "Demo URL"
+msgstr "演示网址"
+
+#: includes/blocks/modules/class-gutentor-t1.php:164
+#: includes/block-base/class-gutentor-block-base.php:2129
+#: includes/block-base/class-gutentor-block-base.php:2464
+#: dist/blocks.build.js:1
+msgid "Description/Excerpt"
+msgstr "描述/摘录"
+
+#: includes/admin/class-gutentor-admin.php:451
+msgid "Design collapsable items and pin any Gutentor Elements in Accordion Body."
+msgstr "设计可折叠物品，并在手风琴体中固定任何古森托元素。"
+
+#: includes/admin/class-gutentor-admin.php:517
+msgid "Design post in two different ways – Feature Post and Normal Post, post design will be more beautiful."
+msgstr "以两种不同的方式设计文章 - 精选文章和普通文章，文章设计将更美丽。"
+
+#: includes/admin/class-gutentor-admin.php:533
+msgid "Display Blog post with list and grid view from post module."
+msgstr "以列表和网格视图显示博客文章。"
+
+#: includes/admin/class-gutentor-admin.php:521
+msgid "Display Marquee, Vertical, Horizontal or Typewriter News Ticker from post or post type."
+msgstr "从文章或文章类型显示字幕，垂直，水平或打字机新闻滚动条。"
+
+#: includes/admin/class-gutentor-admin.php:404 dist/blocks.build.js:1
+msgid "Display a Google Map on your website with Google Map API."
+msgstr "使用 Google 地图 API 在您的网站上显示 Google 地图。"
+
+#: includes/admin/class-gutentor-admin.php:525
+msgid "Display post or post type in carousel mode."
+msgstr "在旋转木马模式下显示帖子或帖子类型。"
+
+#: includes/admin/class-gutentor-admin.php:529
+msgid "Display post with news and magazine style."
+msgstr "显示具有新闻和杂志风格的帖子。"
+
+#: includes/admin/class-gutentor-admin.php:399 dist/blocks.build.js:1
+msgid "Divider"
+msgstr "分隔器"
+
+#: includes/admin/class-gutentor-admin.php:400
+msgid "Divider differentiate sections and elements with shape."
+msgstr "分隔器使用形状区分截面和元素。"
+
+#: includes/admin/templates/admin-page.php:6
+#: includes/admin/templates/getting-started-page.php:131
+msgid "Documentation"
+msgstr "文档"
+
+#: includes/admin/class-gutentor-admin.php:516 dist/blocks.build.js:1
+msgid "Duplex Post Module"
+msgstr "双工后模块"
+
+#: includes/admin/class-gutentor-admin.php:470 dist/blocks.build.js:1
+msgid "Dynamic Columns"
+msgstr "动态列"
+
+#: includes/admin/templates/settings.php:34
+msgid "EDD"
+msgstr "EDD"
+
+#: includes/admin/templates/admin-page.php:16
+msgid "Elements"
+msgstr "元素"
+
+#: includes/admin/settings/class-admin-settings.php:144
+msgid "Enable Demo URL."
+msgstr "启用演示网址。"
+
+#: includes/admin/settings/class-admin-settings.php:112
+msgid "Enable Export Template Button."
+msgstr "启用导出模板按钮。"
+
+#: includes/admin/settings/class-admin-settings.php:83
+msgid "Enable Gutenberg Editor in Post Types."
+msgstr "在文章类型中启用古腾堡编辑器。"
+
+#: includes/admin/settings/class-admin-settings.php:94
+msgid "Enable Gutentor Page Templates in Post Types."
+msgstr "在文章类型中启用Gutentor页面模板。"
+
+#: includes/admin/settings/class-admin-settings.php:103
+msgid "Enable Template library in editor."
+msgstr "在编辑器中启用模板库。"
+
+#: includes/admin/settings/class-admin-settings.php:185
+msgid "Enabling Gutenberg Editor will also enable show_in_rest in post types."
+msgstr "启用古腾堡编辑器还将启用文章类型中的show_in_rest。"
+
+#: includes/dynamic-css.php:486
+msgid "Fail to get google fonts url"
+msgstr "未能得到谷歌字体网址"
+
+#: includes/admin/class-gutentor-admin.php:737
+#: includes/blocks/modules/class-gutentor-t1.php:152
+#: includes/block-base/class-gutentor-block-base.php:2117
+#: dist/blocks.build.js:1
+msgid "Featured Image"
+msgstr "特色图像"
+
+#: includes/admin/class-gutentor-admin.php:599 dist/blocks.build.js:1
+msgid "Featured Widget"
+msgstr "精选小部件"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:38
+msgid "Feel free to add Gutenberg Block on the Widgets"
+msgstr "随意在小部件上添加古腾堡块"
+
+#: includes/admin/templates/getting-started-page.php:64
+msgid "File: "
+msgstr "文件: "
+
+#: includes/admin/class-gutentor-admin.php:478 dist/blocks.build.js:1
+msgid "Filter"
+msgstr "筛选"
+
+#: includes/admin/class-gutentor-admin.php:479
+msgid "Filter block has module gallery all features with added primary/secondary filters items and searches filter. Filter block uses Module Gallery block as an inner block. "
+msgstr "筛选器块具有模块库的所有功能，添加了主/辅助筛选器项和搜索筛选器。筛选器块使用模块库块作为内部块。 "
+
+#: includes/admin/class-gutentor-admin.php:474 dist/blocks.build.js:1
+msgid "Form Wrapper"
+msgstr "表单容器"
+
+#: includes/blocks/modules/class-gutentor-p6.php:178
+#: includes/block-base/class-gutentor-block-base.php:2404
+#: dist/blocks.build.js:1
+msgid "Free"
+msgstr "免费"
+
+#: includes/admin/templates/getting-started-page.php:56
+msgid "From Edit screen of page/post, you can easily import Beautiful Templates"
+msgstr "在页面/文章的编辑屏幕中，您可以轻松导入漂亮的模板"
+
+#: includes/hooks.php:135 includes/hooks.php:161 dist/blocks.build.js:1
+msgid "Full"
+msgstr "完整的"
+
+#: includes/admin/class-gutentor-admin.php:482 dist/blocks.build.js:1
+msgid "Gallery"
+msgstr "图集"
+
+#: includes/admin/class-gutentor-admin.php:603 dist/blocks.build.js:1
+msgid "Gallery Widget"
+msgstr "画廊小部件"
+
+#: includes/admin/templates/settings.php:25
+#: includes/admin/templates/getting-started-page.php:110 dist/blocks.build.js:1
+msgid "General"
+msgstr "常规"
+
+#: includes/admin/templates/getting-started-page.php:90
+#: includes/admin/templates/getting-started-page.php:115
+msgid "General: "
+msgstr "常规： "
+
+#: includes/admin/class-gutentor-admin.php:109
+msgid "Getting Started"
+msgstr "入门"
+
+#: includes/admin/class-gutentor-admin.php:108
+msgid "Getting Started Page"
+msgstr "入门页面"
+
+#: includes/admin/templates/getting-started-page.php:6
+msgid "Getting Started To Gutentor"
+msgstr "开始使用Gutentor"
+
+#: includes/admin/templates/getting-started-page.php:34
+msgid "Go to Pages => Add New"
+msgstr "转到页面 => 新建页面"
+
+#: includes/admin/templates/getting-started-page.php:39
+msgid "Go to Posts => Add New"
+msgstr "转到文章 => 写文章"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:56
+msgid "Go to here to add Block"
+msgstr "转到此处添加块"
+
+#: includes/admin/class-gutentor-admin.php:403 dist/blocks.build.js:1
+msgid "Google Map"
+msgstr "Google 地图"
+
+#: includes/admin/class-gutentor-admin.php:607 dist/blocks.build.js:1
+msgid "Google Map Widget"
+msgstr "谷歌地图小工具"
+
+#: includes/dynamic-css.php:491
+msgid "Google fonts is empty"
+msgstr "谷歌字体为空"
+
+#: includes/dynamic-css.php:475
+msgid "Google fonts is not empty"
+msgstr "谷歌字体不为空"
+
+#. Author of the plugin
+#: includes/admin/class-gutentor-admin.php:73 includes/metabox/meta-box.php:92
+#: includes/init.php:110 dist/blocks.build.js:1
+msgid "Gutentor"
+msgstr "古森托"
+
+#. Plugin Name of the plugin
+msgid "Gutentor - Gutenberg Blocks - Page Builder for Gutenberg Editor"
+msgstr "Gutentor"
+
+#: includes/admin/templates/admin-page.php:4
+msgid "Gutentor - WordPress Page Building Blocks"
+msgstr "Gutentor - WordPress 页面构建区块"
+
+#: includes/hooks.php:1034
+msgid "Gutentor Canvas"
+msgstr "Gutentor画布"
+
+#: includes/admin/templates/admin-page.php:7
+#: includes/admin/templates/getting-started-page.php:134
+msgid "Gutentor Demo"
+msgstr "Gutentor演示"
+
+#: includes/hooks.php:189
+msgid "Gutentor Elements"
+msgstr "Gutentor元素"
+
+#: includes/hooks.php:1033
+msgid "Gutentor Full Width"
+msgstr "古森托全宽"
+
+#: includes/hooks.php:193
+msgid "Gutentor Modules"
+msgstr "古森托模块"
+
+#: includes/hooks.php:98
+msgid "Gutentor Options"
+msgstr "古森托选项"
+
+#: includes/hooks.php:197
+msgid "Gutentor Posts"
+msgstr "Gutentor文章"
+
+#: includes/hooks.php:109 includes/admin/templates/settings.php:22
+#: dist/blocks.build.js:1
+msgid "Gutentor Settings"
+msgstr "Gutentor设置"
+
+#: includes/hooks.php:201
+msgid "Gutentor Terms"
+msgstr "古森托条款"
+
+#: includes/hooks.php:205
+msgid "Gutentor Widgets"
+msgstr "古森托小工具"
+
+#: includes/dynamic-css.php:470
+msgid "Have Post ID "
+msgstr "具有文章 ID "
+
+#: includes/admin/templates/getting-started-page.php:31
+msgid "Here is the steps to add page/post in WordPress"
+msgstr "下面是在 WordPress 中添加页面/帖子的步骤"
+
+#: includes/admin/class-gutentor-admin.php:711
+#: includes/admin/class-gutentor-admin.php:726 dist/blocks.build.js:1
+msgid "Hover"
+msgstr "悬停"
+
+#: includes/admin/class-gutentor-admin.php:407 dist/blocks.build.js:1
+msgid "Icon"
+msgstr "图标"
+
+#: includes/admin/class-gutentor-admin.php:486
+msgid "Icon Group "
+msgstr "图标组 "
+
+#: includes/admin/class-gutentor-admin.php:611 dist/blocks.build.js:1
+msgid "Icon Widget"
+msgstr "图标小部件"
+
+#: includes/admin/class-gutentor-admin.php:411 dist/blocks.build.js:1
+msgid "Image"
+msgstr "图像"
+
+#: includes/admin/class-gutentor-admin.php:619 dist/blocks.build.js:1
+msgid "Image Slider Widget"
+msgstr "图像滑块小部件"
+
+#: includes/admin/class-gutentor-admin.php:615 dist/blocks.build.js:1
+msgid "Image Widget"
+msgstr "图像小工具"
+
+#: includes/admin/templates/getting-started-page.php:63
+msgid "Import Beautiful Stunning Templates"
+msgstr "导入美丽的令人惊叹的模板"
+
+#: includes/admin/templates/getting-started-page.php:64
+msgid "Import Demo Data from JSON file"
+msgstr "从 JSON 文件导入演示数据"
+
+#: includes/admin/templates/getting-started-page.php:57
+msgid "Import template library"
+msgstr "导入模板库"
+
+#: includes/admin/class-gutentor-admin.php:455
+msgid "Insert advanced columns to create customizable columns within the page. "
+msgstr "插入高级列以在页面中创建可自定义的列。 "
+
+#: includes/admin/class-gutentor-admin.php:408
+msgid "Insert an icon to symbolize the text"
+msgstr "插入图标对文本进行符号化"
+
+#: includes/admin/class-gutentor-admin.php:412 dist/blocks.build.js:1
+msgid "Insert an image to create extra value on the content."
+msgstr "插入图像以在内容上创造额外价值。"
+
+#: includes/admin/class-gutentor-admin.php:463
+msgid "Insert carousel column and add element inside the columns. "
+msgstr "插入轮播列，并在列内添加元素。 "
+
+#: includes/admin/class-gutentor-admin.php:467
+msgid "Insert container and add any block, it facilitates as like wrapper."
+msgstr "插入容器并添加任何块，它便于像包装器。"
+
+#: includes/admin/class-gutentor-admin.php:471
+msgid "Insert dynamic columns to insert unlimited predefined columns "
+msgstr "插入动态列以插入无限的预定义列 "
+
+#: includes/admin/class-gutentor-admin.php:487 dist/blocks.build.js:1
+msgid "Insert multiple icons in the Icon Group and create beautiful social profile links and icon designs."
+msgstr "在图标组中插入多个图标，并创建美丽的社交配置文件链接和图标设计。"
+
+#: includes/admin/class-gutentor-admin.php:491
+msgid "Insert slider container and add elements within the container."
+msgstr "插入滑块容器，并在容器中添加元素。"
+
+#: includes/admin/class-gutentor-admin.php:388
+msgid "Insert text with advanced options "
+msgstr "使用高级选项插入文本 "
+
+#: includes/admin/class-gutentor-admin.php:432
+msgid "Insert text with minimal options "
+msgstr "插入带有最少选项的文本 "
+
+#: includes/admin/class-gutentor-admin.php:420
+msgid "Insert the pricing to showcase the price of the product."
+msgstr "插入定价以展示产品的价格。"
+
+#: includes/admin/class-gutentor-admin.php:428
+msgid "Insert the rating element to represent the rating from 1-5 star."
+msgstr "插入额定值元素以表示 1-5 星的评级。"
+
+#: includes/admin/class-gutentor-admin.php:436
+msgid "Insert video in your website."
+msgstr "在您的网站中插入视频。"
+
+#: includes/admin/templates/getting-started-page.php:12
+msgid "Intro Video"
+msgstr "介绍视频"
+
+#: includes/admin/templates/getting-started-page.php:115
+msgid "It consists functional setting like select, enable and disable the features of the block. "
+msgstr "它包含功能设置，如选择、启用和禁用块的功能。 "
+
+#: includes/admin/templates/getting-started-page.php:117
+msgid "It consists of margin/padding and animation setting of block items."
+msgstr "它由区块项目的外边距/内边距和动画设置组成。"
+
+#: includes/admin/templates/getting-started-page.php:91
+#: includes/admin/templates/getting-started-page.php:122
+msgid "It consists of set of Advanced Setting which effect whole Block Section."
+msgstr "它由一组高级设置组成，用于影响整个块部分。"
+
+#: includes/admin/templates/getting-started-page.php:113
+msgid "It is Main part of block setting which consist of 3 tabs like general, style and advanced."
+msgstr "它是区块设置的主要部分，由3个选项卡组成，如常规、样式和高级。"
+
+#: includes/block-base/class-gutentor-block-base.php:2739
+#: dist/blocks.build.js:1
+msgid "Items"
+msgstr "项目"
+
+#: includes/hooks.php:286
+msgid "Light Cyan"
+msgstr "浅绿色"
+
+#: includes/hooks.php:266
+msgid "LightPink"
+msgstr "光粉红"
+
+#: includes/admin/class-gutentor-admin.php:415 dist/blocks.build.js:1
+msgid "List"
+msgstr "列表"
+
+#: includes/hooks.php:321
+msgid "Maroon\t"
+msgstr "栗色\t"
+
+#: includes/admin/templates/admin-page.php:17
+msgid "Modules"
+msgstr "模块"
+
+#: includes/hooks.php:301
+msgid "Navy"
+msgstr "深蓝"
+
+#: includes/tools/class-gutentor-extend-api.php:80
+#: includes/tools/class-gutentor-extend-api.php:102
+#: includes/block-base/class-gutentor-query-elements.php:2277
+#: includes/block-base/class-gutentor-query-elements.php:2298
+#: includes/block-base/class-gutentor-query-elements.php:2319
+#: includes/block-base/class-gutentor-query-elements.php:2340
+msgid "New!"
+msgstr "新的！"
+
+#: includes/blocks/modules/class-gutentor-p5.php:158 dist/blocks.build.js:1
+msgid "News"
+msgstr "新闻"
+
+#: includes/admin/class-gutentor-admin.php:520
+msgid "News Ticker"
+msgstr "新闻速递"
+
+#: includes/dynamic-css.php:541
+msgid "No Post ID "
+msgstr "没有文章ID "
+
+#: includes/admin/class-gutentor-admin.php:703
+#: includes/admin/class-gutentor-admin.php:718 dist/blocks.build.js:1
+msgid "Normal"
+msgstr "标准"
+
+#: includes/admin/templates/getting-started-page.php:35
+#: includes/admin/templates/getting-started-page.php:40
+msgid "OR"
+msgstr "或"
+
+#: includes/admin/templates/getting-started-page.php:72
+msgid "OR Scroll down and navigate to Gutentor section and Add New Block."
+msgstr "或向下滚动并导航至Gutentor部分，然后添加新区块。"
+
+#: includes/admin/class-gutentor-admin.php:623 dist/blocks.build.js:1
+msgid "Opening Hours Widget"
+msgstr "开放时间窗口小部件"
+
+#: includes/hooks.php:306
+msgid "Orange"
+msgstr "橙"
+
+#: includes/hooks.php:271
+msgid "Orchid"
+msgstr "兰花"
+
+#: includes/admin/settings/class-admin-settings.php:171
+#: includes/admin/settings/class-admin-settings.php:203
+msgid "Page"
+msgstr "页面"
+
+#: includes/tools/class-gutentor-self-api-handler.php:66
+msgid "Page Number (Paged) "
+msgstr "页数（分页） "
+
+#: includes/hooks.php:291
+msgid "PaleGreen"
+msgstr "淡绿色"
+
+#: includes/dynamic-css.php:537
+msgid "Permission denied to create css file "
+msgstr "无权创建 css 文件 "
+
+#: includes/hooks.php:261
+msgid "Pink"
+msgstr "粉"
+
+#: includes/admin/settings/class-admin-settings.php:166
+msgid "Post"
+msgstr "文章"
+
+#: includes/admin/class-gutentor-admin.php:524
+msgid "Post Carousel"
+msgstr "文章轮播"
+
+#: includes/admin/class-gutentor-admin.php:528
+msgid "Post Feature Module"
+msgstr "发布功能模块"
+
+#: includes/admin/class-gutentor-admin.php:532 dist/blocks.build.js:1
+msgid "Post Module"
+msgstr "文章模块"
+
+#: includes/admin/class-gutentor-admin.php:579 dist/blocks.build.js:1
+msgid "Post Widget"
+msgstr "文章小工具"
+
+#: includes/admin/templates/admin-page.php:18
+msgid "Posts"
+msgstr "文章"
+
+#: includes/block-base/class-gutentor-block-base.php:2375
+#: dist/blocks.build.js:1
+msgid "Preview"
+msgstr "预览"
+
+#: includes/admin/class-gutentor-admin.php:419 dist/blocks.build.js:1
+msgid "Pricing"
+msgstr "价格"
+
+#: includes/admin/class-gutentor-admin.php:627 dist/blocks.build.js:1
+msgid "Pricing Widget"
+msgstr "定价小部件"
+
+#: includes/block-base/class-gutentor-block-base.php:2125
+#: includes/block-base/class-gutentor-block-base.php:2460
+#: dist/blocks.build.js:1
+msgid "Primary Entry Meta"
+msgstr "主条目元"
+
+#: includes/admin/class-gutentor-admin.php:423 dist/blocks.build.js:1
+msgid "Progress Bar"
+msgstr "进度条"
+
+#: includes/admin/class-gutentor-admin.php:631 dist/blocks.build.js:1
+msgid "Progress Bar Widget"
+msgstr "进度条小工具"
+
+#: includes/admin/class-gutentor-admin.php:392 dist/blocks.build.js:1
+msgid "Prompt visitors to take action with attractive buttons."
+msgstr "用吸引人的按钮提示访客采取行动。"
+
+#: includes/tools/class-gutentor-extend-api.php:247
+msgid "Purchase"
+msgstr "购买"
+
+#: includes/admin/class-gutentor-admin.php:427 dist/blocks.build.js:1
+msgid "Rating"
+msgstr "评分"
+
+#: includes/blocks/widgets/class-gutentor-blog-post.php:163
+#: includes/blocks/widgets/class-gutentor-blog-post.php:335
+#: includes/block-base/class-gutentor-block-base.php:2289
+#: includes/block-base/class-gutentor-block-base.php:2624
+#: includes/block-base/class-gutentor-block-base.php:2867
+#: dist/blocks.build.js:1
+msgid "Read More"
+msgstr "继续阅读"
+
+#: includes/admin/class-gutentor-admin.php:416
+msgid "Represent the paragraphs in tabbed styles"
+msgstr "用选项卡样式表示段落"
+
+#: includes/tools/class-gutentor-templateberg.php:55
+#: includes/tools/class-gutentor-advanced-import.php:56
+msgid "Reset True or False"
+msgstr "重置真或假"
+
+#: includes/admin/class-gutentor-admin.php:635 dist/blocks.build.js:1
+msgid "Restaurant Menu Widget"
+msgstr "餐厅菜单小工具"
+
+#: includes/tools/class-gutentor-extend-api.php:182
+#: includes/block-base/class-gutentor-query-elements.php:2162
+#: includes/block-base/class-gutentor-query-elements.php:2185
+msgid "Sale!"
+msgstr "销售！"
+
+#: includes/admin/templates/getting-started-page.php:62
+msgid "Search and Import Elegant Blocks"
+msgstr "搜索并导入优雅图区块"
+
+#: includes/block-base/class-gutentor-block-base.php:2137
+#: includes/block-base/class-gutentor-block-base.php:2472
+#: dist/blocks.build.js:1
+msgid "Secondary Entry Meta"
+msgstr "辅助条目元"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:82
+msgid "Select Block"
+msgstr "选择块"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:74
+msgid "Select Block:"
+msgstr "选择区块："
+
+#: includes/admin/class-gutentor-admin.php:742
+msgid "Select Image"
+msgstr "选择图象"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:76
+msgid "Select block and its content will display in the frontend."
+msgstr "选择块，其内容将显示在前端。"
+
+#: includes/admin/templates/getting-started-page.php:112
+msgid "Setting related to block title."
+msgstr "与区块标题相关的设置。"
+
+#: includes/admin/settings/class-admin-settings.php:41
+#: includes/admin/settings/class-admin-settings.php:42
+msgid "Settings"
+msgstr "设置"
+
+#: includes/admin/templates/settings.php:13
+msgid "Settings Saved"
+msgstr "设置已保存"
+
+#: includes/admin/class-gutentor-admin.php:424
+msgid "Showcase the progress of the work in an animated form."
+msgstr "以动画形式展示作品的进度。"
+
+#: includes/hooks.php:246
+msgid "Silver"
+msgstr "银色"
+
+#: includes/admin/class-gutentor-admin.php:545
+msgid "Similar like Post (Type) block but in Term (Category) you can customize any term with beautiful design."
+msgstr "类似于邮政 （类型） 块， 但在术语 （类别）， 你可以自定义任何术语与美丽的设计。"
+
+#: includes/admin/class-gutentor-admin.php:431 dist/blocks.build.js:1
+msgid "Simple Text"
+msgstr "简单文字"
+
+#: includes/hooks.php:281
+msgid "Sky Blue"
+msgstr "天蓝色"
+
+#: includes/admin/class-gutentor-admin.php:490
+msgid "Slider "
+msgstr "幻灯 "
+
+#: includes/tools/class-gutentor-self-api-handler.php:508
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "抱歉，您不能在此文章类型中编辑文章。"
+
+#: includes/tools/class-gutentor-templateberg.php:89
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "抱歉，您不能在此站点上安装插件。"
+
+#: includes/admin/templates/getting-started-page.php:116
+msgid "Style tabs consists of different styling setting of the block item."
+msgstr "样式选项卡由块项的不同样式设置组成。"
+
+#: includes/admin/templates/getting-started-page.php:116
+msgid "Style: "
+msgstr "样式： "
+
+#: includes/dynamic-css.php:535
+msgid "Successfully created css file "
+msgstr "已成功创建 css 文件 "
+
+#: includes/dynamic-css.php:478
+msgid "Successfully get google fonts url"
+msgstr "成功获取 google 字体网址"
+
+#: includes/dynamic-css.php:481
+msgid "Successfully saved google fonts url"
+msgstr "已成功保存Google字体网址"
+
+#: includes/dynamic-css.php:513
+msgid "Successfully saved gutentor dynamic css"
+msgstr "已成功保存肠胃动态 css"
+
+#: includes/admin/class-gutentor-admin.php:494
+msgid "Tabs "
+msgstr "选项卡 "
+
+#: includes/admin/class-gutentor-admin.php:643 dist/blocks.build.js:1
+msgid "Tabs Widget"
+msgstr "选项卡小工具"
+
+#: includes/block-base/class-gutentor-block-base.php:2498
+#: includes/block-base/class-gutentor-block-base.php:2524
+#: dist/blocks.build.js:1
+msgid "Tag"
+msgstr "标签"
+
+#: includes/tools/class-gutentor-self-api-handler.php:143
+msgid "Taxonomy"
+msgstr "分类"
+
+#: includes/admin/class-gutentor-admin.php:647 dist/blocks.build.js:1
+msgid "Team Widget"
+msgstr "团队小工具"
+
+#: includes/admin/templates/getting-started-page.php:63
+msgid "Templates: "
+msgstr "模板： "
+
+#: includes/admin/class-gutentor-admin.php:544 dist/blocks.build.js:1
+msgid "Term (Category)"
+msgstr "术语（类别）"
+
+#: includes/admin/class-gutentor-admin.php:553
+msgid "Term (Category) Carousel Block use Term (Category) as an inner block. You will find almost every options to customize your Term (Category) Carousel."
+msgstr "术语（类别）旋转木马块使用术语（类别）作为内部块。你会发现几乎每一个选项自定义您的术语（类别）旋转木马。"
+
+#: includes/admin/class-gutentor-admin.php:548 dist/blocks.build.js:1
+msgid "Term (Category) Feature"
+msgstr "特色术语（分类）"
+
+#: includes/admin/class-gutentor-admin.php:552 dist/blocks.build.js:1
+msgid "Term Category Carousel"
+msgstr "分类法轮播"
+
+#: includes/admin/templates/admin-page.php:19 dist/blocks.build.js:1
+msgid "Terms"
+msgstr "条款"
+
+#: includes/admin/class-gutentor-admin.php:651
+msgid "Testimonial"
+msgstr "推荐信"
+
+#: includes/admin/class-gutentor-admin.php:716 dist/blocks.build.js:1
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: includes/admin/class-gutentor-admin.php:572
+msgid "The Advanced block has a number of advanced features of a column where it facilitates user to choose layout of row in term of column.e.g 1 column, 2 column layout and many more."
+msgstr "高级块具有一列的许多高级功能，它便于用户选择列中的行布局，例如 1 列、2 列布局等。"
+
+#: includes/hooks.php:109
+msgid "The options is moved on Editor of the Page/Post %1$s"
+msgstr "选项已移至页面/文章%1$s的编辑器"
+
+#: includes/tools/class-gutentor-self-api-handler.php:1062
+msgid "The page number requested is larger than the number of pages available."
+msgstr "请求的页码大于总页数。"
+
+#: includes/admin/class-gutentor-admin.php:655 dist/blocks.build.js:1
+msgid "Timeline Widget"
+msgstr "时间线小组件"
+
+#: includes/blocks/modules/class-gutentor-t1.php:156
+#: includes/block-base/class-gutentor-block-base.php:2121
+#: includes/block-base/class-gutentor-block-base.php:2456
+#: dist/blocks.build.js:1
+msgid "Title"
+msgstr "标题"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:60
+msgid "Title (Optional)"
+msgstr "标题（可选）"
+
+#: includes/admin/templates/getting-started-page.php:68
+msgid "To add fresh block follow below steps"
+msgstr "要添加新区块，请执行以下步骤"
+
+#: includes/hooks.php:316
+msgid "Tomato\t"
+msgstr "番茄\t"
+
+#: includes/admin/templates/getting-started-page.php:71
+msgid "Type Block name in search bar, if you already know the block name."
+msgstr "如果已经知道块名称，则在搜索栏中键入块名称。"
+
+#: includes/tools/class-gutentor-advanced-import.php:78
+msgid "URL of the JSON file."
+msgstr "JSON文件的网址。"
+
+#: includes/tools/class-gutentor-templateberg.php:156
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "无法连接到文件系统。 请确认您的凭据。"
+
+#: includes/tools/class-gutentor-advanced-import.php:264 dist/blocks.build.js:1
+msgid "Untitled"
+msgstr "未命名"
+
+#: includes/admin/class-gutentor-admin.php:475
+msgid "Use (contact form) shortcode and design form input field, text area and button according to your need."
+msgstr "根据需要使用（联系表单）简码和设计表格输入字段，文本区域和按钮。"
+
+#: includes/admin/class-gutentor-admin.php:435 dist/blocks.build.js:1
+msgid "Video Popup"
+msgstr "视频弹出"
+
+#: includes/admin/class-gutentor-admin.php:659 dist/blocks.build.js:1
+msgid "Video Popup Widget"
+msgstr "视频弹出部件"
+
+#: includes/admin/templates/getting-started-page.php:16
+msgid "Video Tutorials"
+msgstr "视频教程"
+
+#: includes/block-base/class-gutentor-block-base.php:870
+#: includes/block-base/class-gutentor-block-base.php:1063
+#: includes/block-base/class-gutentor-block-base.php:3503
+#: includes/block-base/class-gutentor-block-base.php:3654
+#: dist/blocks.build.js:1
+msgid "View More"
+msgstr "查看更多"
+
+#: includes/hooks.php:276
+msgid "Violet"
+msgstr "紫色"
+
+#: includes/hooks.php:256
+msgid "White"
+msgstr "白"
+
+#: includes/hooks.php:251
+msgid "White Smoke"
+msgstr "白烟"
+
+#: includes/admin/templates/admin-page.php:20
+msgid "Widgets"
+msgstr "小工具"
+
+#: includes/admin/templates/getting-started-page.php:9
+msgid "WordPress Page Building Blocks"
+msgstr "WordPress 页面构建区块"
+
+#. Author URI of the plugin
+msgid "https://www.gutentor.com/"
+msgstr "https://www.gutentor.com/"

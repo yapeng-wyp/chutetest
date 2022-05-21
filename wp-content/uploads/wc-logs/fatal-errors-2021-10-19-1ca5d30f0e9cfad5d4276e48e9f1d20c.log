@@ -1,0 +1,144 @@
+2021-10-19T07:02:58+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:05:51+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:07:03+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:07:14+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:07:33+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:07:40+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:08:15+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:11:33+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:11:48+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:13:48+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:24:58+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:26:06+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:26:25+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:27:11+00:00 CRITICAL Uncaught Error: Call to a member function enqueue_styles() on null in E:\laragon\www\chutetest\wp-content\plugins\header-footer-elementor\inc\class-header-footer-elementor.php:385
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): Header_Footer_Elementor->enqueue_scripts('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-includes\script-loader.php(2083): do_action('wp_enqueue_scri...')
+#4 E:\laragon\www\chutetest\wp-includes\class-wp-customize-manager.php(454): wp_enqueue_scripts()
+#5 E:\laragon\www\chutetest\wp-includes\class-wp-customize-manager.php(551): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->setup_theme('')
+#7 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 E:\larag dans E:\laragon\www\chutetest\wp-content\plugins\header-footer-elementor\inc\class-header-footer-elementor.php à la ligne 385
+
+2021-10-19T07:27:11+00:00 CRITICAL Uncaught Error: Call to a member function enqueue_styles() on null in E:\laragon\www\chutetest\wp-content\plugins\header-footer-elementor\inc\class-header-footer-elementor.php:385
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): Header_Footer_Elementor->enqueue_scripts('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-includes\script-loader.php(2083): do_action('wp_enqueue_scri...')
+#4 E:\laragon\www\chutetest\wp-includes\class-wp-customize-manager.php(454): wp_enqueue_scripts()
+#5 E:\laragon\www\chutetest\wp-includes\class-wp-customize-manager.php(551): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->setup_theme('')
+#7 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 E:\larag dans E:\laragon\www\chutetest\wp-content\plugins\header-footer-elementor\inc\class-header-footer-elementor.php à la ligne 385
+
+2021-10-19T07:27:59+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+
+2021-10-19T07:28:12+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_data() in E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php:64
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(359): Automattic\WooCommerce\Blocks\RestApi->get_routes_from_namespace('wc/store')
+#1 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php(512): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_data(Array)
+#2 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(297): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->enqueue_data(Array)
+#3 E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php(85): Automattic\WooCommerce\Blocks\BlockTypes\AbstractBlock->enqueue_assets(Array)
+#4 E:\laragon\www\chu dans E:\laragon\www\chutetest\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\RestApi.php à la ligne 64
+

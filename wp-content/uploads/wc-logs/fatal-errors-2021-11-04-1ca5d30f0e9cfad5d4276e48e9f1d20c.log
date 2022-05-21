@@ -1,0 +1,84 @@
+2021-11-04T08:27:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1427): do_action('woocommerce_car...')
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-04T08:27:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1427): do_action('woocommerce_car...')
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-04T08:29:49+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1407): do_action('woocommerce_car...')
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-04T08:29:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee('')
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1407): do_action('woocommerce_car...')
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-04T08:30:09+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1407): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+
+2021-11-04T08:30:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php:1381
+Stack trace:
+#0 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(303): woo_ccpu_fee(NULL)
+#1 E:\laragon\www\chutetest\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 E:\laragon\www\chutetest\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php(1407): do_action('woocommerce_car...', NULL)
+#4 E:\laragon\www\chutetest\wp-settings.php(546): include('E:\\laragon\\www\\...')
+#5 E:\laragon\www\chutetest\wp-config.php(102): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\chutetest\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\chutetest\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#8 E:\laragon\www\chutetest\index.php(17): require('E:\\laragon\\www\\...')
+#9 {main}
+  thrown dans E:\laragon\www\chutetest\wp-content\themes\generatepress_child\functions.php à la ligne 1381
+

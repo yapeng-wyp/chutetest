@@ -1,0 +1,30 @@
+/*
+ Theme Name:   GeneratePress Child
+ Theme URI:    https://generatepress.com
+ Description:  Default GeneratePress child theme
+ Author:       Tom Usborne
+ Author URI:   https://tomusborne.com
+ Template:     generatepress
+ Version:      0.1
+*/
+
+
+.hfe-nav-menu__layout-horizontal li.menu-item, .hfe-nav-menu__layout-horizontal > li.menu-item {
+    font-size: 30px;
+}
+
+.wp-block-cover-image .wp-block-cover__inner-container, .wp-block-cover .wp-block-cover__inner-container {
+    color: #000;
+}
+
+.gutentor-image-thumb img {
+    /*width:1388px;*/
+    height:666px;
+    width: auto\9;
+    width:100%;
+}
+
+.wp-block-cover p:not(.has-text-color) {
+    color: inherit;
+    display: none;
+}
