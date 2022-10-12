@@ -1589,4 +1589,66 @@ function remove_certificate(){
             }
         }
     }
+	
 }
+
+function generate_chutes_json()
+{
+    print_r('hello world!!');die;
+    global $wpdb, $woocommerce;
+    $productAllData = array();
+    $selectSql = $wpdb->prepare("SELECT ID , post_title as chute_name FROM $wpdb->posts WHERE post_type = %s ", 'product');
+    $result = $wpdb->get_results($selectSql, 'OBJECT');
+    foreach ($result as $res_val) {
+        $data_arr = array();
+        $goods_infoSql = $wpdb->prepare("SELECT $wpdb->postmeta.* FROM $wpdb->postmeta WHERE $wpdb->postmeta.post_id = %d",$res_val->ID);
+        $goods_info = $wpdb->get_results($goods_infoSql, 'OBJECT');
+        $keys = array();
+        foreach ($goods_info as $goodKey => $goodVal) {
+            array_push($keys, $goodVal->meta_key);
+        }
+        if (in_array('_sku', $keys)) :
+            foreach ($goods_info as $goodKey => $goodVal) {
+                if ($goodVal->meta_key == '_weight') $data_arr['weight'] = $goodVal->meta_value;
+                if ($goodVal->meta_key == 'diameter_largeur_cote') $data_arr['diameter'] = $goodVal->meta_value;
+                if ($goodVal->meta_key == 'epaisseur') $data_arr['epaisseur'] = $goodVal->meta_value;
+                if ($goodVal->meta_key == 'longueur') $data_arr['longueur'] = $goodVal->meta_value;
+                if ($goodVal->meta_key == '_price') $data_arr['prixht'] = $goodVal->meta_value;
+                if ($goodVal->meta_key == '_sku') $data_arr['chute_id'] = $goodVal->meta_value;
+            }
+            $cate_infoSql = $wpdb->prepare("SELECT $wpdb->terms.name as cate FROM $wpdb->terms LEFT JOIN $wpdb->term_taxonomy ON $wpdb->term_taxonomy.term_id = $wpdb->terms.term_id LEFT JOIN $wpdb->term_relationships ON $wpdb->term_relationships.term_taxonomy_id = $wpdb->term_taxonomy.term_taxonomy_id WHERE $wpdb->term_taxonomy.taxonomy = %s AND $wpdb->term_relationships.object_id = %d ", array('product_cat', $res_val->ID));
+            $cate = $wpdb->get_var($cate_infoSql);
+            $data_arr['cate'] = $cate;
+            $parent_cateSql = $wpdb->prepare("SELECT name FROM $wpdb->terms LEFT JOIN $wpdb->term_taxonomy ON $wpdb->term_taxonomy.term_id = $wpdb->terms.term_id WHERE $wpdb->term_taxonomy.term_id = (SELECT parent FROM $wpdb->term_taxonomy WHERE term_id = (SELECT term_id FROM $wpdb->terms WHERE name = %s ORDER BY term_id ASC LIMIT 1 ))", $cate);
+            $parent = $wpdb->get_var($parent_cateSql);
+            $data_arr['parents'] = $parent;
+            $shape_infoSql = $wpdb->prepare("SELECT $wpdb->terms.name as shape FROM $wpdb->terms LEFT JOIN $wpdb->term_taxonomy ON $wpdb->term_taxonomy.term_id = $wpdb->terms.term_id LEFT JOIN $wpdb->term_relationships ON $wpdb->term_relationships.term_taxonomy_id = $wpdb->term_taxonomy.term_taxonomy_id WHERE $wpdb->term_taxonomy.taxonomy = %s AND $wpdb->term_relationships.object_id = %d ", array('product_tag', $res_val->ID));
+            $shape = $wpdb->get_var($shape_infoSql);
+            $data_arr['shape'] = $shape;
+            $data_arr['name'] = $res_val->chute_name;
+        endif;
+//        echo '<pre>';print_r(json_encode($data_arr));echo '</pre>';die;
+        $productAllData[$res_val->ID] = json_encode($data_arr);
+        if (json_last_error() !== 0 ) {
+            echo json_last_error_msg().'<hr>'.$res_val->ID.'<br/>';
+        }
+    }
+    $product_all_json = json_encode($productAllData);
+
+    /*return $product_all_json;*/
+    $newF = fopen( dirname(__DIR__).'/../uploads/qualichutes_chute.json','w+');
+    fwrite($newF, $product_all_json);
+    fclose($newF);
+}
+add_action('chute_json', 'generate_chutes_json');
+
+
+function chutejson_shortcodes()
+{
+    add_shortcode('qualichute_json', 'call_chute_hook');
+}
+
+function call_chute_hook(){
+    do_action('chute_json');
+}
+add_action('init', 'chutejson_shortcodes');
